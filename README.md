@@ -19,7 +19,7 @@
     <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
   </a>
   <!-- Kotlin -->
-  <a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlinn">
+  <a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin">
     <img src="./assets/kotlin.svg" alt="kotlin" tittle="Kotlin" width="70" height="70">
   </a>
   <!-- Python -->
