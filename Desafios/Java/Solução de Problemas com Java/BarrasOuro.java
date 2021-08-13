@@ -44,80 +44,81 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class BarrasOuro {
-  static int cargoCapacity;
-  class Edge {
-    Vertex destinationVertex;
-    int weight;
+public class BarrasDeOuro {
+    static int cargoCapacity;
 
-    Edge(Vertex destinationVertex, int weight) {
-      this.destinationVertex = destinationVertex;
-      this.weight = weight;
-    }
-  }
+    class Node {
+        Fief destinationFief;
+        int weight;
 
-  class Vertex {
-    double taxQuantity;
-    List<Edge> edgesList;
-
-    public Vertex(int taxQuantity) {
-      this.taxQuantity = taxQuantity;
-      this.edgesList = new ArrayList<>();
+        Node(Fief destinationFief, int weight) {
+            this.destinationFief = destinationFief;
+            this.weight = weight;
+        }
     }
 
-    public void addPath(Vertex destinationVertex, int weight) {
-      edgesList.add(new Edge(destinationVertex, weight));
-    }
+    class Fief {
+        double taxQuantity;
+        List<Node> edgesList;
 
-    public int calculateTotalDistance(Vertex previousCity) {
-      int totalDistance = 0;
-      int travelsNumber = 0;
-
-      for (var edge : edgesList) {
-        if (edge.destinationVertex == previousCity) {
-          continue;
+        public Fief(int taxQuantity) {
+            this.taxQuantity = taxQuantity;
+            this.edgesList = new ArrayList<>();
         }
 
-        totalDistance += edge.destinationVertex.calculateTotalDistance(this);
-        travelsNumber = (int) Math.ceil(edge.destinationVertex.taxQuantity / GoldBars.cargoCapacity) * 2;
-        totalDistance += travelsNumber * edge.weight;
-        this.taxQuantity += edge.destinationVertex.taxQuantity;
-      }
-      return totalDistance;
+        public void addRoute(Fief destinationFief, int weight) {
+            edgesList.add(new Node(destinationFief, weight));
+        }
+
+        public int calculateTotalDistance(Fief previousCity) {
+            int totalDistance = 0;
+            int travelsNumber = 0;
+
+            for (var edge : edgesList) {
+                if (edge.destinationFief == previousCity) {
+                    continue;
+                }
+
+                totalDistance += edge.destinationFief.calculateTotalDistance(this);
+                travelsNumber = (int) Math.ceil(edge.destinationFief.taxQuantity / BarrasDeOuro.cargoCapacity) * 2;
+                totalDistance += travelsNumber * edge.weight;
+                this.taxQuantity += edge.destinationFief.taxQuantity;
+            }
+            return totalDistance;
+        }
     }
-  }
 
-  public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
-    int N;
-    String[] lineArgs;
-    lineArgs = scanner.nextLine().split(" ");
-    N = Integer.parseInt(lineArgs[0]);
-    GoldBars.cargoCapacity = Integer.parseInt(lineArgs[1]);
-    List<Vertex> cities = new ArrayList<>();
-    List<Integer> taxQuantities = new ArrayList<>();
-    Arrays.asList(scanner.nextLine().split(" ")).forEach(taxQuantityStr -> {
-      taxQuantities.add(Integer.parseInt(taxQuantityStr));
-    });
-    GoldBars goldBars = new GoldBars();
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int n;
+        String[] lineArgs;
+        lineArgs = scanner.nextLine().split(" ");
+        n = Integer.parseInt(lineArgs[0]);
+        BarrasDeOuro.cargoCapacity = Integer.parseInt(lineArgs[1]);
+        List<Fief> cities = new ArrayList<>();
+        List<Integer> taxes = new ArrayList<>();
+        Arrays.asList(scanner.nextLine().split(" ")).forEach(tax -> {
+            taxes.add(Integer.parseInt(tax));
+        });
+        BarrasDeOuro barrasDeOuro = new BarrasDeOuro();
 
-    for (int i = 0; i < N; i++) {
-      Vertex city = goldBars.new Vertex(taxQuantities.get(i));
-      cities.add(city);
+        for (int i = 0; i < n; i++) {
+            Fief fief = barrasDeOuro.new Fief(taxes.get(i));
+            cities.add(fief);
+        }
+        List<String> graphInfos;
+        int a, b, c;
+
+        for (int i = 0; i < taxes.size() - 1; ++i) {
+            graphInfos = Arrays.asList(scanner.nextLine().split(" "));
+            a = Integer.parseInt(graphInfos.get(0)) - 1;
+            b = Integer.parseInt(graphInfos.get(1)) - 1;
+            c = Integer.parseInt(graphInfos.get(2));
+
+            cities.get(a).addRoute(cities.get(b), c);
+            cities.get(b).addRoute(cities.get(a), c);
+        }
+        System.out.println(cities.get(0).calculateTotalDistance(null));
+        scanner.close();
     }
-    List<String> graphInfos;
-    int a, b, c;
-
-    for (int i = 0; i < taxQuantities.size() - 1; ++i) {
-      graphInfos = Arrays.asList(scanner.nextLine().split(" "));
-      a = Integer.parseInt(graphInfos.get(0)) - 1;
-      b = Integer.parseInt(graphInfos.get(1)) - 1;
-      c = Integer.parseInt(graphInfos.get(2));
-
-      cities.get(a).addPath(cities.get(b), c);
-      cities.get(b).addPath(cities.get(a), c);
-    }
-    System.out.println(cities.get(0).calculateTotalDistance(null));
-    scanner.close();
-  }
 }
