@@ -1,9 +1,5 @@
 package desafios
 
-/**
- * @author RubioAlves
- * Created 09/08/2021 at 13:23
- */
 fun main() {
 
     val numeroTestes = readLine()!!.toInt()

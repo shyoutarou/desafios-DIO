@@ -31,7 +31,7 @@
 
 <h4 align="left">Solução</h4>
     <p align="left">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/5.%20Figurinhas/solucao.kt">Código</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/shyoutarou/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/5.%20Figurinhas/solucao.kt">Código</a>
     </p>
 
 <hr />

@@ -1,10 +1,6 @@
 package desafios
 
 import java.util.*
-/**
- * @author RubioAlves
- * Created 09/08/2021 at 13:23
- */
 
 fun main() {
 
