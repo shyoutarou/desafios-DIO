@@ -61,9 +61,3 @@
 
 <hr />
 
-<h4 align="left">Solução</h4>
-    <p align="left">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/shyoutarou/desafios-DIO/blob/master/Desafios/Kotlin/3.%20Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/2.%20Convers%C3%A3o%20Simples%20de%20Base/solucao.kt">Código</a>
-    </p>
-
-<hr />

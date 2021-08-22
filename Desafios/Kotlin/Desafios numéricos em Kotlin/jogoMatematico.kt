@@ -11,10 +11,6 @@ Saída
 
 Para cada caso de teste, deve ser impressa uma linha com um valor inteiro que representa a solução da sequência proposta por Paula.
 
-PPESQUISADO EM:
-https://github.com/marceloalves95/desafio-bootcamping-everis-Kotlin-Develops-dio/blob/master/src/desafios/Desafio9.kt
-
-
 */
 fun main(args: Array<String>) {
     

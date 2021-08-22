@@ -23,9 +23,3 @@
 
 <hr />
 
-<h4 align="left">Solução</h4>
-    <p align="left">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/shyoutarou/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/2.%20%C3%81rea%20do%20C%C3%ADrculo/solucao.kt">Código</a>
-    </p>
-
-<hr />

@@ -32,9 +32,3 @@
 
 <hr />
 
-<h4 align="left">Solução</h4>
-    <p align="left">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/shyoutarou/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/1.%20Taxa%20de%20Imposto%20de%20Renda/solucao.kt">Código</a>
-    </p>
-
-<hr />
