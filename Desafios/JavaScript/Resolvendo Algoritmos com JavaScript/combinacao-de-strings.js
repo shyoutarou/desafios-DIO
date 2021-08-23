@@ -20,22 +20,44 @@ caracteres contém entre 1 e 50 caracteres inclusive.
 - Saída
 
 Combine as duas cadeias de caracteres da entrada como mostrado no exemplo
-abaixo e exiba a cadeia resultante. */
+abaixo e exiba a cadeia resultante. 
 
-const nCases = parseInt(gets());
-let output;
 
-for (let i = 1; i <= nCases; i++) {
-  output = '';
-  [strA, strB] = gets().split(' ');
+//### Saída
+Para cada caso de teste imprima o valor de hash que é calculado conforme o exemplo apresentado acima.
+|---------------------------------------|
+| Exemplo de Entrada | Exemplo de Saída |
+|--------------------|------------------|
+| 1                  | 594              |
+| 2                  |                  |
+| OSADOISAJDSAOIDJA  |                  |
+| ASOIJDOSAJDASOIDJA |                  |
+|---------------------------------------|
+*/
+*/
 
-  const smallestLength = Math.min(strA.length, strB.length);
+let qtdCasos = gets();
+let leituras = [];
+const CARACTER = 65;
 
-  for (let j = 0; j < smallestLength; j++) output += `${strA[j]}${strB[j]}`;
+for(let i=0; i<qtdCasos; i++){
+  let qtdLinhas = gets();
+  let linhas = [];
+  for(let j=0; j<qtdLinhas; j++){
+      linhas.push(gets());
+  }
+  leituras.push(linhas);
+}
 
-  output += strA.length > strB.length
-    ? strA.substring(smallestLength)
-    : strB.substring(smallestLength);
-
-  console.log(output);
+for(leitura of leituras){
+  let codigoHash = 0;
+  for(linha in leitura){
+    let elemento = parseInt(linha);
+    for(let posicao=0; posicao<leitura[linha].length; posicao++){
+      let crt = leitura[linha].substring(posicao, posicao+1);
+      let valorCrt = parseInt(crt.charCodeAt(0) - CARACTER);
+      codigoHash += (posicao + elemento + valorCrt);
+    }
+  }
+  console.log(codigoHash);
 }

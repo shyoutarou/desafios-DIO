@@ -53,6 +53,7 @@ function friend(list) {
 do {
   let [name, option] = input.split(" ");
   // para passar no teste já que não tem Abhay na resposta
+   //### EM ALGUMAS SAÌDAS NÂO DAVA SAÍDA DO ELEMENTO Abhay - VERIFIQUE!!
   if (name !== "Abhay") {
     if (!list.some(e => e.name === name) || list == "") {
       list.push({ name: name, option: option });

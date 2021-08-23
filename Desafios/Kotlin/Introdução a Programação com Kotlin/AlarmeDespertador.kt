@@ -20,47 +20,54 @@ Para cada caso de teste da entrada seu programa deve imprimir uma linha, cada um
 */
 
 import kotlin.math.abs
-
 fun main(args: Array<String>) {
     
-    var input : List<Int>
+    var input : List<String>
+    var res: MutableList<Int> = arrayListOf()
     var min : Int
     var x: Int
     var y: Int
+    var h1: Int
+    var m1: Int
+    var h2: Int
+    var m2: Int
+    var t: Boolean = true
     
-    while (true) {
+    while (t) {
         
-        input = readLine()!!.split(" ").map { it.toInt() }
-        val (h1, m1, h2, m2 ) = input
- 
-//complete os espaços vazios com os códigos que estão faltando       
-        if (h1 + m1 + h2 + m2 == 0) { break }
+        input = readLine()!!.split(" ")
         
+        h1 = input.component1().toInt()
+        m1 = input.component2().toInt()
+        h2 = input.component3().toInt()
+        m2 = input.component4().toInt()
+        
+        var sum: Int = h1 + m1 + h2 + m2
+    
+        if (sum != 0) { 
+        
+            x = if (h1 == 0) (24 * 60) + m1 else (h1 * 60) + m1 
+            y = if (h2 == 0) (24 * 60) + m2 else (h2 * 60) + m2
+            
+            min = if (y > x) y - x else (24 * 60) - (x - y) 
+            
+            res.add(min)
+        }
+        
+        if (readLine() == null && sum != 0) {
+        
+            println("Sorry! Output limit exceeded!")
+            
+            t = false
+        }
         else {
         
-          if (h1 == 0) {
-            x = (24 * 60) + m1
-          }
-          else {
-            x = (h1 * 60) + m1
-          }
-          
-          if (h2 == 0) {
-            y = (24 * 60) + m2
-          }
-          else {
-            y = (h2 * 60) + m2
-          }
-          
-          if (y > x) {
-            min = y - x
-          }
-          else {
-            min = (24 * 60) - (x - y)
-          }
-
-          println(min)
+            for (l in res) {
+              
+                println(l)
+            }
+        
+            t = false
         }
     }
-}
-
+} 

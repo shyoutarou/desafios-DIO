@@ -62,6 +62,7 @@ branco entre a lista de inscritos e o nome do vencedor.
   const [longestName] = [...students.entries()]
     .filter(student => student[1].answer === 'SIM' && student[1].length === maxLength)[0]
   
+  //### EM ALGUMAS SAÌDAS NÂO DAVA SAÍDA DO ELEMENTO Abhay - VERIFIQUE!!
   const friends = [...students.entries()]
     .filter(std => std[1].name !== 'Abhay' && std[1].answer === 'SIM')
     .sort()
