@@ -62,6 +62,8 @@ class MainClass
       Console.WriteLine("sanguessuga\n");
     }
 
+	// Há testes onde falha aqui, e deve-se tranformar tudo em if else 
+	// e deixar a minhoca no útimo else para passar returando essa condicionais
     if ((x  == "invertebrado") && (y == "anelideo") && (z == "onivoro")) 
     {
       Console.WriteLine("minhoca\n");
