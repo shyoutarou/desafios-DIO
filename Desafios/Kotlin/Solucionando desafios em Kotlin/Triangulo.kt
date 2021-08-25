@@ -18,13 +18,25 @@ A entrada contém três valores reais.
 O resultado deve ser apresentado com uma casa decimal.
 */
 
-fun main(args: Array<String>) {
-  fun Double.format(digits: Long) = "%.${digits}f".format(this).replace(',','.')
-  val (a, b, c) = readLine()!!.split(" ").map {it.toDouble()}
+fun main() {
 
-  val p = (a + b + c).format(1)
-  val r = (((a + b) * c / 2)).format(1)
+    fun Double.format(digits: Int) = "%.${digits}f".format(this).replace(',','.')
 
-  if (a < (b + c) && b < (a + c) && c < (a + b)) println("Perimetro = $p")
-  else println("Area = $r")
+     val (n1, n2, n3) = readLine()!!.split(" ")
+    
+     val a = n1.replace(",",".").toDouble()
+     val b = n2.replace(",",".").toDouble()
+    
+     val c = n3.replace(",",".").toDouble()
+
+    // insira as variáveis de acordo com o calculo do perímetro e area
+    val p = (a + b + c).format(1)
+    
+    val r = ( ( ( a + b ) *  c  / 2 ) ).format(1)
+    
+    if (c < (a + b) && b < (a + c) && a < ( b + c ))
+      println("Perimetro = $p")
+    else
+      println("Area = $r")
+
 }

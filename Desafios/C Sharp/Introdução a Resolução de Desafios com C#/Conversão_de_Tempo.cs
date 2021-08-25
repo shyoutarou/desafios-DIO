@@ -27,15 +27,15 @@ Exemplo de Saída
 
 using System;
 
-    class MinhaClasse {
-        static void Main(string[] args) {
-            var timeInSeconds = int.Parse(Console.ReadLine());
+class MinhaClasse {
+    static void Main(string[] args) {
+        var timeInSeconds = int.Parse(Console.ReadLine());
 
-            TimeSpan timespan = TimeSpan.FromSeconds(timeInSeconds);
-            var hours = timespan.Hours;
-            var minutes = timespan.Minutes;
-            var seconds =   timespan.Seconds;
+    //continue a solucao
+        var hours = (timeInSeconds / 3600);
+        var minutes = (timeInSeconds % 3600) / 60;
+        var seconds = (timeInSeconds % 3600) % 60;
 
-            Console.WriteLine($"{hours}:{minutes}:{seconds}");
-        }
+        Console.WriteLine($"{hours}:{minutes}:{seconds}");
     }
+}

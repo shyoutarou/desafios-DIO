@@ -20,10 +20,10 @@ import java.util.*
 fun main(args: Array<String>) {
 
     val entrada = Scanner(System.`in`)
-    val n1 = entrada.nextFloat()
-    val n2 = entrada.nextFloat()
-    val n3 = entrada.nextFloat()
-    val n4 = entrada.nextFloat()
+    val n1 = entrada.nextDouble()
+    val n2 = entrada.nextDouble()
+    val n3 = entrada.nextDouble()
+    val n4 = entrada.nextDouble()
 
     var media = ((n1 * 2) + (n2 * 3) + (n3 * 4) + n4) / 10
     
@@ -39,7 +39,7 @@ fun main(args: Array<String>) {
     
         println("Aluno em exame.")
         
-        val exame = entrada.nextFloat()
+        val exame = entrada.nextDouble()
         println("Nota do exame: ${"%.1f".format(exame)}")
         
         media = (media + exame) / 2

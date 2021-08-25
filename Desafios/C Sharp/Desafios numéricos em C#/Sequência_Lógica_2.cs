@@ -24,32 +24,29 @@ Exemplo de Entrada	Exemplo de Saída
 
 using System;
 
-    class Program
+class Program
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-           
-           
-            //complete o código com sua solução
-            var line = Console.ReadLine();
-            string[] vet = line.Split(' ');
-            var num_linha = Convert.ToInt16(vet[0]);
-            var num_total = Convert.ToInt16(vet[1]);
+        string[] vet = Console.ReadLine().Split(' ') ;
+        int x,y,count;
+        x = int.Parse(vet[0]);
+        y = int.Parse(vet[1]);
+        count = 1;
 
-            var count_linha = 0;
-            for(int i = 1; i <= num_total; i++)
+        for (int i = 1;i <= y;i++)
+        {
+            Console.Write(i);
+            if (x == count)
             {
-                if (count_linha == (num_linha - 1))
-                {
-                    Console.WriteLine(i);
-                    count_linha = 0;
-                }
-                else
-                {
-                    Console.Write(i);
-                    Console.Write(" ");
-                    count_linha++;
-                }
+                Console.WriteLine();
+                count = 1;
+            }
+             else if(count < x)
+            {
+                Console.Write(" ");
+                count++;
             }
         }
     }
+}
