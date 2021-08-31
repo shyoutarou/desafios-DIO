@@ -1007,3 +1007,200 @@
         <!-- Praticando com Desafios Intermediários em Ruby -->
     </div>
 </details>
+
+
+[Link para o artigo no GitHub](https://github.com/joseliojunior/library/tree/main/guia-de-bolso/desafios-da-dio)
+
+
+
+## Entradas
+
+Todos os desafios possuem maneiras diferentes de entrada de dados, ou seja, todos os valores que o desafio mostra em cada teste:
+- Entram por alguma função (método) de entrada;
+- Passam pelo nosso código;
+- Saem por alguma função (método) de saída.
+
+
+## Métodos de entrada
+
+Dependendo da linguagem de programação que você esteja aprendendo o método de entrada é diferente. Aqui abaixo tem uma pequena lista com a linguagem e o método de entrada.
+
+
+## JavaScript gets()
+```bash
+const entrada = gets();
+```
+
+Lembrando que gets( ) é uma função que funciona apenas na plataforma para a linguagem JavaScript.
+
+## Java new Scanner(System.in)
+```bash
+import java.util.Scanner;
+
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner entrada = new Scanner(System.in);        
+    }
+}
+```
+
+## Kotlin readLine()
+```bash
+fun main() {
+    val entrada = readLine()!! // Forma assertiva
+}
+fun main() {
+    val entrada = readLine() ?: "" // Forma assegurada
+}
+```
+
+## Exemplos de entrada
+Supondo que tenhamos um arquivo de entrada:
+
+```bash
+abacaxi
+banana
+cereja
+```
+
+Onde precisamos pegar os valores de cada linha e guardar em uma variável, como faríamos?
+
+
+## JavaScript
+```bash
+const entrada1 = gets(); // abacaxi
+const entrada2 = gets(); // banana
+const entrada3 = gets(); // cereja
+```
+
+## Java
+```bash
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner entrada = new Scanner(System.in);
+        String entrada1 = entrada.nextLine(); // abacaxi
+        String entrada2 = entrada.nextLine(); // banana
+        String entrada3 = entrada.nextLine(); // cereja
+        entrada.close();
+    }
+}
+```
+
+## Kotlin
+
+```bash
+fun main() {
+    val entrada1 = readLine() ?: "" // abacaxi
+    val entrada2 = readLine() ?: "" // banana
+    val entrada3 = readLine() ?: "" // cereja
+}
+
+```
+
+
+## Exemplo com o código de soma
+
+A partir de agora vamos fazer um código de soma simples e entender alguns comportamentos de entrada e de saída.
+
+
+## Entrada
+```bash
+15
+20
+7
+```
+
+## Algoritmo
+```bash
+INÍCIO DO PROCESSO
+    > Armazenar a primeira entrada.
+    > Não armazenar a segunda entrada.
+    > Armazenar a terceira entrada.
+    > Armazenar a soma da primeira com a terceira entrada.
+    > Exibir o resultado do cálculo.
+FIM DO PROCESSO
+```
+
+Para que possamos "pular" a segunda entrada basta executar a função de entrada sem nunca atribui-la a uma variável, dessa maneira a entrada é obtida, porém nunca armazenada.
+
+## JavaScript
+```bash
+const entrada1 = Number(gets()); // 15
+gets(); // "20"
+const entrada3 = Number(gets()); // 7
+
+const soma = entrada1 + entrada3;
+console.log(soma); // 22
+```
+
+
+## Java
+```bash
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner entrada = new Scanner(System.in);
+        int entrada1 = entrada.nextInt(); // 15
+        entrada.nextInt(); // 20
+        int entrada3 = entrada.nextInt(); // 7
+        entrada.close();
+
+        System.out.println(entrada1 + entrada3); // 22
+    }
+}
+
+```
+
+## Kotlin
+```bash
+fun main() {
+    val entrada1 = readLine()?.toInt() ?: 0 // 15
+    readLine() // "20"
+    val entrada3 = readLine()?.toInt() ?: 0 // 7
+
+    println(entrada1 + entrada2) // 22
+}
+```
+
+Caso mudemos a entrada o nosso código deverá exibir a saída esperada para cada ocasião.
+
+
+
+## Exemplos
+Considerando o algoritmo acima que "pula" a segunda entrada temos:
+
+
+## Teste 1
+
+Entrada
+```bash
+10
+20
+30
+```
+
+Saída esperada
+```bash
+40
+```
+
+## Teste 2
+
+Entrada
+```bash
+55
+4890
+15
+```
+
+Saída esperada
+```bash
+70
+```
+
+Logo o código feito para cada linguagem daria certo em ambos os testes, pois sempre entrariam a primeira e a terceira linha de entrada, faria-se a soma e seria por fim exibido o resultado que é igual a saída esperada por cada teste.
+
