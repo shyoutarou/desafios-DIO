@@ -17,6 +17,35 @@ Saída
 
 Para cada caso de teste da entrada seu programa deve imprimir uma linha, cada uma contendo um número inteiro, indicando o número de minutos que Daniela tem para dormir.
 
+Sample Input	
+1 5 3 5
+23 59 0 34
+21 33 21 10
+0 0 0 0
+
+Sample Output
+120
+35
+1417
+
+
+Dado de entrada:
+23 59 1 27
+
+
+Saída esperada:
+Sorry! Output limit exceeded!
+
+Dado de entrada:
+23 30 0 34
+0 0 0 0
+
+Saída esperada:
+64
+
+
+COM ERRO!! NÃO PASSA NOS TESTES FECHADOS
+
 */
 
 import kotlin.math.abs

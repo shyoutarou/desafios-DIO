@@ -19,6 +19,7 @@ fun main() {
     val ee = 2
     val eee = 3
     n.forEach {
+	    /*println("$it ${(it.toDouble().pow(2)).toInt()} ${(it.toDouble().pow(3)).toInt()}")*/
         println("$it ${(Math.pow(it.toDouble(), ee.toDouble()).toInt())} ${(Math.pow(it.toDouble(), eee.toDouble()).toInt())}")
         println("$it ${(Math.pow(it.toDouble(), ee.toDouble()).toInt() + 1)} ${(Math.pow(it.toDouble(), eee.toDouble()).toInt() + 1)}")
     }

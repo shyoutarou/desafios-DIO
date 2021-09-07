@@ -1009,8 +1009,54 @@
 </details>
 
 
-[Link para o artigo no GitHub](https://github.com/joseliojunior/library/tree/main/guia-de-bolso/desafios-da-dio)
+## Resolvendo um desafio de código na prática
 
+Para te auxiliar na conclusão do bootcamp, a equipe da DIO realizou uma live explicando o passo a passo sobre como resolver os desafios de código, confira:
+
+[LIVE - Resolvendo um desafio de código na prática](https://www.youtube.com/watch?v=I8NI5QNUCe8)
+
+Esses desafios lhe ajudarão a praticar e aplicar os conceitos apresentados nas aulas e exercícios. Para ter destaque na carreira de desenvolvimento de software é necessário praticar muito com algoritmos.
+
+<p align="center">
+  <img src="./assets/desafio_01.png" alt="Image" width="100%" />
+</p>
+
+O desafio lhe propõe praticar o pensamento computacional, exigindo a criação de uma solução implementada através do seu código com um conjunto de entradas e saídas esperadas.
+
+Na área especificada acima, você deve digitar o seu código para a solução do desafio.
+
+Clicando no botão "SALVAR", você pode ir salvando o seu código conforme for desenvolvendo.
+
+No ícone de engrenagem, localizado no canto superior direito, você pode alterar as configurações do editor e deixar com a sua cara.
+
+<p align="center">
+  <img src="./assets/desafio_02.png" alt="Image" width="100%" />
+</p>
+
+Ao clicar em instruções, confira algumas intruções e dicas para implementação da sua solução.
+
+Em "TESTES", ficarão todos os testes que serão executados junto a sua implementação da solução.
+
+Os testes abertos (▶) podem ser executados a qualquer momento para você avaliar o código criado como solução para o desafio.
+Os testes com cadeados (🔒) são ocultos e apenas serão executados quando você decidir entregar o seu código.
+
+Através do botão "EXECUTAR TESTES", execute os testes abertos a qualquer momento para você avaliar o código criado como solução para o desafio.
+
+<p align="center">
+  <img src="./assets/desafio_03.png" alt="Image" width="100%" />
+</p>
+
+## [Discord](https://discord.com/invite/MUdRyVg)
+ 
+Você também pode tirar dúvidas com milhares de Devs em nossa comunidade no Discord, acesse o link localizado no rodapé da página ou clique [aqui](https://discord.com/invite/MUdRyVg)
+
+<p align="center">
+  <img src="./assets/discord_link.png" alt="Image" width="100%" />
+</p>
+
+Após revisado e testado o seu código, você deve clicar no botão "ENTREGAR DESAFIO", para avaliação em tempo real.
+
+[Link para o artigo no GitHub](https://github.com/joseliojunior/library/tree/main/guia-de-bolso/desafios-da-dio)
 
 
 ## Entradas
@@ -1019,7 +1065,6 @@ Todos os desafios possuem maneiras diferentes de entrada de dados, ou seja, todo
 - Entram por alguma função (método) de entrada;
 - Passam pelo nosso código;
 - Saem por alguma função (método) de saída.
-
 
 ## Métodos de entrada
 
@@ -1099,7 +1144,6 @@ fun main() {
 }
 
 ```
-
 
 ## Exemplo com o código de soma
 
@@ -1204,3 +1248,37 @@ Saída esperada
 
 Logo o código feito para cada linguagem daria certo em ambos os testes, pois sempre entrariam a primeira e a terceira linha de entrada, faria-se a soma e seria por fim exibido o resultado que é igual a saída esperada por cada teste.
 
+
+## uDebug do URI e testes fechados
+
+[Link do tópico original](https://web.digitalinnovation.one/topics/utilizando-o-udebug-do-uri-para-resolver-desafios-da-dio?tab=forum&topic_type=all&back=%2Ftrack%2Fcarrefour-android-developer-1&back_order=newest&back_page=1&page=1&order=oldest)
+
+ Os desafios de código da DIO vem do [URI online judge](www.urionlinejudge.com.br) e no URI tem uma seção de debug (exemplo: https://www.udebug.com/URI/1040), onde tem vários casos de teste que são por propostos por usuários para ajudar quem está fazendo um desafio a testar seu código. A DIO utiliza os testes do uDebug nos seus casos de teste, porém como os testes são criados por usuários eles podem estar errados, não são testes oficiais sugeridos pelo URI. No Debug do URI é possível ver se o resultado do código bate com os testes, independente do resultado dos testes do uDebug do URI fazerem sentido ou não, no fim o que importa é os seus resultados baterem.
+
+Passo 1 - O primeiro passo é bem simples, que é achar o desafio da DIO no URI, para isso escreva no google mesmo urionlinejudge + (nome do desafio da DIO ou parte do enunciado do desafio).
+
+Passo 2 - No URI vc vai no canto superior direito e clica em uDebug.
+
+<p align="center">
+  <img src="./assets/uDebug_01.png" alt="Image" width="100%" />
+</p>
+
+Passo 3 - Na tela do uDebug você seleciona um caso de teste e clica em "Get Accepted Output".
+
+<p align="center">
+  <img src="./assets/uDebug_02.png" alt="Image" width="100%" />
+</p>
+
+Passo 4 - Assim que vc clicar em "Get Accepted Output", a saida esperada do caso de teste vai aparecer abaixo, você copia a sua saida e cola ao lado em "your output" e clica em "Compare outputs".
+
+<p align="center">
+  <img src="./assets/uDebug_03.png" alt="Image" width="100%" />
+</p>
+
+Obs: recomendo cuidado ao copiar a sua saida, copie tudo, inclusive quebra de linha que possa haver ao final dela. É melhor usar um ctrl+a ou qualquer outro comando seleção completa.
+
+<p align="center">
+  <img src="./assets/uDebug_04.png" alt="Image" width="100%" />
+</p>
+
+Obs2: Não existe nenhuma trapaça em fazer isso, nem o URI e nem o uDebug vai te dar a solução dos desafios, você ainda terá que desenvolver o código. Essa é apenas uma ajuda para evitar dores de cabeça com casos de teste com erros.
