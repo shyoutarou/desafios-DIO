@@ -1282,3 +1282,34 @@ Obs: recomendo cuidado ao copiar a sua saida, copie tudo, inclusive quebra de li
 </p>
 
 Obs2: Não existe nenhuma trapaça em fazer isso, nem o URI e nem o uDebug vai te dar a solução dos desafios, você ainda terá que desenvolver o código. Essa é apenas uma ajuda para evitar dores de cabeça com casos de teste com erros.
+
+
+## 🐛 Issues
+
+Sinta-se à vontade para registrar um novo problema com o respectivo título e descrição no repositório do projeto. Se você já encontrou uma solução para seu problema, adoraria revisar sua solicitação de pull!
+
+## 🤝 Contribuições
+
+Siga os passos abaixo para contribuir:
+
+1. Faça o *fork* do projeto (<https://github.com/shyoutarou/desafios-DIO.git>)
+
+2. Clone o seu *fork* para sua maquína (`git clone https://github.com/user_name/desafios-DIO.git`)
+
+3. Crie uma *branch* para realizar sua modificação (`git checkout -b feature/name_new_feature`)
+
+4. Adicione suas modificações e faça o *commit* (`git commit -m "Descreva sua modificação"`)
+
+5. *Push* (`git push origin feature/name_new_feature`)
+
+6. Crie um novo *Pull Request*
+
+7. Pronto, agora só aguardar a análise 🚀 
+
+## 📜 License
+
+O projeto lançado em 2021 sobre a licença [MIT](./LICENSE) ❤️ 
+
+Made with ♥ by Shyoutarou
+
+Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
