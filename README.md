@@ -32,6 +32,7 @@
   </a>
 </p><br>
 
+Clique no logotipo da linguagem para conferir soluções que ainda não estão listadas abaixo:
 
 <!-- C Sharp -->
 <details>
