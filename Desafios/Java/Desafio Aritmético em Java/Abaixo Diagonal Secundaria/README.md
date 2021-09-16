@@ -6,7 +6,7 @@ considerando somente aqueles elementos que estão abaixo da diagonal Secundária
 da matriz, conforme ilustrado abaixo (área verde).
 
 <p align="center">
-    <img src="./assets/abaixo-diagonal-secundaria.png" alt="ruby" tittle="Diagonal" width="70" height="70">
+    <img src="../../../../abaixo-diagonal-secundaria.png" width="270" height="270">
 </p>
 
 ## Entrada
@@ -19,3 +19,7 @@ da matriz. Seguem os 144 valores de ponto flutuante que compõem a matriz.
 
 Imprima o resultado solicitado (a soma ou média), com 1 casa após o ponto
 decimal.
+
+| Exemplo de Entrada | Exemplo de Saída|
+| ---|--- |
+| S<br />1.0<br />0.0<br />-3.5<br />2.5<br />4.1<br />... | 12.6 |

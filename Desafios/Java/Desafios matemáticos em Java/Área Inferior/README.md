@@ -6,7 +6,7 @@ considerando somente aqueles elementos que estão na área inferior da matriz,
 conforme ilustrado abaixo (área verde).
 
 <p align="center">
-    <img src="./assets/area-inferior.png" alt="ruby" tittle="Diagonal" width="70" height="70">
+    <img src="../../../../assets/area-inferior.png" width="270" height="270">
 </p>
 
 ## Entrada

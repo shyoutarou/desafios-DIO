@@ -3,7 +3,7 @@
 Leia um caractere maiúsculo, que indica uma operação que deve ser realizada e uma matriz M[12][12]. Em seguida, calcule e mostre a soma ou a média considerando somente aqueles elementos que estão acima da diagonal secundária da matriz, conforme ilustrado abaixo (área verde).
 
 <p align="center">
-    <img src="./assets/acima-diagonal-secundaria.png" alt="ruby" tittle="Diagonal" width="70" height="70">
+    <img src="../../../../assets/acima-diagonal-secundaria.png" width="270" height="270">
 </p>
 
 ## Entrada

@@ -5,9 +5,8 @@ uma matriz M[12][12]. Em seguida, calcule e mostre a soma ou a média
 considerando somente aqueles elementos que estão na área esquerda da matriz,
 conforme ilustrado abaixo (área verde).
 
-
 <p align="center">
-    <img src="./assets/area-esquerda.png" alt="ruby" tittle="Diagonal" width="70" height="70">
+    <img src="../../../../assets/area-esquerda.png" width="270" height="270">
 </p>
 
 ## Entrada

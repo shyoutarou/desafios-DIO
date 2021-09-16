@@ -6,7 +6,7 @@ considerando somente aqueles elementos que estão abaixo da diagonal principal
 da matriz, conforme ilustrado abaixo (área verde).
 
 <p align="center">
-    <img src="./assets/abaixo-diagonal-principal.png" alt="ruby" tittle="Diagonal" width="70" height="70">
+    <img src="../../../../abaixo-diagonal-principal.png" width="270" height="270">
 </p>
 
 ## Entrada

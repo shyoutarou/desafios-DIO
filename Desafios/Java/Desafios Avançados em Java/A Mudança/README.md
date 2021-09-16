@@ -1,7 +1,7 @@
 ## Desafio
 
 <p align="center">
-    <img src="./assets/mudanca.png" alt="ruby" tittle="Diagonal" width="70" height="70">
+    <img src="../../../../mudanca.png" width="270" height="270">
 </p>
 
 Hermione está criando um novo Vira Tempo especialmente para programadores. É
