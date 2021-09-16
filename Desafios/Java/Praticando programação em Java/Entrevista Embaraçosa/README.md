@@ -19,4 +19,15 @@ Para cada caso de teste, escreva a palavra devidamente corrigida. Analise os exe
 |queijoijo|queijo|
 |astroastro|astro|
 |a |a|
+|aaaaaaaaaa|aaaaa<br />aaaaaa<br />aaaaaaa<br />aaaaaaaa<br />aaaaaaaaa|
+|testetetete|testete<br />testetete|
+|testandoando|testando|
+|agorasimassim|agorasimassim|
+|agorassimassim|agorassim|
+|abcdefghijklmnopqrstuvwxyzwxyz|abcdefghijklmnopqrstuvwxyz|
+|a|a|
+|bb|b|
+|bbb|bb|
+|bab|bab|
+|baba|ba|
 
