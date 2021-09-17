@@ -1295,9 +1295,144 @@ Saída esperada
 Logo o código feito para cada linguagem daria certo em ambos os testes, pois sempre entrariam a primeira e a terceira linha de entrada, faria-se a soma e seria por fim exibido o resultado que é igual a saída esperada por cada teste.
 
 
+## Solução do Desafio C# 
+
+[Link original](https://web.digitalinnovation.one/articles/entendendo-o-codigo-solucao-do-desafio-c-multiplos?back=%2Fhome&page=1&order=oldest)
+
+Antes de iniciar qualquer desafio de código, é importante entender o que está sendo pedido e como a informação será processada pelo console.
+
+Para exemplificar, vou usar o desafio Múltiplos.
+
+
+```bash
+using System;
+class minhaClasse {
+       static void Main(string[] args) {
+           //continue a solucao com a insercao da variavel corretamente
+           
+       }
+   }
+```
+
+O que esse bloco de código está me dizendo?
+
+- Na linha 1, temos a diretiva using fazendo referência ao namespace System. Na prática isso significa que posso usar os tipos da System de forma não qualificada. Ou seja, posso chamar o Console diretamente, em vez de ter que chamar System.Console.
+- Na linha 2, temos a classe que está sendo declarada.
+- Na linha 3, temos o método Main, que é o único membro da classe minhaClasse. Ele também é o ponto de entrada desse programa e está recebendo um array de strings.
+
+
+Agora vamos olhar a solução que precisa ser feita:
+
+1. Instrução: Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "São Multiplos" ou "Não são Multiplos", indicando se os valores lidos são múltiplos entre si.
+2. Entrada: A entrada contém valores inteiros.
+3. Saída: A saída deve conter uma das mensagens conforme descrito acima.
+
+
+Vamos receber os dados:
+
+```bash
+using System;
+class minhaClasse {
+       static void Main(string[] args) {
+           //continue a solucao com a insercao da variavel corretamente
+
+           string[] valores = Console.ReadLine().Split(' ');
+           int A = int.Parse(valores[0]);
+           int B = int.Parse(valores[1]);
+       }
+    } 
+```
+         
+- Na linha 6, temos o Console.ReadLine() lendo os dados e o Split(' ') separando esses dados por um espaço. Isso está sendo atribuído a variável valores que é um array.
+- Na linha 7, estou selecionando o índice 0 do array. Dentro dele está o 1º item desse array, que é do tipo string. Para poder trabalhar com ele como se fosse um número, preciso convertê-lo. É isso que o int.Parse() está fazendo. Esse dado, já devidamente convertido, está sendo atribuído a variável A.
+- Na linha 8, está acontecendo a mesma coisa. A diferença é que estou acessando o índice 1, que contém o 2º item do array.
+
+
+
+
+Agora é preciso pensar no problema em si. Como que eu sei que 2 números são ou não são múltiplos um do outro? Como a tabuada é o exemplo clássico dos múltiplos, vamos olhar para ela:
+
+- Tabuada de 2:
+- 2x1 = 2 // 2x2 = 4 // 2x3 = 6 // 2x4 = 8 // 2x5 = 10
+- Conjunto dos Múltiplos de 2 = {2, 4, 6, 8, 10, ...}
+
+
+Então se observa que os múltiplos de um número são divisíveis por esse número, então o resto dessa divisão será 0.
+
+- 2 / (qualquer múltiplo de 2) = (a um número natural) => Resto será 0
+- 2 / 2 = 1 => resto 0
+- 2 / 4 = 2 => resto 0
+- 2 / 6 = 3 => resto 0
+
+
+Vamos implementar isso:
+
+```bash
+using System;
+class minhaClasse {
+       static void Main(string[] args) {
+           //continue a solucao com a insercao da variavel corretamente
+
+           string[] valores = Console.ReadLine().Split(' ');
+           int A = int.Parse(valores[0]);
+           int B = int.Parse(valores[1]);
+
+           if (A % B  == 0) {
+               Console.WriteLine("Sao Multiplos");
+           }
+           else {
+                Console.WriteLine("Nao sao Multiplos");
+            }
+        }
+ }
+```
+
+- Na linha 10, ele vai dividir o valor A pelo valor B e se o resto for igual a 0, ele vai executar o que está dentro das { }
+- Na linha 11, ele vai retornar a saída "Sao Multiplos", caso o if da linha 10 seja verdadeiro.
+- Na linha 13, se o if da linha 10 for falso, ele vai executar o que está dentro das { } do else.
+- Na linha 14, ele vai retornar a saída "Nao sao Multiplos", indicando que a verificação do if retornou falsa.
+
+
+Esse código está bom, mas tem um problema. Ele só retorna verdadeiro quando A é múltiplo de B. Mas eu preciso que ele retorne verdadeiro também nos casos em que B é múltiplo de A.
+
+- Porque? Porque a instrução pede que se verifique se os números recebidos são múltiplos entre si, em qualquer ordem.
+- Sabemos que 2 e 4 são múltiplos entre si.
+- Mas o meu código só vai retornar verdadeiro quando A = 4 e B = 2.
+- Se eu receber esses números na ordem inversa, com A = 2 e B = 4 ele vai retornar falso.
+
+
+Para resolver isso, vou adicionar o operador lógico ou (||) dentro do meu if.
+
+```bash
+using System;
+class minhaClasse {
+       static void Main(string[] args) {
+           //continue a solucao com a insercao da variavel corretamente
+
+           string[] valores = Console.ReadLine().Split(' ');
+           int A = int.Parse(valores[0]);
+           int B = int.Parse(valores[1]);
+
+           if (A % B  == 0 || B % A == 0) {
+               Console.WriteLine("Sao Multiplos");
+           }
+           else {
+                Console.WriteLine("Nao sao Multiplos");
+            }
+        }
+ }
+```
+
+Na linha 10, ele vai ver se o resto da divisão entre A e B é igual a 0 OU se o resto da divisão entre B e A é igual a 0. Se qualquer uma dessas condições for verdadeira, o if será verdadeiro e ele irá executar o que está dentro das { }
+
+Pronto, agora o código vai passar em todos os testes de saída.
+
+[Java para C#](https://kalkicode.com/ai/online-java-to-csharp-converter)
+[Java para Kotlin ou Kotlin para Java](https://www.tutorialkart.com/kotlin/convert-java-file-to-kotlin-file/)
+
 ## uDebug do URI e testes fechados
 
-[Link do tópico original](https://web.digitalinnovation.one/topics/utilizando-o-udebug-do-uri-para-resolver-desafios-da-dio?tab=forum&topic_type=all&back=%2Ftrack%2Fcarrefour-android-developer-1&back_order=newest&back_page=1&page=1&order=oldest)
+[Link original](https://web.digitalinnovation.one/topics/utilizando-o-udebug-do-uri-para-resolver-desafios-da-dio?tab=forum&topic_type=all&back=%2Ftrack%2Fcarrefour-android-developer-1&back_order=newest&back_page=1&page=1&order=oldest)
 
  Os desafios de código da DIO vem do [URI online judge](www.urionlinejudge.com.br) e no URI tem uma seção de debug (exemplo: https://www.udebug.com/URI/1040), onde tem vários casos de teste que são por propostos por usuários para ajudar quem está fazendo um desafio a testar seu código. A DIO utiliza os testes do uDebug nos seus casos de teste, porém como os testes são criados por usuários eles podem estar errados, não são testes oficiais sugeridos pelo URI. No Debug do URI é possível ver se o resultado do código bate com os testes, independente do resultado dos testes do uDebug do URI fazerem sentido ou não, no fim o que importa é os seus resultados baterem.
 
@@ -1306,25 +1441,25 @@ Passo 1 - O primeiro passo é bem simples, que é achar o desafio da DIO no URI,
 Passo 2 - No URI vc vai no canto superior direito e clica em uDebug.
 
 <p align="center">
-  <img src="./assets/uDebug_01.png" alt="Image" width="100%" />
+  <img src="./assets/uDebug_01.png" alt="Image" width="200px" />
 </p>
 
 Passo 3 - Na tela do uDebug você seleciona um caso de teste e clica em "Get Accepted Output".
 
 <p align="center">
-  <img src="./assets/uDebug_02.png" alt="Image" width="100%" />
+  <img src="./assets/uDebug_02.png" alt="Image" width="200px" />
 </p>
 
 Passo 4 - Assim que vc clicar em "Get Accepted Output", a saida esperada do caso de teste vai aparecer abaixo, você copia a sua saida e cola ao lado em "your output" e clica em "Compare outputs".
 
 <p align="center">
-  <img src="./assets/uDebug_03.png" alt="Image" width="100%" />
+  <img src="./assets/uDebug_03.png" alt="Image" width="200px" />
 </p>
 
 Obs: recomendo cuidado ao copiar a sua saida, copie tudo, inclusive quebra de linha que possa haver ao final dela. É melhor usar um ctrl+a ou qualquer outro comando seleção completa.
 
 <p align="center">
-  <img src="./assets/uDebug_04.png" alt="Image" width="100%" />
+  <img src="./assets/uDebug_04.png" alt="Image" width="200px" />
 </p>
 
 Obs2: Não existe nenhuma trapaça em fazer isso, nem o URI e nem o uDebug vai te dar a solução dos desafios, você ainda terá que desenvolver o código. Essa é apenas uma ajuda para evitar dores de cabeça com casos de teste com erros.
