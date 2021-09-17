@@ -42,362 +42,335 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 	    <!-- Desafios Aritméticos em C# -->
         <table border=1>
             <tr>
-                <th colspan="4">Desafios Aritméticos em C#</th>
+                <th colspan="3">Desafios Aritméticos em C#</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Bazinga!</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Bazinga!">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>Comunicação em Piralândia</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Crescimento Populacional</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Crescimento%20Populacional">Código</a></td>
                 <td align="center">✔️</td>
 			<tr>
             <tr>
-                <td align="center">3</td>
                 <td>Média 1</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/M%C3%A9dia%201">Código</a></td>
                 <td align="center">✔️</td>
 			<tr>
             <tr>
-                <td align="center">3</td>
                 <td>Tempo de um Evento</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Tempo%20de%20um%20Evento">Código</a></td>
                 <td align="center">✔️</td>
 			<tr>			
         </table>
-        <!-- Introdução a Programação com C# -->
+		
+	    <!-- Desafios avançados em C# -->
         <table border=1>
             <tr>
-                <th colspan="4">Introdução a Programação com C#</th>
+                <th colspan="3">Desafios avançados em C#</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3">Avanade CodeAnywhere .NET</th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
-                <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Dividindo%20X%20por%20Y">Código</a></td>
+                <td>Teorema da Divisão Euclidiana</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/Avanade%20CodeAnywhere%20.NET/Teorema%20da%20Divis%C3%A3o%20Euclidiana">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
-                <td>Distância</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Dist%C3%A2ncia">Código</a></td>
+                <td>Tuitando</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/Avanade%20CodeAnywhere%20.NET/Tuitando">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
-                <td>Quanta Mandioca?</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Quanta%20Mandioca">Código</a></td>
+                <td>Visita na Feira</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/Avanade%20CodeAnywhere%20.NET/Visita%20na%20Feira">Código</a></td>
                 <td align="center">✔️</td>
-        </table>
-        <!-- Introdução a Programação com .NET -->
-        <table border=1>
+			<tr>
             <tr>
-                <th colspan="4">Introdução a Programação com .NET</th>
-            </tr>
+                <th colspan="3"></th>
+            </tr>	
             <tr>
-                <th colspan="4"></th>
-            </tr>
-            <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
-            </tr>
+            </tr>			
             <tr>
-                <td align="center">1</td>
-                <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Dividindo%20X%20por%20Y">Código</a></td>
+                <td>Média 3</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/M%C3%A9dia%203">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>
+			<tr>
             <tr>
-                <td align="center">2</td>
-                <td>Bazinga!</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Bazinga!">Código</a></td>
+                <td>Tempo de Jogo com Minutos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/Tempo%20de%20Jogo%20com%20Minutos">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">3</td>
-                <td>Coxinha de Bueno</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Coxinha%20de%20Bueno">Código</a></td>
-                <td align="center">✔️</td>
+			<tr>			
         </table>
+
+		
         <!-- Desenvolvendo Algoritmos com C# -->
         <table border=1>
             <tr>
-                <th colspan="4">Desenvolvendo Algoritmos com C#</th>
+                <th colspan="3">Desenvolvendo Algoritmos com C#</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Cálculo de Viagem</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desenvolvendo%20algoritmos%20com%20C%23/C%C3%A1lculo%20de%20Viagem">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>Álbum da Copa</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desenvolvendo%20algoritmos%20com%20C%23/%C3%81lbum%20da%20Copa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Animal</td>
-				             https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desenvolvendo%20algoritmos%20com%20C%23/Animal
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desenvolvendo%20algoritmos%20com%20C%23/Animal">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
-        <!-- Desafios Aritméticos em C# -->
+
+		
+        <!-- Introdução a Programação com .NET -->
         <table border=1>
             <tr>
-                <th colspan="4">Desafios Aritméticos em C#</th>
+                <th colspan="3">Introdução a Programação com .NET</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
-                <td>Média 1</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/M%C3%A9dia%201">Código</a></td>
+                <td>Dividindo X por Y</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
-                <td>Crescimento Populacional</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Crescimento%20Populacional">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">3</td>
                 <td>Bazinga!</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Bazinga!">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Bazinga!">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">4</td>
-                <td>Tempo de um Evento</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Tempo%20de%20um%20Evento">Código</a></td>
+                <td>Coxinha de Bueno</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Coxinha%20de%20Bueno">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">5</td>
-                <td>Comunicação em Piralândia</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
         </table>
-        <!-- Resolvendo Algoritmos -->
+		
+        <!-- Introdução a Programação com C# -->
         <table border=1>
             <tr>
-                <th colspan="4">Resolvendo Algoritmos</th>
+                <th colspan="3">Introdução a Programação com C#</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
-                <td>Hora da Corrida</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Hora%20da%20Corrida">Código</a></td>
+                <td>Dividindo X por Y</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
-                <td>Cardápio Aéreo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Card%C3%A1pio%20A%C3%A9reo">Código</a></td>
+                <td>Distância</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Dist%C3%A2ncia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
-                <td>Pizza Antes do Final do Ano</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Pizza%20Antes%20do%20Final%20do%20Ano">Código</a></td>
+                <td>Quanta Mandioca?</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Quanta%20Mandioca">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">4</td>
-                <td>Conversão de Tempo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Convers%C3%A3o%20de%20Tempo">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">5</td>
-                <td>Idade em Dias</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Idade%20em%20Dias">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">6</td>
-                <td>Tempo do Dobby</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Tempo%20do%20Dobby">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">7</td>
-                <td>Rodízio de Cavalos e Carruagens</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Rod%C3%ADzio%20de%20Cavalos%20e%20Carruagens">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
         </table>
-        <!-- Solução de Problemas em C# -->
+
+       <!-- Praticando Programação em C# -->
         <table border=1>
             <tr>
-                <th colspan="4">Solução de Problemas em C#</th>
+                <th colspan="3">Praticando Programação em C#</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
-                <td>Consumo Médio do Automóvel</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">2</td>
-                <td>DDD</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/DDD">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">3</td>
-                <td>Aumento de Salário</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/Aumento%20de%20Sal%C3%A1rio">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-        </table>
-        <!-- Solução de Problemas Essencias com C# -->
-        <table border=1>
-            <tr>
-                <th colspan="4">Solução de Problemas Essencias com C#</th>
-            </tr>
-            <tr>
-                <th colspan="4"></th>
-            </tr>
-            <tr>
-                <th>Etapa</th>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td align="center">1</td>
-                <td>Quadrado e ao Cubo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/Quadrado%20e%20ao%20Cubo">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">2</td>
-                <td>A Corrida de Tartarugas</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/A%20Corrida%20de%20Tartarugas">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">3</td>
-                <td>Ultrapassando V</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/Ultrapassando%20V">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">4</td>
-                <td>Validação de Nota</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/Valida%C3%A7%C3%A3o%20de%20Nota">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">5</td>
-                <td>Pedro Bento e o Mundo de OZ</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/Pedro%20Bento%20e%20o%20Mundo%20de%20OZ">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-        </table>
-        <!-- Praticando Programação em C# -->
-        <table border=1>
-            <tr>
-                <th colspan="4">Praticando Programação em C#</th>
-            </tr>
-            <tr>
-                <th colspan="4"></th>
-            </tr>
-            <tr>
-                <th>Etapa</th>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td align="center">1</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Coordenadas%20de%20um%20Ponto/README.md">Coordenadas de um Ponto</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Coordenadas%20de%20um%20Ponto">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Compras%20no%20Supermercado/README.md">Compras no Supermercado</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Compras%20no%20Supermercado">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Pink%20e%20C%C3%A9rebro/README.md">Pink e Cérebro</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Pink%20e%20C%C3%A9rebro">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
-        <!-- Praticando Programação em C# -->
+  
+        <!-- Resolvendo Algoritmos -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Resolvendo Algoritmos</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Hora da Corrida</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Hora%20da%20Corrida">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Cardápio Aéreo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Card%C3%A1pio%20A%C3%A9reo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pizza Antes do Final do Ano</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Pizza%20Antes%20do%20Final%20do%20Ano">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Conversão de Tempo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Convers%C3%A3o%20de%20Tempo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Idade em Dias</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Idade%20em%20Dias">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tempo do Dobby</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Tempo%20do%20Dobby">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Rodízio de Cavalos e Carruagens</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Rod%C3%ADzio%20de%20Cavalos%20e%20Carruagens">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>
+		
+        <!-- Solução de Problemas em C# -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solução de Problemas em C#</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Consumo Médio do Automóvel</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>DDD</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/DDD">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Aumento de Salário</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/Aumento%20de%20Sal%C3%A1rio">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>
+		
+        <!-- Solução de Problemas Essencias com C# -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solução de Problemas Essencias com C#</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Quadrado e ao Cubo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/Quadrado%20e%20ao%20Cubo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>A Corrida de Tartarugas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/A%20Corrida%20de%20Tartarugas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Ultrapassando V</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/Ultrapassando%20V">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Validação de Nota</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/Valida%C3%A7%C3%A3o%20de%20Nota">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pedro Bento e o Mundo de OZ</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/Pedro%20Bento%20e%20o%20Mundo%20de%20OZ">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>
+ 
     </div>
 </details>
+
+
 
 <!-- Java -->
 <details>
@@ -407,43 +380,37 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Ordenação e Filtros em Java -->
         <table border=1>
             <tr>
-                <th colspan="4">Ordenação e Filtros em Java</th>
+                <th colspan="3">Ordenação e Filtros em Java</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Ordenando Números Pares e Ímpares</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares/OrderingEvenNumbers.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>Compras no Supermercado</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Compras%20no%20Supermercado/SupermarketShopping.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Uniformes de Final de Ano</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Uniformes%20de%20Final%20de%20Ano/YearEndUniform.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">4</td>
                 <td>Fila do Banco</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Fila%20do%20Banco/BankQueue.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">5</td>
                 <td>Gincana no Acampamento</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/Gincana%20no%20Acampamento/GymkhanaInTheCamp.java">Código</a></td>
                 <td align="center">✔️</td>
@@ -452,43 +419,37 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo Algoritmos com Java -->
         <table border=1>
             <tr>
-                <th colspan="4">Resolvendo Algoritmos com Java</th>
+                <th colspan="3">Resolvendo Algoritmos com Java</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Coração das Cartas</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Cora%C3%A7%C3%A3o%20das%20Cartas/Main.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>Abreviando Posts do Blog</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Abreviando%20Posts%20do%20Blog/Main.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Combinação de Strings</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Combina%C3%A7%C3%A3o%20de%20Strings/Main.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">4</td>
                 <td>Hash Mágico</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Algoritmos%20com%20Java/Hash%20M%C3%A1gico/Main.java">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">5</td>
                 <td>O Tabuleiro Secreto</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Algoritmos%20com%20Java/O%20Tabuleiro%20Secreto/Main.java">Código</a></td>
                 <td align="center">✔️</td>
@@ -497,31 +458,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solução de Problemas Básicos em Java -->
         <table border=1>
             <tr>
-                <th colspan="4">Solução de Problemas Básicos em Java</th>
+                <th colspan="3">Solução de Problemas Básicos em Java</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Exibindo Números Pares</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>Idade em Dias</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Idade%20em%20Dias">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Notas da Prova</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Notas%20da%20Prova">Código</a></td>
                 <td align="center">✔️</td>
@@ -538,31 +495,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação -->
         <table border=1>
             <tr>
-                <th colspan="4">Introdução a Programação</th>
+                <th colspan="3">Introdução a Programação</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Dividindo X por Y</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.Dvividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>Distância</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.Dist%C3%A2ncia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Quanta Mandioca?</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.Quanta%20Mandioca">Código</a></td>
                 <td align="center">✔️</td>
@@ -571,31 +524,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="4">Introdução a Programação com JavaScript</th>
+                <th colspan="3">Introdução a Programação com JavaScript</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Visita na Feira</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Visita%20na%20Feira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>Multiplicação Simples</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Folha de Pagamento</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center">✔️</td>
@@ -604,43 +553,37 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Fundamentos Aritméticos -->
         <table border=1>
             <tr>
-                <th colspan="4">Fundamentos Aritméticos</th>
+                <th colspan="3">Fundamentos Aritméticos</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Quantidade de Números Positivos</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Quantidade%20de%20N%C3%BAmeros%20Positivos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>Exibindo Números Pares</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Análise de Números</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">4</td>
                 <td>Contagem de Cédulas</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Contagem%20de%20C%C3%A9dulas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">5</td>
                 <td>Consumo Médio do Automóvel</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
                 <td align="center">✔️</td>
@@ -649,43 +592,37 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Problemas Aritméticos -->
         <table border=1>
             <tr>
-                <th colspan="4">Problemas Aritméticos</th>
+                <th colspan="3">Problemas Aritméticos</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Soma Simples</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Problemas%20Aritm%C3%A9ticos/Soma%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>Coxinha de Bueno</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Problemas%20Aritm%C3%A9ticos/Coxinha%20de%20Bueno">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Cálculo da Viagem</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Problemas%20Aritm%C3%A9ticos/C%C3%A1lculo%20da%20Viagem">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">4</td>
                 <td>Imposto de Renda</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Problemas%20Aritm%C3%A9ticos/Imposto%20de%20Renda">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">5</td>
                 <td>Teorema da Divisão Euclidiana</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Problemas%20Aritm%C3%A9ticos/Teorema%20da%20Divis%C3%A3o%20Euclidiana">Código</a></td>
                 <td align="center">✔️</td>
@@ -694,31 +631,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solução de Problemas Básicos em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="4">Solução de Problemas Básicos em JavaScript</th>
+                <th colspan="3">Solução de Problemas Básicos em JavaScript</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Dividindo X por Y</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20JavaScript/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>Blobs</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20JavaScript/Blobs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Tipos de Combustível</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20JavaScript/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
                 <td align="center">✔️</td>
@@ -727,43 +660,37 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Soluções e Problemas Essenciais -->
         <table border=1>
             <tr>
-                <th colspan="4">Soluções e Problemas Essenciais</th>
+                <th colspan="3">Soluções e Problemas Essenciais</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Quadrado e ao Cubo</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/Quadrado%20e%20ao%20Cubo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>A Corrida de Tartarugas</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/Corrida%20de%20Tartarugas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Ultrapassando V</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/Ultrapassando%20V">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">4</td>
                 <td>Validação da Nota</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/Valida%C3%A7%C3%A3o%20da%20Nota">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">5</td>
                 <td>Pedro Bento e o Mundo de OZ</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/Pedro%20Bento%20e%20o%20Mundo%20de%20OZ">Código</a></td>
                 <td align="center">✔️</td>
@@ -772,43 +699,37 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Busca e Laços de Repetição -->
         <table border=1>
             <tr>
-                <th colspan="4">Busca e Laços de Repetição</th>
+                <th colspan="3">Busca e Laços de Repetição</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>O Escolhido</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Escolhido">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>Comunicação em Piralândia</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Degustação de Vinho</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Degusta%C3%A7%C3%A3o%20de%20Vinho">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">4</td>
                 <td>Pink e Cérebro</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Pink%20e%20C%C3%A9rebro/solution.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">5</td>
                 <td>Menor e Posição</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Menor%20e%20Posi%C3%A7%C3%A3o/solution.js">Código</a></td>
                 <td align="center">✔️</td>
@@ -817,31 +738,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desenvolvimento de Problemas Avançados em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="4">Desenvolvimento de Problemas Avançados em JavaScript</th>
+                <th colspan="3">Desenvolvimento de Problemas Avançados em JavaScript</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Ordenando Números Pares e Ímpares</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>Animal</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/Animal">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Compras no Supermercado</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/Compras%20no%20Supermercado">Código</a></td>
                 <td align="center">✔️</td>
@@ -858,31 +775,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="4">Introdução a Programação em Kotlin</th>
+                <th colspan="3">Introdução a Programação em Kotlin</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/Soma%20Simples/README.md">Soma Simples</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/Soma%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/N%C3%BAmeros%20%C3%8Dmpares/README.md">Números Ímpares</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/Quadrado%20e%20ao%20Cubo/README.md">Quadrado e ao Cubo</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/Quadrado%20e%20ao%20Cubo">Código</a></td>
                 <td align="center">✔️</td>
@@ -890,43 +803,37 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solucionando Problemas em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="4">Solucionando Problemas em Kotlin</th>
+                <th colspan="3">Solucionando Problemas em Kotlin</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Taxa%20de%20Imposto%20de%20Renda/README.md">Taxa de Imposto de Renda</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Taxa%20de%20Imposto%20de%20Renda">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/%C3%81rea%20do%20C%C3%ADrculo/README.md">Área do Círculo</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Primo%20R%C3%A1pido/README.md">Primo Rápido</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Primo%20R%C3%A1pido">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">4</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Corrida%20de%20Tartarugas/README.md">A Corrida de Tartarugas</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Corrida%20de%20Tartarugas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">5</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Figurinhas/README.md">Figurinhas</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Figurinhas">Código</a></td>
                 <td align="center">✔️</td>
@@ -935,31 +842,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Praticando Programação em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="4">Praticando Programação em Kotlin</th>
+                <th colspan="3">Praticando Programação em Kotlin</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/O%20jogo%20Matem%C3%A1tico%20de%20Paula/README.md">O jogo Matemático de Paula</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/O%20jogo%20Matem%C3%A1tico%20de%20Paula">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/Convers%C3%A3o%20Simples%20de%20Base/README.md">Conversão Simples de Base</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/Convers%C3%A3o%20Simples%20de%20Base">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/Bob%20Conduite/README.md">Bob Conduite</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/Bob%20Conduite">Código</a></td>
                 <td align="center">✔️</td>
@@ -976,31 +879,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solucionando Problemas Básicos em Ruby -->
         <table border=1>
             <tr>
-                <th colspan="4">Solucionando Problemas Básicos em Ruby</th>
+                <th colspan="3">Solucionando Problemas Básicos em Ruby</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td>Par ou Ímpar</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Par%20ou%20%C3%8Dmpar">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td>DDD</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/DDD">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td>Idade em Dias</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Idade%20em%20Dias">Código</a></td>
                 <td align="center">✔️</td>
@@ -1009,43 +908,37 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Praticando com Desafios Intermediários em Ruby -->
         <table border=1>
             <tr>
-                <th colspan="4">Praticando com Desafios Intermediários em Ruby</th>
+                <th colspan="3">Praticando com Desafios Intermediários em Ruby</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
-                <th>Etapa</th>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Encaixa%20ou%20N%C3%A3o/README.md">Encaixa ou Não?</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Encaixa%20ou%20N%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Tipo%20de%20Combust%C3%ADvel/README.md">Tipo de Combustível</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">3</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Crescimento%20Populacional/README.md">Crescimento Populacional</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Crescimento%20Populacional">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">4</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Fibonacci%20F%C3%A1cil/README.md">Fibonacci Fácil</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Fibonacci%20F%C3%A1cil">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">5</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Sequ%C3%AAncia%20L%C3%B3gica/README.md">Sequência Lógica</a></td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Sequ%C3%AAncia%20L%C3%B3gica">Código</a></td>
                 <td align="center">✔️</td>
