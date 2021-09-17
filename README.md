@@ -1441,25 +1441,25 @@ Passo 1 - O primeiro passo é bem simples, que é achar o desafio da DIO no URI,
 Passo 2 - No URI vc vai no canto superior direito e clica em uDebug.
 
 <p align="center">
-  <img src="./assets/uDebug_01.png" alt="Image" width="200px" />
+  <img src="./assets/uDebug_01.png" alt="Image" width="400px" />
 </p>
 
 Passo 3 - Na tela do uDebug você seleciona um caso de teste e clica em "Get Accepted Output".
 
 <p align="center">
-  <img src="./assets/uDebug_02.png" alt="Image" width="200px" />
+  <img src="./assets/uDebug_02.png" alt="Image" width="400px" />
 </p>
 
 Passo 4 - Assim que vc clicar em "Get Accepted Output", a saida esperada do caso de teste vai aparecer abaixo, você copia a sua saida e cola ao lado em "your output" e clica em "Compare outputs".
 
 <p align="center">
-  <img src="./assets/uDebug_03.png" alt="Image" width="200px" />
+  <img src="./assets/uDebug_03.png" alt="Image" width="400px" />
 </p>
 
 Obs: recomendo cuidado ao copiar a sua saida, copie tudo, inclusive quebra de linha que possa haver ao final dela. É melhor usar um ctrl+a ou qualquer outro comando seleção completa.
 
 <p align="center">
-  <img src="./assets/uDebug_04.png" alt="Image" width="200px" />
+  <img src="./assets/uDebug_04.png" alt="Image" width="400px" />
 </p>
 
 Obs2: Não existe nenhuma trapaça em fazer isso, nem o URI e nem o uDebug vai te dar a solução dos desafios, você ainda terá que desenvolver o código. Essa é apenas uma ajuda para evitar dores de cabeça com casos de teste com erros.
