@@ -8,7 +8,7 @@ Você terá desafio de ler um valor com duas casas decimais, equivalente ao sal�
 Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
 
 <p align="center">
-    <img src="../../../../taxa-imposto-renda.png" width="270" height="270">
+    <img src="../../../../assets/taxa-imposto-renda.png" width="270" height="270">
 </p>
 
 Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00, 

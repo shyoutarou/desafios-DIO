@@ -1,14 +1,11 @@
 <hr />
 
 <h4 align="left">Desafio</h4>
-    <p align="center">
-        <a align="center" href="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1199.gif">
-            <img 
-                src="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1199.gif" 
-                alt="Conversão Simples de Base" 
-            />
-        </a>
-    </p>
+
+	<p align="center">
+		<img src="../../../../assets/conversao-simples.gif" width="270" height="270">
+	</p>
+	
     <p align="justify">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neste problema você é solicitado a escrever um simples programa de conversão de base. A entrada será um valor 
         hexadecimal ou decimal. Você deverá converter cada valor da entrada. Se o valor for hexadecimal, você deve convertê-lo para decimal e 

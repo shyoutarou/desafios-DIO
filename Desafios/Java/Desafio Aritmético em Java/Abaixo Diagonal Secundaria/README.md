@@ -6,7 +6,7 @@ considerando somente aqueles elementos que estão abaixo da diagonal Secundária
 da matriz, conforme ilustrado abaixo (área verde).
 
 <p align="center">
-    <img src="../../../../abaixo-diagonal-secundaria.png" width="270" height="270">
+    <img src="../../../../assets/abaixo-diagonal-secundaria.png" width="270" height="270">
 </p>
 
 ## Entrada

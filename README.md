@@ -1102,6 +1102,8 @@ Você também pode tirar dúvidas com milhares de Devs em nossa comunidade no Di
 
 Após revisado e testado o seu código, você deve clicar no botão "ENTREGAR DESAFIO", para avaliação em tempo real.
 
+## Solução de Desafio Java, JavaScript e Kotlin
+
 [Link para o artigo no GitHub](https://github.com/joseliojunior/library/tree/main/guia-de-bolso/desafios-da-dio)
 
 
@@ -1295,7 +1297,7 @@ Saída esperada
 Logo o código feito para cada linguagem daria certo em ambos os testes, pois sempre entrariam a primeira e a terceira linha de entrada, faria-se a soma e seria por fim exibido o resultado que é igual a saída esperada por cada teste.
 
 
-## Solução do Desafio C# 
+## Solução de Desafio C# 
 
 [Link original](https://web.digitalinnovation.one/articles/entendendo-o-codigo-solucao-do-desafio-c-multiplos?back=%2Fhome&page=1&order=oldest)
 

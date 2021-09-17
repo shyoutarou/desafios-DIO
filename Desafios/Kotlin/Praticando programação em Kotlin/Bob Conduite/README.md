@@ -6,14 +6,11 @@
         Você precisa comprar um conduite circular (veja a imagem abaixo que ilustra um conduite) de maneira a passar os dois cabos por 
         dentro dele:
     </p>
-    <p align="center">
-        <a align="center" href="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1589.jpg">
-            <img 
-                src="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1589.jpg" 
-                alt="Bob Conduite"
-            />
-        </a>
-    </p>
+	
+	<p align="center">
+		<img src="../../../../assets/bob-conduite.jpg" width="270" height="270">
+	</p>
+	
     <p align="justify">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qual o menor raio do conduite que você deve comprar? Em outras palavras, dado dois círculos, qual o 
         raio do menor círculo que possa englobar ambos os dois?
@@ -59,4 +56,3 @@
 </table>
 
 <hr />
-
