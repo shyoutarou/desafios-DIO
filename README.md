@@ -56,31 +56,31 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td align="center">1</td>
                 <td>Bazinga!</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/blob/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Bazinga!/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Bazinga!">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Comunicação em Piralândia</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/blob/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Crescimento Populacional</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/blob/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Crescimento%20Populacional/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Crescimento%20Populacional">Código</a></td>
                 <td align="center">✔️</td>
 			<tr>
             <tr>
                 <td align="center">3</td>
                 <td>Média 1</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/blob/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/M%C3%A9dia%201/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/M%C3%A9dia%201">Código</a></td>
                 <td align="center">✔️</td>
 			<tr>
             <tr>
                 <td align="center">3</td>
                 <td>Tempo de um Evento</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/blob/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Tempo%20de%20um%20Evento/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Tempo%20de%20um%20Evento">Código</a></td>
                 <td align="center">✔️</td>
 			<tr>			
         </table>
@@ -101,19 +101,19 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td align="center">1</td>
                 <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Dividindo%20X%20por%20Y/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Distância</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Dist%C3%A2ncia/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Dist%C3%A2ncia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Quanta Mandioca?</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Quanta%20Mandioca/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Quanta%20Mandioca">Código</a></td>
                 <td align="center">✔️</td>
         </table>
         <!-- Introdução a Programação com .NET -->
@@ -133,19 +133,19 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td align="center">1</td>
                 <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/blob/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Dividindo%20X%20por%20Y/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Bazinga!</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/blob/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Bazinga!/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Bazinga!">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Coxinha de Bueno</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/blob/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Coxinha%20de%20Bueno/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/Coxinha%20de%20Bueno">Código</a></td>
                 <td align="center">✔️</td>
         </table>
         <!-- Desenvolvendo Algoritmos com C# -->
@@ -165,19 +165,19 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td align="center">1</td>
                 <td>Cálculo de Viagem</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/C%C3%A1lculo%20de%20Viagem/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/C%C3%A1lculo%20de%20Viagem">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Álbum da Copa</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/%C3%81lbum%20da%20Copa/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/%C3%81lbum%20da%20Copa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Animal</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/Animal/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/Animal">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
@@ -198,31 +198,31 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td align="center">1</td>
                 <td>Média 1</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/M%C3%A9dia%201/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/M%C3%A9dia%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Crescimento Populacional</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/Crescimento%20Populacional/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/Crescimento%20Populacional">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Bazinga!</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/Bazinga!/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/Bazinga!">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">4</td>
                 <td>Tempo de um Evento</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/4.%20Tempo%20de%20um%20Evento/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/4.%20Tempo%20de%20um%20Evento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Comunicação em Piralândia</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/5.%20Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/5.%20Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
@@ -243,43 +243,43 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td align="center">1</td>
                 <td>Hora da Corrida</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Hora%20da%20Corrida/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Hora%20da%20Corrida">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Cardápio Aéreo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Card%C3%A1pio%20A%C3%A9reo/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Card%C3%A1pio%20A%C3%A9reo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Pizza Antes do Final do Ano</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Pizza%20Antes%20do%20Final%20do%20Ano/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Pizza%20Antes%20do%20Final%20do%20Ano">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">4</td>
                 <td>Conversão de Tempo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/4.%20Convers%C3%A3o%20de%20Tempo/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/4.%20Convers%C3%A3o%20de%20Tempo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Idade em Dias</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/5.%20Idade%20em%20Dias/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/5.%20Idade%20em%20Dias">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">6</td>
                 <td>Tempo do Dobby</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/6.%20Tempo%20do%20Dobby/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/6.%20Tempo%20do%20Dobby">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">7</td>
                 <td>Rodízio de Cavalos e Carruagens</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/7.%20Rod%C3%ADzio%20de%20Cavalos%20e%20Carruagens/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/7.%20Rod%C3%ADzio%20de%20Cavalos%20e%20Carruagens">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
@@ -300,19 +300,19 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td align="center">1</td>
                 <td>Consumo Médio do Automóvel</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/5.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/5.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>DDD</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/5.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/DDD/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/5.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/DDD">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Aumento de Salário</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/5.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/Aumento%20de%20Sal%C3%A1rio/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/5.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/Aumento%20de%20Sal%C3%A1rio">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
@@ -333,31 +333,31 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td align="center">1</td>
                 <td>Quadrado e ao Cubo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/Quadrado%20e%20ao%20Cubo/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/Quadrado%20e%20ao%20Cubo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>A Corrida de Tartarugas</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/A%20Corrida%20de%20Tartarugas/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/A%20Corrida%20de%20Tartarugas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Ultrapassando V</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/Ultrapassando%20V/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/Ultrapassando%20V">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">4</td>
                 <td>Validação de Nota</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/4.%20Valida%C3%A7%C3%A3o%20de%20Nota/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/4.%20Valida%C3%A7%C3%A3o%20de%20Nota">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Pedro Bento e o Mundo de OZ</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/5.%20Pedro%20Bento%20e%20o%20Mundo%20de%20OZ/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/5.%20Pedro%20Bento%20e%20o%20Mundo%20de%20OZ">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
@@ -378,19 +378,19 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td align="center">1</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/8.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Coordenadas%20de%20um%20Ponto/README.md">Coordenadas de um Ponto</a></td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/8.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Coordenadas%20de%20um%20Ponto/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/8.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Coordenadas%20de%20um%20Ponto">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/8.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Compras%20no%20Supermercado/README.md">Compras no Supermercado</a></td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/8.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Compras%20no%20Supermercado/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/8.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Compras%20no%20Supermercado">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/8.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Pink%20e%20C%C3%A9rebro/README.md">Pink e Cérebro</a></td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/8.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Pink%20e%20C%C3%A9rebro/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/8.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/Pink%20e%20C%C3%A9rebro">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
