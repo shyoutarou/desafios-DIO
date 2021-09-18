@@ -2741,7 +2741,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Imposto de Renda</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Impost">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Imposto%20de%20Renda">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
@@ -2846,10 +2846,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
     <summary><strong>Python</strong></summary>
     <br />
     <div align="left">
-        <!-- Solucionando Problemas Básicos em Ruby -->
+        <!-- Desafios matemáticos em Python -->
         <table border=1>
             <tr>
-                <th colspan="3">Solucionando Problemas Básicos em Ruby</th>
+                <th colspan="3">Desafios matemáticos em Python</th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -2860,20 +2860,108 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Par ou Ímpar</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Par%20ou%20%C3%8Dmpar">Código</a></td>
+                <td>Preenchimento de Vetor III</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20matem%C3%A1ticos%20em%20Python/Preenchimento%20de%20Vetor%20III">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>DDD</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/DDD">Código</a></td>
+                <td>Rodízio de cavalos e carruagens</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20matem%C3%A1ticos%20em%20Python/Rod%C3%ADzio%20de%20cavalos%20e%20carruagens">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Idade em Dias</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Idade%20em%20Dias">Código</a></td>
+                <td>Tempo de Jogo com Minutos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20matem%C3%A1ticos%20em%20Python/Tempo%20de%20Jogo%20com%20Minutos">Código</a></td>
                 <td align="center">✔️</td>
+            </tr>                
         </table>
+        <!-- Resolvendo algoritmos com Python -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Resolvendo algoritmos com Python</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>A Resposta de Theon</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Resolvendo%20algoritmos%20com%20Python/A%20Resposta%20de%20Theon">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Exibindo Números Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Resolvendo%20algoritmos%20com%20Python/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fibonacci Fácil</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Resolvendo%20algoritmos%20com%20Python/Fibonacci%20F%C3%A1cil">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                
+        </table>     
+        <!-- Solucionando Desafios em Python -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solucionando Desafios em Python</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Folha de Pagamento</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Solucionando%20Desafios%20em%20Python/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Média 3</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Solucionando%20Desafios%20em%20Python/M%C3%A9dia%203">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Programa para Validação de Notas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Solucionando%20Desafios%20em%20Python/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                
+        </table>   
+        <!-- Soluções Aritméticas em Python -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Soluções Aritméticas em Python</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Notas da Prova</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/Notas%20da%20Prova">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Preenchimento de Vetor I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/Preenchimento%20de%20Vetor%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Triângulo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/Tri%C3%A2ngulo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                
+        </table>                     
     </div>
 </details>
 
