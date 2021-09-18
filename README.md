@@ -830,6 +830,355 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
     <summary><strong>Java</strong></summary>
     <br />
     <div align="left">
+        <!-- Desafio Aritmético em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafio Aritmético em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Abaixo Diagonal Principal</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Principal">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Abaixo Diagonal Secundaria</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Secundaria">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Acima Diagonal Secundaria</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Acima%20Diagonal%20Secundaria">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Divisores</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Divisores">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>    
+        <!-- Desafios Avançados em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafios Avançados em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3">Everis Site Reliability Engineer Essentials</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>A Mudança</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Área Superior</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fibonacci em Vetor</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>           
+        </table>      
+        <!-- Desafios matemáticos em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafios matemáticos em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Área Direita</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/%C3%81rea%20Direita">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Área Esquerda</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/%C3%81rea%20Esquerda">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Área Inferior</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/%C3%81rea%20Inferior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>           
+        </table>        
+        <!-- Desafios numéricos em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafios numéricos em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3">Santander Bootcamp | Fullstack Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Análise de Números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Santander%20Bootcamp%20Fullstack%20Developer/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Contagem de Cédulas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Santander%20Bootcamp%20Fullstack%20Developer/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Folha de Pagamento</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Santander%20Bootcamp%20Fullstack%20Developer/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>               
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Área Esquerda</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/%C3%81rea%20Esquerda">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Conversão de Tempo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Convers%C3%A3o%20de%20Tempo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Divisores I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Divisores%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Encaixa ou Não</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fatorial Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Fatorial%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Seis Números Ímpares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Seis%20N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                                  
+        </table>    
+        <!-- Fundamentos Aritméticos em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Fundamentos Aritméticos em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Análise de Números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Consumo Médio do Automóvel</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Contagem de Cédulas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Exibindo Números Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quantidade de números positivos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Quantidade%20de%20n%C3%BAmeros%20positivos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>       
+        <!-- Iniciando a programação em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Iniciando a programação em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>DDD</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Entrada e Saída CPF</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Entrada%20e%20Sa%C3%ADda%20CPF">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>         
+        </table>           
+        <!-- Introdução a Busca e Substituição em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Introdução a Busca e Substituição em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Atalhos para o Weblogger Brasil</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Atalhos%20para%20o%20Weblogger%20Brasil">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Encontre a maior substring</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Encontre%20a%20maior%20substring">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>     
+            <tr>
+                <td>Ordenação de Palavras por Tamanho</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Ordena%C3%A7%C3%A3o%20de%20Palavras%20por%20Tamanho">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pedra, Papel, Tesoura, Lagarto e Spock</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Pedra%2C%20Papel%2C%20Tesoura%2C%20Lagarto%20e%20Spock">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>        
+            <tr>
+                <td>Validador de Senhas com requisitos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/Validador%20de%20Senhas%20com%20requisitos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                            
+        </table>      
+        <!-- Introdução a Programação com Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Introdução a Programação com Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Área Direita</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/%C3%81rea%20Direita">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Conversão Simples de Base</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Convers%C3%A3o%20Simples%20de%20Base">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>    
+            <tr>
+                <td>Encaixa ou Não</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Folha de Pagamento</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+            <tr>
+                <td>Multiplicação Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Múltiplos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/M%C3%BAltiplos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+            <tr>
+                <td>Quadrado e ao Cubo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Quadrado%20e%20ao%20Cubo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tempo de Jogo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Tempo%20de%20Jogo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+            <tr>
+                <td>Visita na Feira</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Visita%20na%20Feira">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                                                               
+        </table>     
+        <!-- Introdução a Programação em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Introdução a Programação em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Conversão de Tempo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/Convers%C3%A3o%20de%20Tempo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>DDD</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/DDD">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+            <tr>
+                <td>Tuitando</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20em%20Java/Tuitando">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                      
+        </table>                                        
         <!-- Ordenação e Filtros em Java -->
         <table border=1>
             <tr>
@@ -869,6 +1218,162 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Praticando programação em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Praticando programação em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Abreviando posts do Blog</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Abreviando%20posts%20do%20Blog">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Conjuntos Bons ou Ruins</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Conjuntos%20Bons%20ou%20Ruins">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+            <tr>
+                <td>Encontre a maior substring</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Encontre%20a%20maior%20substring">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>         
+            <tr>
+                <td>Entrevista Embaraçosa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Entrevista%20Embara%C3%A7osa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+            <tr>
+                <td>Validador Senhas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/Validador%20Senhas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                          
+        </table>     
+        <!-- Primeiros desafios de código com Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Primeiros desafios de código com Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Mês</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20desafios%20de%20c%C3%B3digo%20com%20Java/M%C3%AAs">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Teste de Seleção 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20desafios%20de%20c%C3%B3digo%20com%20Java/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+            <tr>
+                <td>Validação de Nota</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20desafios%20de%20c%C3%B3digo%20com%20Java/Valida%C3%A7%C3%A3o%20de%20Nota">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                                  
+        </table>     
+        <!-- Primeiros passos com Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Primeiros passos com Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Batmain</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Batmain">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Diferença</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Diferen%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+            <tr>
+                <td>Distância</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Dist%C3%A2ncia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>    
+            <tr>
+                <td>Dividindo X por Y</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Dividindo%20X%20por%20Y">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pares entre Cinco Números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Pares%20entre%20Cinco%20N%C3%BAmeros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+            <tr>
+                <td>Soma Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Soma%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                                           
+        </table>   
+        <!-- Primeiros passos em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Primeiros passos em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3">Santander Bootcamp | Fullstack Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>A Resposta de Theon</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/A%20Resposta%20de%20Theon">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Divisores</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/Divisores">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Domingo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/Domingo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quantidade Números Positivos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/Quantidade%20N%C3%BAmeros%20Positivos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Seis Números Ímpares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/Seis%20N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Visita na Feira</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/Visita%20na%20Feira">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>                           
         <!-- Resolvendo Algoritmos com Java -->
         <table border=1>
             <tr>
@@ -908,6 +1413,35 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Resolvendo Desafios em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Resolvendo Desafios em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Evitando Chuva</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Desafios%20em%20Java/Evitando%20Chuva">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Preenchimento de Vetor III</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Desafios%20em%20Java/Preenchimento%20de%20Vetor%20III">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Uniformes de final de ano</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Desafios%20em%20Java/Uniformes%20de%20final%20de%20ano">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>        
         <!-- Solução de Problemas Básicos em Java -->
         <table border=1>
             <tr>
@@ -937,6 +1471,118 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Solução de Problemas com Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solução de Problemas com Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Barras de Ouro</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/BarrasdeOuro">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Conjuntos Bons ou Ruins</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Conjuntos%20Bons%20ou%20Ruins">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Contagem Repetida de números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Contagem%20Repetida%20de%20n%C3%BAmeros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Entrevista Embaraçosa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Entrevista%20Embara%C3%A7osa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Melhor amigo do Pablo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Melhor%20amigo%20do%20Pablo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Produto e divisão</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Produto%20e%20divis%C3%A3o">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>        
+            <tr>
+                <td>Vogais Extraterrestres</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/Vogais%20Extraterrestres">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                  
+        </table>  
+        <!-- Solucionando Desafios em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solucionando Desafios em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3">Santander Bootcamp | Fullstack Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Área do Círculo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solucionando%20Desafios%20em%20Java/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Combina Strings</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solucionando%20Desafios%20em%20Java/Combina%20Strings">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Corrida Tartaruga</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solucionando%20Desafios%20em%20Java/Corrida%20Tartaruga">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Encaixa ou Não</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solucionando%20Desafios%20em%20Java/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Média 3</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solucionando%20Desafios%20em%20Java/M%C3%A9dia%203">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>     
+        <!-- Solucionando problemas básicos em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solucionando problemas básicos em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Menor e Posição</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Números Ímpares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Idade%20em%20Dias">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>                 
     </div>
 </details>
 
