@@ -247,7 +247,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Desafios numéricos em C#</th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Decola Tech Avanade</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -404,7 +404,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Introdução a Resolução de Desafios com C#</th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Decola Tech Avanade </th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -525,7 +525,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Primeiros desafios Matemáticos em C#</th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Decola Tech Avanade</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1094,7 +1094,30 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com Java -->
         <table border=1>
             <tr>
-                <th colspan="3">Introdução a Programação com Java</th>
+                <th colspan="3">Capgemini Fullstack Java and Angular</th>
+            </tr>
+                        <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Média 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/%C3%81rea%20Direita">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Multiplicação Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Convers%C3%A3o%20Simples%20de%20Base">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>    
+            <tr>
+                <td>Soma Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+                <td align="center">✔️</td>
             </tr>
             <tr>
                 <th colspan="3"></th>
