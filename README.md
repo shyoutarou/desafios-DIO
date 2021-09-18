@@ -2513,6 +2513,30 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
     <summary><strong>Kotlin</strong></summary>
     <br />
     <div align="left">
+        <!-- Desafios Matemáticos em Kotlin -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafios Matemáticos em Kotlin</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Consumo Médio do Automóvel</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/Soma%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Coxinha de Bueno</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>             
+        </table>    
         <!-- Introdução a Programação em Kotlin -->
         <table border=1>
             <tr>
@@ -2527,19 +2551,20 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/Soma%20Simples/README.md">Soma Simples</a></td>
+                <td>Soma Simples</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/Soma%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/N%C3%BAmeros%20%C3%8Dmpares/README.md">Números Ímpares</a></td>
+                <td>Números Ímpares</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/Quadrado%20e%20ao%20Cubo/README.md">Quadrado e ao Cubo</a></td>
+                <td>Quadrado e ao Cubo</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/Quadrado%20e%20ao%20Cubo">Código</a></td>
                 <td align="center">✔️</td>
+            </tr>                
         </table>
         <!-- Solucionando Problemas em Kotlin -->
         <table border=1>
@@ -2555,27 +2580,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Taxa%20de%20Imposto%20de%20Renda/README.md">Taxa de Imposto de Renda</a></td>
+                <td>Taxa de Imposto de Renda</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Taxa%20de%20Imposto%20de%20Renda">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/%C3%81rea%20do%20C%C3%ADrculo/README.md">Área do Círculo</a></td>
+                <td>Área do Círculo</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Primo%20R%C3%A1pido/README.md">Primo Rápido</a></td>
+                <td>Primo Rápido</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Primo%20R%C3%A1pido">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Corrida%20de%20Tartarugas/README.md">A Corrida de Tartarugas</a></td>
+                <td>A Corrida de Tartarugas</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Corrida%20de%20Tartarugas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Figurinhas/README.md">Figurinhas</a></td>
+                <td>Figurinhas</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Figurinhas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
@@ -2594,20 +2619,56 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/O%20jogo%20Matem%C3%A1tico%20de%20Paula/README.md">O jogo Matemático de Paula</a></td>
+                <td>O jogo Matemático de Paula</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/O%20jogo%20Matem%C3%A1tico%20de%20Paula">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/Convers%C3%A3o%20Simples%20de%20Base/README.md">Conversão Simples de Base</a></td>
+                <td>Conversão Simples de Base</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/Convers%C3%A3o%20Simples%20de%20Base">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/Bob%20Conduite/README.md">Bob Conduite</a></td>
+                <td>Bob Conduite</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/Bob%20Conduite">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
+        </table>
+    </div>
+</details>
+
+<!-- Python -->
+<details>
+    <summary><strong>Python</strong></summary>
+    <br />
+    <div align="left">
+        <!-- Solucionando Problemas Básicos em Ruby -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solucionando Problemas Básicos em Ruby</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Par ou Ímpar</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Par%20ou%20%C3%8Dmpar">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>DDD</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/DDD">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Idade em Dias</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Idade%20em%20Dias">Código</a></td>
+                <td align="center">✔️</td>
         </table>
     </div>
 </details>
@@ -2645,7 +2706,6 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Idade%20em%20Dias">Código</a></td>
                 <td align="center">✔️</td>
         </table>
-        <!-- Solucionando Problemas Básicos em Ruby -->
         <!-- Praticando com Desafios Intermediários em Ruby -->
         <table border=1>
             <tr>
@@ -2660,32 +2720,31 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Encaixa%20ou%20N%C3%A3o/README.md">Encaixa ou Não?</a></td>
+                <td>Encaixa ou Não?</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Encaixa%20ou%20N%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Tipo%20de%20Combust%C3%ADvel/README.md">Tipo de Combustível</a></td>
+                <td>Tipo de Combustível</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Crescimento%20Populacional/README.md">Crescimento Populacional</a></td>
+                <td>Crescimento Populacional</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Crescimento%20Populacional">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Fibonacci%20F%C3%A1cil/README.md">Fibonacci Fácil</a></td>
+                <td>Fibonacci Fácil</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Fibonacci%20F%C3%A1cil">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Sequ%C3%AAncia%20L%C3%B3gica/README.md">Sequência Lógica</a></td>
+                <td>Sequência Lógica</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Sequ%C3%AAncia%20L%C3%B3gica">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
-        <!-- Praticando com Desafios Intermediários em Ruby -->
     </div>
 </details>
 

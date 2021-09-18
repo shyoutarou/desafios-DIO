@@ -16,9 +16,6 @@ Saída
 
 Imprima o texto "R$" seguido de um espaço e do valor total devido de Imposto de Renda, com duas casas após o ponto. Se o valor de entrada for menor ou igual a 2000, deverá ser impressa a mensagem "Isento".
 
-SOLUÇÃO PEPSQUISADA EM:
-https://github.com/lucasrmagalhaes/desafios-DIO/tree/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/1.%20Taxa%20de%20Imposto%20de%20Renda
-
 */
 fun main(args: Array<String>) {
     //continue a solução
