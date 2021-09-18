@@ -1574,12 +1574,12 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Menor e Posição</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solucionando%20problemas%20b%C3%A1sicos%20em%20Java/Menor%20e%20Posi%C3%A7%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Números Ímpares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/Idade%20em%20Dias">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solucionando%20problemas%20b%C3%A1sicos%20em%20Java/N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>                 
@@ -1591,6 +1591,409 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
     <summary><strong>JavaScript</strong></summary>
     <br />
     <div align="left">
+        <!-- Busca e Laços de Repetição -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Busca e Laços de Repetição</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>O Escolhido</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Escolhido">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Comunicação em Piralândia</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Degustação de Vinho</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Degusta%C3%A7%C3%A3o%20de%20Vinho">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pink e Cérebro</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Pink%20e%20C%C3%A9rebro/solution.js">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Menor e Posição</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Menor%20e%20Posi%C3%A7%C3%A3o/solution.js">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>
+        <!-- Desafio Aritmético em JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafio Aritmético em JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Acima da Diagonal Secundária</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafio%20Aritm%C3%A9tico%20em%20JavaScript/Acima%20da%20Diagonal%20Secund%C3%A1ria">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Área Inferior</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafio%20Aritm%C3%A9tico%20em%20JavaScript/%C3%81rea%20Inferior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Positivos e Média</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafio%20Aritm%C3%A9tico%20em%20JavaScript/Positivos%20e%20M%C3%A9dia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>    
+        <!-- Desafios Aritméticos em JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafios Aritméticos em JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Coxinha de Bueno</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/Coxinha%20de%20Bueno">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fibonacci Fácil</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/Fibonacci%20F%C3%A1cil">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Preenchimento de Vetor I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/Preenchimento%20de%20Vetor%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Substituição em Vetor I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/Substitui%C3%A7%C3%A3o%20em%20Vetor%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Teorema da Divisão Euclidiana</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/Teorema%20da%20Divis%C3%A3o%20Euclidiana">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>   
+        <!-- Desafios avançados de código em JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafios avançados de código em JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Diferença</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20avan%C3%A7ados%20de%20c%C3%B3digo%20em%20JavaScript/Diferen%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fila do Banco</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20avan%C3%A7ados%20de%20c%C3%B3digo%20em%20JavaScript/Fila%20do%20Banco">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Idade em Dias</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20avan%C3%A7ados%20de%20c%C3%B3digo%20em%20JavaScript/Idade%20em%20Dias">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>    
+        <!-- Desafios de código em JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafios de código em JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Análise de Números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20c%C3%B3digo%20em%20JavaScript/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Aumento de Salário</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20c%C3%B3digo%20em%20JavaScript/Aumento%20de%20Sal%C3%A1rio">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quantidade de Numeros Positivos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20c%C3%B3digo%20em%20JavaScript/Quantidade%20de%20Numeros%20Positivos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>      
+        <!-- Desafios Intermediários em JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafios Intermediários em JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Área Superior</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/%C3%81rea%20Superior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Folha de Pagamento</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quanta Mandioca?</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/Quanta%20Mandioca">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>  
+        <!-- Desafios Lógicos -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafios Lógicos</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Abreviando posts do blog</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20L%C3%B3gicos/Abreviando%20posts%20do%20blog">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Álbum da Copa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20L%C3%B3gicos/%C3%81lbum%20da%20Copa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Brinquedos do Papai Noel</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20L%C3%B3gicos/Brinquedos%20do%20Papai%20Noel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Hash Mágico</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20L%C3%B3gicos/Hash%20M%C3%A1gico">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>O tabuleiro secreto</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20L%C3%B3gicos/O%20tabuleiro%20secreto">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Votação para Bobo da Corte</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20L%C3%B3gicos/Vota%C3%A7%C3%A3o%20para%20Bobo%20da%20Corte">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>   
+        <!-- Desafios Matematicos em JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafios Matematicos em JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Contagem de Cédulas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Matematicos%20em%20JavaScript/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Programa para Validação de Notas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Matematicos%20em%20JavaScript/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quanta Mandioca?</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Matematicos%20em%20JavaScript/Quanta%20Mandioca">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>                                             
+        <!-- Desenvolvimento de Problemas Avançados em JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desenvolvimento de Problemas Avançados em JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Ordenando Números Pares e Ímpares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Animal</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/Animal">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Compras no Supermercado</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/Compras%20no%20Supermercado">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>        
+        <!-- Fundamentos Aritméticos em Javascript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Fundamentos Aritméticos em Javascript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Quantidade de Números Positivos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Quantidade%20de%20N%C3%BAmeros%20Positivos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Exibindo Números Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Análise de Números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Contagem de Cédulas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Consumo Médio do Automóvel</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>    
+        <!-- Iniciando Desafios em JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Iniciando Desafios em JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Cálculo de Viagem</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Iniciando%20Desafios%20em%20JavaScript/C%C3%A1lculo%20de%20Viagem">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Multiplicação Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Iniciando%20Desafios%20em%20JavaScript/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Visita na Feira</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Iniciando%20Desafios%20em%20JavaScript/Visita%20na%20Feira">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>      
+        <!-- Introdução a Busca e Substituição em JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Introdução a Busca e Substituição em JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Atalhos para o Weblogger Brasil</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20JavaScript/Atalhos%20para%20o%20Weblogger%20Brasil">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Encontre a maior substring</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20JavaScript/Encontre%20a%20maior%20substring">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Ordenação de palavras por tamanho</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20JavaScript/Ordena%C3%A7%C3%A3o%20de%20palavras%20por%20tamanho">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pedra, Papel, Tesoura, Lagarto e Spock</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20JavaScript/Pedra%2C%20Papel%2C%20Tesoura%2C%20Lagarto%20e%20Spock">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Validador de senhas com requisitos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20JavaScript/Validador%20de%20senhas%20com%20requisitos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>                   
         <!-- Introdução a Programação -->
         <table border=1>
             <tr>
@@ -1649,10 +2052,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>
-        <!-- Fundamentos Aritméticos -->
+        <!-- Ordenação e Filtros em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3">Fundamentos Aritméticos</th>
+                <th colspan="3">Ordenação e Filtros em JavaScript</th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -1663,31 +2066,99 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Quantidade de Números Positivos</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Quantidade%20de%20N%C3%BAmeros%20Positivos">Código</a></td>
+                <td>Compras no Supermercado</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/Compras%20no%20Supermercado">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Exibindo Números Pares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td>Fila do Banco</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/Fila%20do%20Banco">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Análise de Números</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td>Gincana no Acampamento</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/Gincana%20no%20Acampamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Contagem de Cédulas</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td>Ordenando Números Pares e Ímpares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Consumo Médio do Automóvel</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
+                <td>Uniformes de final de ano</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/Uniformes%20de%20final%20de%20ano">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>    
+        <!-- Ordenação, filtros e Desafios -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Ordenação, filtros e Desafios</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Compras no Supermercado</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/Compras%20no%20Supermercado">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>
+            <tr>
+                <td>Comunicação em Piralândia</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Encontre a maior substring</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/Encontre%20a%20maior%20substring">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Menor e Posição</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/Menor%20e%20Posi%C3%A7%C3%A3o">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>O Escolhido</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/O%20Escolhido">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pedra, Papel, Tesoura, Lagarto e Spock</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/Pedra%2C%20Papel%2C%20Tesoura%2C%20Lagarto%20e%20Spock">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>    
+        <!-- Praticando Programação com JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Praticando Programação com JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Distância</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Dist%C3%A2ncia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Dividindo X por Y</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Dividindo%20X%20por%20Y">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>                
         <!-- Problemas Aritméticos -->
         <table border=1>
             <tr>
@@ -1727,6 +2198,118 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Resolvendo Algoritmos -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Resolvendo Algoritmos</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Álbum da Copa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/%C3%81lbum%20da%20Copa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Programa para Validação de Notas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tipo de Combustível</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>    
+        <!-- Resolvendo Algoritmos com JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Resolvendo Algoritmos com JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Abreviando posts do blog</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos%20com%20JavaScript/Abreviando%20posts%20do%20blog">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Combinação de strings</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos%20com%20JavaScript/Combina%C3%A7%C3%A3o%20de%20strings">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Coração das cartas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos%20com%20JavaScript/Cora%C3%A7%C3%A3o%20das%20cartas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Hash Mágico</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos%20com%20JavaScript/Hash%20M%C3%A1gico">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>O tabuleiro secreto</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos%20com%20JavaScript/O%20tabuleiro%20secreto">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                       
+        </table>    
+        <!-- Solução de Problemas -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solução de Problemas</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>A Corrida de Tartarugas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/A%20Corrida%20de%20Tartarugas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fila do Banco</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/Fila%20do%20Banco">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Gincana no Acampamento</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/Gincana%20no%20Acampamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pedro Bento e o Mundo de OZ</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/Pedro%20Bento%20e%20o%20Mundo%20de%20OZ">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quadrado e ao Cubo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/Quadrado%20e%20ao%20Cubo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Uniformes de final de ano</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/Uniformes%20de%20final%20de%20ano">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>                    
         <!-- Solução de Problemas Básicos em JavaScript -->
         <table border=1>
             <tr>
@@ -1756,6 +2339,104 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Solução de Problemas com JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solução de Problemas com JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Barras de ouro</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Barras%20de%20ouro">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Conjuntos bons ou ruins</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Conjuntos%20bons%20ou%20ruins">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Contagem repetida de números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Contagem%20repetida%20de%20n%C3%BAmeros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Entrevista embaraçosa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Entrevista%20embara%C3%A7osa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Melhor amigo do Pablo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Melhor%20amigo%20do%20Pablo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Produto e divisão</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Produto%20e%20divis%C3%A3o">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>      
+            <tr>
+                <td>Vogais Extraterrestres</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Vogais%20Extraterrestres">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                   
+        </table>  
+        <!-- Solução de Problemas Cotidianos -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solução de Problemas Cotidianos</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Cardápio Aéreo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/Card%C3%A1pio%20A%C3%A9reo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Conversão de Tempo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/Convers%C3%A3o%20de%20Tempo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Hora da Corrida</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/Hora%20da%20Corrida">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Idade em Dias</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/Idade%20em%20Dias">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pizza Antes do Final do Ano</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/Pizza%20Antes%20do%20Final%20do%20Ano">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Rodízio de cavalos e carruagens</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/Rod%C3%ADzio%20de%20cavalos%20e%20carruagens">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>     
+            <tr>
+                <td>Tempo do Dobby</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/Tempo%20do%20Dobby">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                    
+        </table>              
         <!-- Soluções e Problemas Essenciais -->
         <table border=1>
             <tr>
@@ -1795,10 +2476,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>
-        <!-- Busca e Laços de Repetição -->
+        <!-- Soluções Aritméticas em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3">Busca e Laços de Repetição</th>
+                <th colspan="3">Soluções Aritméticas em JavaScript</th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -1807,62 +2488,23 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
-            </tr>
-            <tr>
-                <td>O Escolhido</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Escolhido">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Comunicação em Piralândia</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Degustação de Vinho</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Degusta%C3%A7%C3%A3o%20de%20Vinho">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Pink e Cérebro</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Pink%20e%20C%C3%A9rebro/solution.js">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Menor e Posição</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Menor%20e%20Posi%C3%A7%C3%A3o/solution.js">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-        </table>
-        <!-- Desenvolvimento de Problemas Avançados em JavaScript -->
-        <table border=1>
-            <tr>
-                <th colspan="3">Desenvolvimento de Problemas Avançados em JavaScript</th>
-            </tr>
-            <tr>
-                <th colspan="3"></th>
-            </tr>
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>Ordenando Números Pares e Ímpares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Animal</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/Animal">Código</a></td>
-                <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Compras no Supermercado</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/Compras%20no%20Supermercado">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20JavaScript/Compras%20no%20Supermercado">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>
+            <tr>
+                <td>Consumo médio de um Automóvel</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20JavaScript/Consumo%20m%C3%A9dio%20de%20um%20Autom%C3%B3vel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Exibindo números Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20JavaScript/Exibindo%20n%C3%BAmeros%20Pares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>        
     </div>
 </details>
 
