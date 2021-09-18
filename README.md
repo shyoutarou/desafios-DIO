@@ -2528,15 +2528,73 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Consumo Médio do Automóvel</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/Soma%20Simples">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Coxinha de Bueno</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/Coxinha%20de%20Bueno">Código</a></td>
                 <td align="center">✔️</td>
             </tr>             
         </table>    
+        <!-- Desafios numéricos em Kotlin -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafios numéricos em Kotlin</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Jogo Matemático</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20num%C3%A9ricos%20em%20Kotlin/Jogo%20Matem%C3%A1tico">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Prime or Not</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20num%C3%A9ricos%20em%20Kotlin/Prime%20or%20Not">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>     
+            <tr>
+                <td>TDA Racional</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20num%C3%A9ricos%20em%20Kotlin/TDA%20Racional">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                     
+        </table>     
+        <!-- Introdução a Programação com Kotlin -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Introdução a Programação com Kotlin</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Alarme Despertador</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Kotlin/Alarme%20Despertador">Código</a></td>
+                <td align="center">❌</td>
+            </tr>
+            <tr>
+                <td>Idade Em Dias</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Kotlin/Idade%20Em%20Dias">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>     
+            <tr>
+                <td>Média 3</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Kotlin/M%C3%A9dia%203">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                     
+        </table>                 
         <!-- Introdução a Programação em Kotlin -->
         <table border=1>
             <tr>
@@ -2566,6 +2624,181 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                
         </table>
+        <!-- Praticando Aritmética em Kotlin -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Praticando Aritmética em Kotlin</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Coluna na Matriz</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/Coluna%20na%20Matriz">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Exibindo Números Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fibonacci Fácil</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/Fibonacci%20F%C3%A1cil">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>     
+            <tr>
+                <td>Preenchimento Vetor I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/Preenchimento%20Vetor%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Substituição em Vetor I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/Substitui%C3%A7%C3%A3o%20em%20Vetor%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                        
+        </table>  
+        <!-- Praticando programação com Kotlin -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Praticando programação com Kotlin</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Bob Conduite</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20com%20Kotlin/Bob%20Conduite">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Contagem de Cédulas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20com%20Kotlin/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Distância</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20com%20Kotlin/Dist%C3%A2ncia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>          
+        <!-- Praticando Programação em Kotlin -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Praticando Programação em Kotlin</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>O jogo Matemático de Paula</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/O%20jogo%20Matem%C3%A1tico%20de%20Paula">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Conversão Simples de Base</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/Convers%C3%A3o%20Simples%20de%20Base">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Bob Conduite</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/Bob%20Conduite">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>    
+        <!-- Primeiros passos em Kotlin -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Primeiros passos em Kotlin</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Figurinhas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Figurinhas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Imposto de Renda</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Impost">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Média 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/M%C3%A9dia%201">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Multiplicação Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Sequência Lógica</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Sequ%C3%AAncia%20L%C3%B3gica">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>  
+        <!-- Solucionando desafios em Kotlin -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solucionando desafios em Kotlin</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Acima da Diagonal Principal</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Acima%20da%20Diagonal%20Principal">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Análise de Números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fibonacci Fácil</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Fibonacci%20F%C3%A1cil">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Teste de Seleção 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Triângulo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Tri%C3%A2ngulo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>                          
         <!-- Solucionando Problemas em Kotlin -->
         <table border=1>
             <tr>
@@ -2602,35 +2835,6 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td>Figurinhas</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20problemas%20em%20Kotlin/Figurinhas">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-        </table>
-        <!-- Praticando Programação em Kotlin -->
-        <table border=1>
-            <tr>
-                <th colspan="3">Praticando Programação em Kotlin</th>
-            </tr>
-            <tr>
-                <th colspan="3"></th>
-            </tr>
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>O jogo Matemático de Paula</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/O%20jogo%20Matem%C3%A1tico%20de%20Paula">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Conversão Simples de Base</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/Convers%C3%A3o%20Simples%20de%20Base">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Bob Conduite</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/Bob%20Conduite">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
