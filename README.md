@@ -2970,35 +2970,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
     <summary><strong>Ruby</strong></summary>
     <br />
     <div align="left">
-        <!-- Solucionando Problemas Básicos em Ruby -->
-        <table border=1>
-            <tr>
-                <th colspan="3">Solucionando Problemas Básicos em Ruby</th>
-            </tr>
-            <tr>
-                <th colspan="3"></th>
-            </tr>
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>Par ou Ímpar</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Par%20ou%20%C3%8Dmpar">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>DDD</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/DDD">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Idade em Dias</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Idade%20em%20Dias">Código</a></td>
-                <td align="center">✔️</td>
-        </table>
-        <!-- Praticando com Desafios Intermediários em Ruby -->
+       <!-- Praticando com Desafios Intermediários em Ruby -->
         <table border=1>
             <tr>
                 <th colspan="3">Praticando com Desafios Intermediários em Ruby</th>
@@ -3036,6 +3008,62 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Sequ%C3%AAncia%20L%C3%B3gica">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
+        </table>    
+        <!-- Solucionando desafios matemáticos em Ruby -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solucionando desafios matemáticos em Ruby</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Acima da Diagonal Principal</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Ruby/Acima%20da%20Diagonal%20Principal">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fibonacci em Vetor</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Ruby/Fibonacci%20em%20Vetor">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Substituição em Vetor I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Ruby/Substitui%C3%A7%C3%A3o%20em%20Vetor%20I">Código</a></td>
+                <td align="center">✔️</td>
+        </table>        
+        <!-- Solucionando Problemas Básicos em Ruby -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solucionando Problemas Básicos em Ruby</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Par ou Ímpar</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Par%20ou%20%C3%8Dmpar">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>DDD</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/DDD">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Idade em Dias</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Idade%20em%20Dias">Código</a></td>
+                <td align="center">✔️</td>
         </table>
     </div>
 </details>
