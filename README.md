@@ -949,7 +949,30 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Folha de Pagamento</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Santander%20Bootcamp%20Fullstack%20Developer/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <th colspan="3">Capgemini Fullstack Java and Angular</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Divisores I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/Divisores%20I">Código</a></td>
+                <td align="center">✔️</td>
             </tr>               
+            <tr>
+                <td>Média 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/M%C3%A9dia%201">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fatorial Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/Fatorial%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                     
             <tr>
                 <th colspan="3"></th>
             </tr>
@@ -969,18 +992,8 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Divisores I</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Divisores%20I">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>   
-            <tr>
                 <td>Encaixa ou Não</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Encaixa%20ou%20N%C3%A3o">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Fatorial Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Fatorial%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
@@ -1096,7 +1109,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <th colspan="3">Introdução a Programação com Java </th>
             </tr>
-                        <tr>
+            <tr>
                 <th colspan="3">Capgemini Fullstack Java and Angular</th>
             </tr>
             <tr>
@@ -1147,11 +1160,6 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
-            <tr>
-                <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
             <tr>
                 <td>Múltiplos</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/M%C3%BAltiplos">Código</a></td>
@@ -1315,23 +1323,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Primeiros passos com Java</th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis New Talents #2 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
-            <tr>
-                <td>Batmain</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Batmain">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Diferença</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Diferen%C3%A7a">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>  
             <tr>
                 <td>Distância</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Dist%C3%A2ncia">Código</a></td>
@@ -1341,15 +1339,33 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Dividindo X por Y</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Pares entre Cinco Números</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Pares%20entre%20Cinco%20N%C3%BAmeros">Código</a></td>
-                <td align="center">✔️</td>
             </tr>  
             <tr>
                 <td>Soma Simples</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Soma%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                        
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>  
+            <tr>
+                <td>Batmain</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Batmain">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Diferença</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Diferen%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                       
+            <tr>
+                <td>Pares entre Cinco Números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Pares%20entre%20Cinco%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                           
         </table>   

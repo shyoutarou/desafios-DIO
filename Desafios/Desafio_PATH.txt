@@ -1,0 +1,327 @@
+NAO ENTRA
+
+
+
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/problema-aritmeticos/algorithm/distancia?back=/track/everis-fullstack-developer
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/solucao-de-problemas-essenciais/algorithm/distancia?back=/track/everis-fullstack-developer
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/busca-e-lacos-de-repeticao/algorithm/distancia?back=/track/everis-fullstack-developer
+XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/desenvolvendo-algoritmos-com-c/algorithm/animal?back=/track/gft-start_uni-2021-1
+XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-java/algorithm/coracao-das-cartas?back=/track/gft-start_uni-2021-1
+XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/desafios-aritmeticos-intermediarios-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
+XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/resolvendo-desafios-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
+===================================================================================================
+
+introducao-a-programacao-com-.net   			 https://web.digitalinnovation.one/coding/net-fundamentos/algorithm/dividindo-x-por-y?back=/track/net-fundamentals
+solucao-de-problemas-com-.net      				 https://web.digitalinnovation.one/coding/net-fundamentos-intermediario/algorithm/programa-para-validacao-de-notas?back=/track/net-fundamentals
+Introdução a Programação com Java    			 https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-1/algorithm/multiplicacao-simples?back=/track/capgemini-fullstack-java-and-angular
+Desafios numéricos em Java           			 https://web.digitalinnovation.one/coding/desafios-numericos-em-java-1/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular
+Desafios avançados de código em JavaScript  	 https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-javascript/algorithm/diferenca?back=/track/capgemini-fullstack-java-and-angular
+Primeiros passos em Kotlin  					 https://web.digitalinnovation.one/coding/primeiros-passos-em-programacao-kotlin/algorithm/sequencia-logica?back=/track/carrefour-android-developer-1
+Primeiros passos com Java      			         https://web.digitalinnovation.one/coding/primeiros-passos-em-java-2/algorithm/distancia?back=/track/everis-new-talents-2-java
+Introdução a Programação em Java    		     https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-2/algorithm/tuitando?back=/track/everis-new-talents-2-java
+Primeiros desafios de código com Java			 https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-java-1/algorithm/mes?back=/track/everis-new-talents-2-java
+Desafios Introdutórios com C# 				     https://web.digitalinnovation.one/coding/primeiros-passos-em-c-1/algorithm/tuitando?back=/track/everis-new-talents-2-net
+Primeiros desafios com C#      				     https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-c/algorithm/mes?back=/track/everis-new-talents-2-net
+Desafios com C#             				     https://web.digitalinnovation.one/coding/desafios-numpericos-em-c/algorithm/coxinha-de-bueno?back=/track/everis-new-talents-2-net
+Primeiros passos em Java     			         https://web.digitalinnovation.one/coding/primeiros-passos-em-java-3/algorithm/batmain?back=/track/gft-java-aws-developer
+Introdução a Programação com Java   		     https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-3/algorithm/multiplos?back=/track/gft-java-aws-developer
+Desafios numéricos em Java        			     https://web.digitalinnovation.one/coding/desafios-numericos-em-java-3/algorithm/conversao-de-tempo?back=/track/gft-java-aws-developer
+
+
+
+
+https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c-2/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer
+https://web.digitalinnovation.one/coding/solucionando-desafios-em-java-1/algorithm/area-do-circulo?back=/track/santander-fullstack-developer
+https://web.digitalinnovation.one/coding/desafios-matematicos-em-java-2/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
+https://web.digitalinnovation.one/coding/desafios-numericos-em-java-2/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular
+
+
+
+===================================================================================================
+
+
+SPTech Desenvolvimento Fullstack
+Você aprenderá os conceitos de desenvolvimento de software para criação de soluções digitais, de desenvolvimento front-end e ReactJS para atuação em projetos de desenvolvimento web e de componentes da interface de usuários
+https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/folha-de-pagamento?back=/track/sp-tech-desenvolvimento-fullstack
+https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/analise-de-numeros?back=/track/sp-tech-desenvolvimento-fullstack
+https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/fila-do-banco?back=/track/sp-tech-desenvolvimento-fullstack
+https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-javascript/algorithm/ordenacao-de-palavras-por-tamanho?back=/track/sp-tech-desenvolvimento-fullstack
+
+SPTech Desenvolvimento Front-end
+Você aprenderá muito mais sobre os conceitos de desenvolvimento front-end utilizando o React.js para atuação em projetos e no desenvolvimento web, por meio de componentes da interface de usuários.
+https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/sp-tech-desenvolvimento-front-end
+https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/sp-tech-desenvolvimento-front-end
+https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/sp-tech-desenvolvimento-front-end
+
+
+.Net Fundamentals
+Esse bootcamp é para as pessoas que estão iniciando sua carreira em desenvolvimento de software. Você aprenderá a desenvolver projetos em uma das linguagens de back-end mais utilizadas no mundo, o .NET C#, e a resolver algoritmos tendo um aprendizado completo, da teoria à prática.
+https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c/algorithm/dividindo-x-por-y?back=/track/net-fundamentals
+introducao-a-programacao-com-.net    https://web.digitalinnovation.one/coding/net-fundamentos/algorithm/dividindo-x-por-y?back=/track/net-fundamentals
+solucao-de-problemas-com-.net        https://web.digitalinnovation.one/coding/net-fundamentos-intermediario/algorithm/programa-para-validacao-de-notas?back=/track/net-fundamentals
+
+HTML Web Developer
+Aprenda a programar páginas de internet e desenvolver websites utilizando HTML, CSS e JavaScript para iniciar sua trajetória profissional em desenvolvimento web front-end.
+https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/html-web-developer
+https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/html-web-developer
+
+
+JavaScript Game Developer
+Aprenda de forma divertida a criar jogos com JavaScript para inciar a sua carreira em desenvolvimento front-end e se transformar em um dev de alto nível.
+https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/javascript-game-developer
+https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/javascript-game-developer
+https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/ordenando-numeros-pares-e-impares?back=/track/javascript-game-developer
+https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-javascript/algorithm/ordenacao-de-palavras-por-tamanho?back=/track/javascript-game-developer
+https://web.digitalinnovation.one/coding/solucao-de-problemas-com-javascript/algorithm/contagem-repetida-de-numeros?back=/track/javascript-game-developer
+https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-javascript/algorithm/coracao-das-cartas?back=/track/javascript-game-developer
+
+
+Avanade Fullstack Developer
+Nesse bootcamp você vai desenvolver projetos usando.NET e Angular, além de aprender os requisitos básicos para conquistar oportunidades na Avanade Brasil, empresa multinacional presente em 25 países.
+https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c/algorithm/dividindo-x-por-y?back=/track/avanade-fullstack-developer
+https://web.digitalinnovation.one/coding/solucao-de-problemas-essenciais-com-c/algorithm/quadrado-e-ao-cubo?back=/track/avanade-fullstack-developer
+https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/avanade-fullstack-developer
+https://web.digitalinnovation.one/coding/solucao-de-problemas-com-javascript/algorithm/contagem-repetida-de-numeros?back=/track/avanade-fullstack-developer
+
+
+everis FullStack Developer
+Aprenda as tecnologias utilizadas pela everis no desenvolvimento de projetos inovadores ao redor do mundo para conquistar oportunidades e acelerar a sua carreira em desenvolvimento de software nesta gigante de tecnologia.
+XXX   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c-1/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/problema-aritmeticos/algorithm/distancia?back=/track/everis-fullstack-developer
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/solucao-de-problemas-essenciais/algorithm/distancia?back=/track/everis-fullstack-developer
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/busca-e-lacos-de-repeticao/algorithm/distancia?back=/track/everis-fullstack-developer
+https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-java/algorithm/ordenando-numeros-pares-e-impares?back=/track/everis-fullstack-developer
+https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-java/algorithm/coracao-das-cartas?back=/track/everis-fullstack-developer
+
+
+GFT START_UNI 2021 #1
+O bootcamp START_UNI 2021 #1 é um programa gratuito para formação de desenvolvedores front-end, back-end e testers, sendo a porta de entrada para os devs conquistarem um estágio na empresa multinacional alemã GFT Brasil.
+XXX   NAO ENTRA https://web.digitalinnovation.one/coding/desenvolvendo-algoritmos-com-c/algorithm/animal?back=/track/gft-start_uni-2021-1
+XXX   NAO ENTRA https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-java/algorithm/coracao-das-cartas?back=/track/gft-start_uni-2021-1
+
+Java Developer
+Java é uma das linguagens back-end mais utilizada por desenvolvedores de todo o mundo. Neste bootcamp você aprenderá o passo a passo da tecnologia e desenvolverá projetos 100% práticos.
+https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java/algorithm/visita-na-feira?back=/track/java-developer
+https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-java/algorithm/quantidade-de-numeros-positivos?back=/track/java-developer
+https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-java/algorithm/ordenando-numeros-pares-e-impares?back=/track/java-developer
+https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-java/algorithm/ordenacao-de-palavras-por-tamanho?back=/track/java-developer
+https://web.digitalinnovation.one/coding/solucao-de-problemas-com-java/algorithm/contagem-repetida-de-numeros?back=/track/java-developer
+https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-java/algorithm/coracao-das-cartas?back=/track/java-developer
+
+
+Avanade Angular Developer
+Nesse bootcamp você vai desenvolver projetos usando Angular 8, além de aprender os requisitos básicos para conquistar oportunidades na Avanade Brasil, empresa multinacional presente em 25 países. Não perca a oportunidade de impulsionar sua carreira em tecnologia e garanta sua matrícula.
+https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/dividindo-x-por-y?back=/track/avanade-angular-developer
+XXX  https://web.digitalinnovation.one/coding/praticando-programacao-em-javascript/algorithm/quanta-mandioca?back=/track/avanade-angular-developer
+XXX  https://web.digitalinnovation.one/coding/desenvolvimento-de-problemas-avancados-em-javascript/algorithm/ordenando-numeros-pares-e-impares?back=/track/avanade-angular-developer
+
+
+Impulso FullStack Developer
+Impulsione sua carreira em desenvolvimento de software e fique por dentro das tecnologias utilizadas pela Impulso, uma empresa de tecnologia da informação com projetos pioneiros e de grande impacto no mercado.
+https://web.digitalinnovation.one/coding/solucionando-problemas-basicos-em-ruby/algorithm/par-ou-impar?back=/track/impulso-fullstack-developer
+https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/dividindo-x-por-y?back=/track/impulso-fullstack-developer
+https://web.digitalinnovation.one/coding/praticando-com-desafios-intermediarios-em-ruby/algorithm/encaixa-ou-nao-ii?back=/track/impulso-fullstack-developer
+https://web.digitalinnovation.one/coding/solucionando-desafios-matematicos-em-ruby/algorithm/substituicao-em-vetor-i?back=/track/impulso-fullstack-developer
+
+
+Inter Java Developer
+Neste bootcamp você terá contato com as principais tecnologias utilizadas pelo Inter e ainda terá a chance de ser contratado pela empresa, que foi o primeiro banco 100% digital do Brasil e atualmente já é uma plataforma completa de serviços financeiros e não financeiros pensada para simplificar a vida dos clientes. Essa é sua chance de impulsionar sua carreira em desenvolvimento de software se aprofundando na linguagem Java com experts da área e realizando diversos projetos práticos e desafios de código.
+XXX   https://web.digitalinnovation.one/coding/solucionando-problemas-basicos-em-java/algorithm/multiplicacao-simples?back=/track/inter-java-developer
+XXX   https://web.digitalinnovation.one/coding/praticando-programacao-em-java/algorithm/abreviando-posts-do-blog?back=/track/inter-java-developer
+XXX   https://web.digitalinnovation.one/coding/desafio-aritmetico-em-java/algorithm/abreviando-posts-do-blog?back=/track/inter-java-developer
+
+
+
+LocalizaLabs .NET Developer
+Bem-vindo ao bootcamp #LocalizaLabs! O #LocalizaLabs é o laboratório de tecnologia e inovação da Localiza e conta com quase 700 colaboradores totalmente dedicados à tecnologia e a tudo o que ela nos possibilita na jornada de transformação. Acreditamos que a inovação, na prática, só é possível por meio da troca de compartilhamento de ideias, por isso, essa trilha é formada por conteúdos com experts em diferentes habilidades das skills esperadas no programa de contratação. Aqui você vai aprender e desenvolver competências buscadas no mercado de .NET utilizando C# e ainda pode conquistar uma oportunidade de integrar o time da maior locadora de veículos da América Latina.
+XXX   https://web.digitalinnovation.one/coding/solucao-de-problemas-em-c/algorithm/consumo-medio-do-automovel?back=/track/localizalabs-net-developer
+XXX   https://web.digitalinnovation.one/coding/desafios-aritmeticos-em-c/algorithm/media-1?back=/track/localizalabs-net-developer
+XXX   https://web.digitalinnovation.one/coding/praticando-programacao-em-c/algorithm/coordenadas-de-um-ponto?back=/track/localizalabs-net-developer
+
+MRV .NET Developer
+Bem-vindo ao bootcamp MRV .NET DEVELOPER é um programa gratuito para formação de desenvolvedores .NET com foco em soluções em C#, sendo a porta de entrada para conquistar uma oportunidade de contratação na MRV, a empresa parceira nos projetos da maior Construtora da América Latina.
+XXX   https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-c/algorithm/visita-na-feira?back=/track/mrv-net-developer
+XXX   https://web.digitalinnovation.one/coding/solucionando-desafios-intermediarios-em-c/algorithm/teste-de-selecao-1?back=/track/mrv-net-developer
+
+
+everis Kotlin Developer
+Se o seu sonho sempre foi aprender a como desenvolver aplicativos Android, este bootcamp é para você! Com foco em desenvolvimento de software utilizando Kotlin, uma linguagem de programação multiplataforma derivada do Java, você irá aprender desde o zero com os melhores especialistas no tema ao mesmo tempo que se prepara para uma oportunidade de contratação na everis, empresa multinacional com sede em Madri, líder em soluções tecnológicas.
+XXX   https://web.digitalinnovation.one/coding/introducao-a-programacao-em-kotlin/algorithm/soma-simples?back=/track/everis-kotlin-developer
+XXX   https://web.digitalinnovation.one/coding/solucionando-problemas-em-kotlin/algorithm/taxa-de-imposto-de-renda?back=/track/everis-kotlin-developer
+XXX   https://web.digitalinnovation.one/coding/praticando-programacao-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/everis-kotlin-developer
+
+
+Code Anywhere
+Desenvolva projetos com Spring Boot, Spring Cloud e Azure em conjunto com os melhores experts da Avanade para ampliar o seu conhecimento, criar um portfólio inovador e conquistar grandes oportunidades.
+XXX   https://web.digitalinnovation.one/coding/iniciando-a-programacao-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
+XXX   https://web.digitalinnovation.one/coding/desafios-matematicos-em-java-1/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
+
+
+Take Blip Fullstack Developer
+Desenvolva soluções fullstack aproveitando o melhor que o C#, a principal linguagem da Microsoft pode oferecer, e crie aplicações completas utilizando React no front-end. Ao final dessa jornada, você será capaz de construir aplicações web modernas e dentro das boas práticas do mercado.
+XXX   https://web.digitalinnovation.one/coding/primeiros-programas-em-c/algorithm/soma-simples?back=/track/take-blip-fullstack-developer
+XXX   https://web.digitalinnovation.one/coding/solucionando-desafios-em-c/algorithm/bazinga?back=/track/take-blip-fullstack-developer
+XXX   https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-c/algorithm/formula-de-bhaskara?back=/track/take-blip-fullstack-developer
+
+
+Santander Bootcamp | Mobile Developer
+Para você que deseja desenvolver aplicativos mobile nativos para Android, aprender as melhores práticas utilizadas por experts do mercado e trilhar uma carreira de sucesso em desenvolvimento mobile.
+https://web.digitalinnovation.one/coding/primeiros-passos-em-kotlin/algorithm/soma-simples?back=/track/santander-mobile-developer
+https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin/algorithm/teste-de-selecao-1?back=/track/santander-mobile-developer
+https://web.digitalinnovation.one/coding/praticando-programacao-com-kotlin/algorithm/bob-conduite?back=/track/santander-mobile-developer
+
+
+
+Santander Bootcamp | Fullstack Developer
+Para você que deseja desenvolver aplicações back-end de alto nível utilizando Java, criar aplicações ainda mais completas integradas ao banco de dados. Além de explorar o front-end com Angular, uma solução amplamente utilizada para criação de aplicações SPA por grandes empresas do mercado e trilhar uma carreira de sucesso como dev fullstack
+https://web.digitalinnovation.one/coding/primeiros-passos-em-java/algorithm/visita-na-feira?back=/track/santander-fullstack-developer
+https://web.digitalinnovation.one/coding/desafios-numericos-em-java/algorithm/analise-de-numeros?back=/track/santander-fullstack-developer
+https://web.digitalinnovation.one/coding/solucionando-desafios-em-java/algorithm/area-do-circulo?back=/track/santander-fullstack-developer
+
+
+
+everis Quality Assurance Beginner
+Conquiste as melhores oportunidades na everis como software tester em aplicações Java. Nessa jornada rumo a contratação, através do bootcamp everis Quality Assurance Beginner, você irá aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
+XXX   https://web.digitalinnovation.one/coding/iniciando-programacao-em-java/algorithm/multiplicacao-simples?back=/track/everis-quality-assurance-beginner
+
+
+GFT START #2 Java
+Chegou a hora de você entrar de cabeça no mundo de Java e criar soluções corporativas de alto nível explorando o melhor que o framework Spring Boot pode oferecer na hora de criar API's Rest.
+XXX   https://web.digitalinnovation.one/coding/desafios-matematicos-em-java/algorithm/visita-na-feira?back=/track/gft-start-2-java
+XXX   https://web.digitalinnovation.one/coding/solucionando-desafios-em-java/algorithm/area-do-circulo?back=/track/gft-start-2-java
+
+
+GFT START #2 .NET
+Desenvolva seus primeiros passos e primeiros projetos na stack de .net C# com grandes experts de mercado e construa aplicações de alto nível com embasamento técnico de arquitetura em back-end.
+XXX   https://web.digitalinnovation.one/coding/iniciando-a-programar-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
+XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/desafios-aritmeticos-intermediarios-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
+
+
+
+Banco Carrefour Data Engineer
+Bem vindo ao seu bootcamp focado em engenharia de dados, você terá a oportunidade de aprender com grandes experts de mercado as principais habilidades que um engenheiro de dados precisa ter para criar soluções inteligentes através de grandes massas de dados.
+XXX   https://web.digitalinnovation.one/coding/solucoes-aritmeticas-em-python/algorithm/notas-da-prova?back=/track/banco-carrefour-data-engineer
+XXX   https://web.digitalinnovation.one/coding/solucionando-desafios-em-python/algorithm/media-3?back=/track/banco-carrefour-data-engineer
+
+
+MRV Front End SPA Developer
+No Bootcamp MRV Front End SPA Developer você vai aprender com a gente os conceitos de desenvolvimento de software para criar soluções digitais, de desenvolvimento Front-end e ReactJS para atuar em projetos de desenvolvimento web e de componentes da interface de usuários. Esse evento faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, um dos principais hubs de inovação do Brasil. O Órbi Academy Techboost, é um dos maiores programas brasileiros de formação em carreiras de tecnologia e irá distribuir mais de 130 mil bolsas de estudo até 2022, impactando toda a comunidade tech brasileira.
+XXX   https://web.digitalinnovation.one/coding/solucoes-aritmeticas-em-javascript/algorithm/compras-no-supermercado?back=/track/mrv-front-end-spa-developer
+XXX   https://web.digitalinnovation.one/coding/desafios-de-codigo-em-javascript/algorithm/aumento-de-salario?back=/track/mrv-front-end-spa-developer
+XXX   https://web.digitalinnovation.one/coding/desafios-intermediarios-em-javascript/algorithm/area-superior?back=/track/mrv-front-end-spa-developer
+
+
+LocalizaLabs React Developer
+Você aprenderá os conceitos de desenvolvimento de software para criação de soluções digitais, de desenvolvimento front-end e ReactJS para atuação em projetos de desenvolvimento web e de componentes da interface de usuários. O Bootcamp LocalizaLabs React developer faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, um dos principais hubs de inovação do Brasil. O Órbi Academy Techboost, é um dos maiores programas brasileiros de formação em carreiras de tecnologia e irá distribuir mais de 130 mil bolsas de estudo até 2022, impactando toda a comunidade tech brasileira.
+XXX   https://web.digitalinnovation.one/coding/iniciando-desafios-em-javascript/algorithm/calculo-de-viagem?back=/track/localizalabs-react-developer
+XXX   https://web.digitalinnovation.one/coding/desafios-aritmeticos-em-javascript/algorithm/coxinha-de-bueno?back=/track/localizalabs-react-developer
+XXX   https://web.digitalinnovation.one/coding/desafios-matematicos-em-javascript/algorithm/contagem-de-cedulas?back=/track/localizalabs-react-developer
+
+
+Inter Android Developer
+Nesse bootcamp você aprenderá sobre as principais tecnologias utilizadas pelo Inter, que é uma das maiores e mais completas plataformas digitais de serviços financeiros e não financeiros do Brasil. Essa é sua chance de impulsionar sua carreira em desenvolvimento de software, se aprofundando na criação de aplicativos para Android. O bootcamp Inter Android Developer faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, que até 2022 distribuirá 130 mil bolsas de estudo gratuitas, fortalecendo ainda mais a comunidade tech brasileira.
+XXX   https://web.digitalinnovation.one/coding/desafios-matematicos-em-kotlin/algorithm/analise-de-numeros?back=/track/inter-android-developer
+XXX   https://web.digitalinnovation.one/coding/praticando-aritmetica-em-kotlin/algorithm/coluna-na-matriz?back=/track/inter-android-developer
+XXX   https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin/algorithm/teste-de-selecao-1?back=/track/inter-android-developer
+
+
+
+everis New Talents - Java
+Bem-vindo ao seu bootcamp com foco em Java e arquitetura back-end, aqui você irá dar seus primeiros passos em back-end e conseguirá criar soluções corporativas escalaveis.
+XXX   https://web.digitalinnovation.one/coding/primeiros-passos-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
+XXX   https://web.digitalinnovation.one/coding/desafios-matematicos-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
+XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/resolvendo-desafios-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
+
+
+everis New Talents - .NET
+Bem-vindo ao seu bootcamp com foco em back-end e arquitetura com dotnet C#, aqui você tera a oportunidade para dar seus primeiros passos em dotnet e criar aplicações corporativas.
+XXX   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c/algorithm/dividindo-x-por-y?back=/track/everis-new-talents-net
+XXX   https://web.digitalinnovation.one/coding/solucao-de-problemas-em-c/algorithm/consumo-medio-do-automovel?back=/track/everis-new-talents-net
+XXX   https://web.digitalinnovation.one/coding/desafios-avancados-em-c/algorithm/coordenadas-de-um-ponto?back=/track/everis-new-talents-net
+
+
+everis Quality Assurance Beginner #2
+Conquiste as melhores oportunidades na everis como profissional de QA com foco em automação de testes. Nessa jornada rumo a contratação, através do bootcamp everis Quality Assurance Beginner #2, você irá aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
+XXX   https://web.digitalinnovation.one/coding/iniciando-programacao-em-java/algorithm/multiplicacao-simples?back=/track/everis-quality-assurance-beginner-2
+
+
+Avanade CodeAnywhere .NET
+Desenvolva projetos .NET com C# em conjunto com os melhores experts da Avanade para ampliar o seu conhecimento, criar um portfólio inovador e conquistar grandes oportunidades.
+https://web.digitalinnovation.one/coding/iniciando-aritmetica-em-c/algorithm/media-1?back=/track/avanade-codeanywhere-net
+https://web.digitalinnovation.one/coding/desafios-matematicos-em-c/algorithm/consumo-medio-do-automovel?back=/track/avanade-codeanywhere-net
+https://web.digitalinnovation.one/coding/desafios-basicos-em-c/algorithm/teorema-da-divisao-euclidiana?back=/track/avanade-codeanywhere-net
+
+
+Cognizant Cloud Data Engineer
+Bem vindo ao seu bootcamp focado em engenharia de dados com Cloud, crie soluções Python, uma das principais linguagens de programação da atualidade, aprenda os principais conceitos de big data e dê seus primeiros passos no ambiente de nuvem.
+Resolvendo algoritmos com Python      https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-python-1/algorithm/fibonacci-facil?back=/track/cognizant-cloud-data-engineer
+https://web.digitalinnovation.one/coding/desafios-matematicos-em-python/algorithm/rodizio-de-cavalos-e-carruagens?back=/track/cognizant-cloud-data-engineer
+
+
+everis Site Reliability Engineer Essentials
+Conquiste as melhores oportunidades na everis como software tester em aplicações SRE. Nessa jornada rumo a contratação, através do bootcamp everis Site Reliability Engineer Essentials, você irá aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
+XXX   https://web.digitalinnovation.one/coding/iniciando-programacao-em-java/algorithm/multiplicacao-simples?back=/track/everis-site-reliability-engineer-essentials
+XXX   https://web.digitalinnovation.one/coding/desafio-aritmetico-em-java/algorithm/acima-da-diagonal-secundaria?back=/track/everis-site-reliability-engineer-essentials
+XXX   https://web.digitalinnovation.one/coding/desafios-avancados-em-java/algorithm/fibonacci-em-vetor?back=/track/everis-site-reliability-engineer-essentials
+
+
+Capgemini Fullstack Java and Angular
+Conquiste as melhores oportunidades na Capgemini como Java Fullstack. Através do bootcamp Capgemini Java and Angular, você terá oportunidades de contratação, além de aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
+Introdução a Programação com Java   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-1/algorithm/multiplicacao-simples?back=/track/capgemini-fullstack-java-and-angular
+Desafios numéricos em Java          https://web.digitalinnovation.one/coding/desafios-numericos-em-java-1/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular
+XXX   https://web.digitalinnovation.one/coding/desafio-aritmetico-em-javascript/algorithm/area-inferior?back=/track/capgemini-fullstack-java-and-angular
+Desafios avançados de código em JavaScript    https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-javascript/algorithm/diferenca?back=/track/capgemini-fullstack-java-and-angular
+
+
+
+Carrefour Android Developer
+Conquiste as melhores oportunidades com o Carrefour como desenvolvedor mobile. Por meio do bootcamp Carrefour Android Developer, você terá oportunidades de contratação, além de aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
+Primeiros passos em Kotlin    https://web.digitalinnovation.one/coding/primeiros-passos-em-programacao-kotlin/algorithm/sequencia-logica?back=/track/carrefour-android-developer-1
+XXX   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-kotlin/algorithm/idade-em-dias?back=/track/carrefour-android-developer-1
+https://web.digitalinnovation.one/coding/desafios-numericos-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/carrefour-android-developer-1
+
+
+
+everis New Talents #2 Java
+Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço na everis. Por meio do Bootcamp everis New Talents #2 Java, você terá chances de contratação, além de aprender sobre as principais ferramentas de testes mais utilizadas no mercado, conectando-se com grandes experts da área.
+Primeiros passos com Java              https://web.digitalinnovation.one/coding/primeiros-passos-em-java-2/algorithm/distancia?back=/track/everis-new-talents-2-java
+Introdução a Programação em Java       https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-2/algorithm/tuitando?back=/track/everis-new-talents-2-java
+Primeiros desafios de código com Java  https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-java-1/algorithm/mes?back=/track/everis-new-talents-2-java
+
+
+everis New Talents #2 .NET
+Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço na everis. Por meio do Bootcamp everis New Talents #2 .NET, você terá chances de contratação, além de aprender sobre as principais ferramentas de testes mais utilizadas no mercado, conectando-se com grandes experts da área.
+https://web.digitalinnovation.one/coding/primeiros-passos-com-c/algorithm/distancia?back=/track/everis-new-talents-2-net
+Desafios Introdutórios com C#    https://web.digitalinnovation.one/coding/primeiros-passos-em-c-1/algorithm/tuitando?back=/track/everis-new-talents-2-net
+Primeiros desafios com C#        https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-c/algorithm/mes?back=/track/everis-new-talents-2-net
+Desafios com C#                  https://web.digitalinnovation.one/coding/desafios-numpericos-em-c/algorithm/coxinha-de-bueno?back=/track/everis-new-talents-2-net
+
+
+
+Decola Tech
+O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros talentos poderão ser contratados através do Bootcamp online com a Digital Innovation One, com mais de 40 horas de duração. Depois do Bootcamp, você passará por um processo seletivo e poderá fazer um estágio na Avanade, uma joint venture da Microsoft e Accenture, em um programa de aceleração criado especialmente para você com certificações Microsoft inclusas e um planejamento de carreira.
+https://web.digitalinnovation.one/coding/primeiros-desafios-matematicos-em-c/algorithm/soma-simples?back=/track/decola-tech
+https://web.digitalinnovation.one/coding/introducao-a-resolucao-de-desafios-com-c/algorithm/multiplos?back=/track/decola-tech
+https://web.digitalinnovation.one/coding/desafios-numericos-em-c/algorithm/tipo-de-combustivel?back=/track/decola-tech
+
+
+GFT Java & AWS Developer
+Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço na GFT, por meio do Bootcamp GFT Java & AWS Developer, você terá chances de contratação, além de aprender sobre as principais ferramentas de testes mais utilizadas no mercado, conectando-se com grandes experts da área.
+Primeiros passos em Java               https://web.digitalinnovation.one/coding/primeiros-passos-em-java-3/algorithm/batmain?back=/track/gft-java-aws-developer
+Introdução a Programação com Java      https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-3/algorithm/multiplos?back=/track/gft-java-aws-developer
+Desafios numéricos em Java             https://web.digitalinnovation.one/coding/desafios-numericos-em-java-3/algorithm/conversao-de-tempo?back=/track/gft-java-aws-developer
+
+
+Take Blip Fullstack Developer #2
+Olá Dev! Aqui está a oportunidade incrível para você se tornar um profissional Fullstack. Com o Bootcamp Take Blip Fullstack Developer #2, você aprenderá o melhor que o C#, a principal linguagem da Microsoft pode oferecer, e criar aplicações completas utilizando React no front-end. O bootcamp Take Blip Fullstack Developer faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, que até 2022 distribuirá 130 mil bolsas de estudo gratuitas, fortalecendo ainda mais a comunidade tech brasileira.
+https://web.digitalinnovation.one/coding/primeiros-desafios-em-c/algorithm/distancia?back=/track/take-blip-fullstack-developer-2
+XXX   https://web.digitalinnovation.one/coding/desafios-basicos-c/algorithm/multiplicacao-simples?back=/track/take-blip-fullstack-developer-2
+https://web.digitalinnovation.one/coding/desafios-intermediarios-c/algorithm/crescimento-populacional?back=/track/take-blip-fullstack-developer-2
+XXX   https://web.digitalinnovation.one/coding/primeiros-desafios-javascript/algorithm/folha-de-pagamento?back=/track/take-blip-fullstack-developer-2
+
+
+Eduzz Fullstack Developer
+Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço na Eduzz. Por meio do Bootcamp Eduzz Fullstack Developer, você terá chances de contratação, além de aprender sobre os principais elementos da Stack de javascript, uma das stacks mais utilizadas no mercado, conectando-se com grandes experts da área.
+XXX   https://web.digitalinnovation.one/coding/desafios-iniciais-em-javascript/algorithm/dividindo-x-por-y?back=/track/eduzz-fullstack-developer
+XXX   https://web.digitalinnovation.one/coding/desafios-basicos-em-javascript/algorithm/soma-simples?back=/track/eduzz-fullstack-developer
+https://web.digitalinnovation.one/coding/desafios-medios-em-javascript/algorithm/folha-de-pagamento?back=/track/eduzz-fullstack-developer
