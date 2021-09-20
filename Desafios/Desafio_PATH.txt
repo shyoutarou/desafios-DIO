@@ -11,26 +11,34 @@ XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/desafios-aritmeticos-i
 XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/resolvendo-desafios-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
 ===================================================================================================
 
-introducao-a-programacao-com-.net   			 https://web.digitalinnovation.one/coding/net-fundamentos/algorithm/dividindo-x-por-y?back=/track/net-fundamentals
-solucao-de-problemas-com-.net      				 https://web.digitalinnovation.one/coding/net-fundamentos-intermediario/algorithm/programa-para-validacao-de-notas?back=/track/net-fundamentals
-Introdução a Programação com Java    			 https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-1/algorithm/multiplicacao-simples?back=/track/capgemini-fullstack-java-and-angular
-Desafios numéricos em Java           			 https://web.digitalinnovation.one/coding/desafios-numericos-em-java-1/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular
-Desafios avançados de código em JavaScript  	 https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-javascript/algorithm/diferenca?back=/track/capgemini-fullstack-java-and-angular
-Primeiros passos em Kotlin  					 https://web.digitalinnovation.one/coding/primeiros-passos-em-programacao-kotlin/algorithm/sequencia-logica?back=/track/carrefour-android-developer-1
-Primeiros passos com Java      			         https://web.digitalinnovation.one/coding/primeiros-passos-em-java-2/algorithm/distancia?back=/track/everis-new-talents-2-java
-Introdução a Programação em Java    		     https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-2/algorithm/tuitando?back=/track/everis-new-talents-2-java
-Primeiros desafios de código com Java			 https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-java-1/algorithm/mes?back=/track/everis-new-talents-2-java
-Desafios Introdutórios com C# 				     https://web.digitalinnovation.one/coding/primeiros-passos-em-c-1/algorithm/tuitando?back=/track/everis-new-talents-2-net
-Primeiros desafios com C#      				     https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-c/algorithm/mes?back=/track/everis-new-talents-2-net
 Desafios com C#             				     https://web.digitalinnovation.one/coding/desafios-numpericos-em-c/algorithm/coxinha-de-bueno?back=/track/everis-new-talents-2-net
-Primeiros passos em Java     			         https://web.digitalinnovation.one/coding/primeiros-passos-em-java-3/algorithm/batmain?back=/track/gft-java-aws-developer
-Introdução a Programação com Java   		     https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-3/algorithm/multiplos?back=/track/gft-java-aws-developer
+Desafios Introdutórios com C# 				     https://web.digitalinnovation.one/coding/primeiros-passos-em-c-1/algorithm/tuitando?back=/track/everis-new-talents-2-net
+
+introducao-a-programacao-com-.net   			 https://web.digitalinnovation.one/coding/net-fundamentos/algorithm/dividindo-x-por-y?back=/track/net-fundamentals
+Primeiros desafios com C#      				     https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-c/algorithm/mes?back=/track/everis-new-talents-2-net
+solucao-de-problemas-com-.net      				 https://web.digitalinnovation.one/coding/net-fundamentos-intermediario/algorithm/programa-para-validacao-de-notas?back=/track/net-fundamentals
+
+Desafios numéricos em Java           			 https://web.digitalinnovation.one/coding/desafios-numericos-em-java-1/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular
 Desafios numéricos em Java        			     https://web.digitalinnovation.one/coding/desafios-numericos-em-java-3/algorithm/conversao-de-tempo?back=/track/gft-java-aws-developer
 
+Introdução a Programação com Java    			 https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-1/algorithm/multiplicacao-simples?back=/track/capgemini-fullstack-java-and-angular
+Introdução a Programação em Java    		     https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-2/algorithm/tuitando?back=/track/everis-new-talents-2-java
+Introdução a Programação com Java   		     https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-3/algorithm/multiplos?back=/track/gft-java-aws-developer
+
+Primeiros desafios de código com Java			 https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-java-1/algorithm/mes?back=/track/everis-new-talents-2-java
+Primeiros passos em Java     			         https://web.digitalinnovation.one/coding/primeiros-passos-em-java-3/algorithm/batmain?back=/track/gft-java-aws-developer
+Primeiros passos com Java      			         https://web.digitalinnovation.one/coding/primeiros-passos-em-java-2/algorithm/distancia?back=/track/everis-new-talents-2-java
+
+Desafios avançados de código em JavaScript  	 https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-javascript/algorithm/diferenca?back=/track/capgemini-fullstack-java-and-angular
+
+Primeiros passos em Kotlin  					 https://web.digitalinnovation.one/coding/primeiros-passos-em-programacao-kotlin/algorithm/sequencia-logica?back=/track/carrefour-android-developer-1
 
 
 
-https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c-2/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer
+
+
+
+60XP>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c-2/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer
 https://web.digitalinnovation.one/coding/solucionando-desafios-em-java-1/algorithm/area-do-circulo?back=/track/santander-fullstack-developer
 https://web.digitalinnovation.one/coding/desafios-matematicos-em-java-2/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
 https://web.digitalinnovation.one/coding/desafios-numericos-em-java-2/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular
@@ -42,43 +50,43 @@ https://web.digitalinnovation.one/coding/desafios-numericos-em-java-2/algorithm/
 
 SPTech Desenvolvimento Fullstack
 Você aprenderá os conceitos de desenvolvimento de software para criação de soluções digitais, de desenvolvimento front-end e ReactJS para atuação em projetos de desenvolvimento web e de componentes da interface de usuários
-https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/folha-de-pagamento?back=/track/sp-tech-desenvolvimento-fullstack
-https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/analise-de-numeros?back=/track/sp-tech-desenvolvimento-fullstack
-https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/fila-do-banco?back=/track/sp-tech-desenvolvimento-fullstack
-https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-javascript/algorithm/ordenacao-de-palavras-por-tamanho?back=/track/sp-tech-desenvolvimento-fullstack
+OK>>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/folha-de-pagamento?back=/track/sp-tech-desenvolvimento-fullstack
+OK>>>>>https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/analise-de-numeros?back=/track/sp-tech-desenvolvimento-fullstack
+OK>>>>>https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/ordenando-numeros-pares-e-impares?back=/track/sp-tech-desenvolvimento-fullstack
+OK>>>>>https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-javascript/algorithm/ordenacao-de-palavras-por-tamanho?back=/track/sp-tech-desenvolvimento-fullstack
 
 SPTech Desenvolvimento Front-end
 Você aprenderá muito mais sobre os conceitos de desenvolvimento front-end utilizando o React.js para atuação em projetos e no desenvolvimento web, por meio de componentes da interface de usuários.
-https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/sp-tech-desenvolvimento-front-end
-https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/sp-tech-desenvolvimento-front-end
-https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/sp-tech-desenvolvimento-front-end
+OK>>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/sp-tech-desenvolvimento-front-end
+OK>>>>>https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/sp-tech-desenvolvimento-front-end
+OK>>>>>https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/sp-tech-desenvolvimento-front-end
 
 
 .Net Fundamentals
 Esse bootcamp é para as pessoas que estão iniciando sua carreira em desenvolvimento de software. Você aprenderá a desenvolver projetos em uma das linguagens de back-end mais utilizadas no mundo, o .NET C#, e a resolver algoritmos tendo um aprendizado completo, da teoria à prática.
-https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c/algorithm/dividindo-x-por-y?back=/track/net-fundamentals
-introducao-a-programacao-com-.net    https://web.digitalinnovation.one/coding/net-fundamentos/algorithm/dividindo-x-por-y?back=/track/net-fundamentals
-solucao-de-problemas-com-.net        https://web.digitalinnovation.one/coding/net-fundamentos-intermediario/algorithm/programa-para-validacao-de-notas?back=/track/net-fundamentals
+OK>>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c/algorithm/dividindo-x-por-y?back=/track/net-fundamentals
+OK>>>>>introducao-a-programacao-com-.net    https://web.digitalinnovation.one/coding/net-fundamentos/algorithm/dividindo-x-por-y?back=/track/net-fundamentals
+OK>>>>>solucao-de-problemas-com-.net        https://web.digitalinnovation.one/coding/net-fundamentos-intermediario/algorithm/programa-para-validacao-de-notas?back=/track/net-fundamentals
 
 HTML Web Developer
 Aprenda a programar páginas de internet e desenvolver websites utilizando HTML, CSS e JavaScript para iniciar sua trajetória profissional em desenvolvimento web front-end.
-https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/html-web-developer
-https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/html-web-developer
+OK>>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/html-web-developer
+OK>>>>>https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/html-web-developer
 
 
 JavaScript Game Developer
 Aprenda de forma divertida a criar jogos com JavaScript para inciar a sua carreira em desenvolvimento front-end e se transformar em um dev de alto nível.
-https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/javascript-game-developer
-https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/javascript-game-developer
-https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/ordenando-numeros-pares-e-impares?back=/track/javascript-game-developer
-https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-javascript/algorithm/ordenacao-de-palavras-por-tamanho?back=/track/javascript-game-developer
-https://web.digitalinnovation.one/coding/solucao-de-problemas-com-javascript/algorithm/contagem-repetida-de-numeros?back=/track/javascript-game-developer
-https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-javascript/algorithm/coracao-das-cartas?back=/track/javascript-game-developer
+OK>>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/javascript-game-developer
+OK>>>>>https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/javascript-game-developer
+OK>>>>>https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/ordenando-numeros-pares-e-impares?back=/track/javascript-game-developer
+OK>>>>>https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-javascript/algorithm/ordenacao-de-palavras-por-tamanho?back=/track/javascript-game-developer
+OK>>>>>https://web.digitalinnovation.one/coding/solucao-de-problemas-com-javascript/algorithm/contagem-repetida-de-numeros?back=/track/javascript-game-developer
+OK>>>>>https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-javascript/algorithm/coracao-das-cartas?back=/track/javascript-game-developer
 
 
 Avanade Fullstack Developer
 Nesse bootcamp você vai desenvolver projetos usando.NET e Angular, além de aprender os requisitos básicos para conquistar oportunidades na Avanade Brasil, empresa multinacional presente em 25 países.
-https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c/algorithm/dividindo-x-por-y?back=/track/avanade-fullstack-developer
+OK>>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c/algorithm/dividindo-x-por-y?back=/track/avanade-fullstack-developer
 https://web.digitalinnovation.one/coding/solucao-de-problemas-essenciais-com-c/algorithm/quadrado-e-ao-cubo?back=/track/avanade-fullstack-developer
 https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/avanade-fullstack-developer
 https://web.digitalinnovation.one/coding/solucao-de-problemas-com-javascript/algorithm/contagem-repetida-de-numeros?back=/track/avanade-fullstack-developer

@@ -33,7 +33,7 @@ for (valor of valores) {
 let positivos = valores.filter(valor => valor > 0).length;
 let negativos = valores.filter(valor => valor < 0).length;
 
-console.log(pares + " valor(es) par(es)");
-console.log(impares + " valor(es) impar(es)");
-console.log(positivos + " valor(es) positivo(s)");
-console.log(negativos + " valor(es) negativo(s)");
+console.log(pares + " par(es)");
+console.log(impares + " impar(es)");
+console.log(positivos + " positivo(s)");
+console.log(negativos + " negativo(s)");

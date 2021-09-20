@@ -345,7 +345,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com .NET -->
         <table border=1>
             <tr>
-                <th colspan="3">Introdução a Programação com .NET</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/net-fundamentos/algorithm/coxinha-de-bueno?back=/track/net-fundamentals">Introdução a Programação com .NET</a></th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -373,11 +373,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Introdução a Programação com C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c/algorithm/quanta-mandioca?back=/track/net-fundamentals">Introdução a Programação com C#</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">.Net Fundamentals</th>
             </tr>
+            <tr>
+                <th colspan="3">Avanade Fullstack Developer</th>
+            </tr>
+            <tr>
+                <th colspan="3">everis New Talents - .NET</th>
+            </tr>                        
             <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
@@ -385,18 +391,70 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Dividindo%20X%20por%20Y">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Distância</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Dist%C3%A2ncia">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dist%C3%A2ncia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Quanta Mandioca?</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Quanta%20Mandioca">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código</a></td>
                 <td align="center">✔️</td>
+            </tr>    
+            <tr>
+                <th colspan="3">everis FullStack Developer</th>
+            </tr>                        
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Média 2</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/everis%20FullStack%20Developer/M%C3%A9dia%202">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Positivos e Média</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/everis%20FullStack%20Developer/Positivos%20e%20M%C3%A9dia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Sequência Lógica</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/everis%20FullStack%20Developer/Sequ%C3%AAncia%20L%C3%B3gica">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <th colspan="3">Extras</th>
+            </tr>                        
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Aumento de Salário</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dividindo%20X%20por%20Y">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Múltiplos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dist%C3%A2ncia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Números Ímpares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>    
+            <tr>
+                <td>Sequencia IJ 2</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código</a></td>
+                <td align="center">❌</td>
+            </tr>                                             
         </table>
        <!-- Introdução a Resolução de Desafios com C# -->
         <table border=1>
@@ -677,7 +735,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solução de problemas com .NET -->
         <table border=1>
             <tr>
-                <th colspan="3">Solução de problemas com .NET</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/net-fundamentos-intermediario/algorithm/fila-do-banco?back=/track/net-fundamentals">Solução de problemas com .NET</a></th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -1929,11 +1987,20 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Fundamentos Aritméticos em Javascript -->
         <table border=1>
             <tr>
-                <th colspan="3">Fundamentos Aritméticos em Javascript</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/analise-de-numeros?back=/track/sp-tech-desenvolvimento-fullstack">Fundamentos Aritméticos em Javascript</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">SPTech Desenvolvimento Fullstack</th>
             </tr>
+            <tr>
+                <th colspan="3">SPTech Desenvolvimento Front-end</th>
+            </tr>
+            <tr>
+                <th colspan="3">HTML Web Developer</th>
+            </tr>    
+            <tr>
+                <th colspan="3">JavaScript Game Developer</th>
+            </tr>                                   
             <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
@@ -1941,27 +2008,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Quantidade de Números Positivos</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Quantidade%20de%20N%C3%BAmeros%20Positivos">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20Javascript/Quantidade%20de%20N%C3%BAmeros%20Positivos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Exibindo Números Pares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20Javascript/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Análise de Números</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20Javascript/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Contagem de Cédulas</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20Javascript/Contagem%20de%20C%C3%A9dulas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Consumo Médio do Automóvel</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20Javascript/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>    
@@ -1997,11 +2064,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Busca e Substituição em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3">Introdução a Busca e Substituição em JavaScript</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-javascript/algorithm/atalhos-para-o-weblogger-brasil?back=/track/sp-tech-desenvolvimento-fullstack">Introdução a Busca e Substituição em JavaScript</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">SPTech Desenvolvimento Fullstack</th>
             </tr>
+            <tr>
+                <th colspan="3">SPTech Desenvolvimento Front-end</th>
+            </tr>
+            <tr>
+                <th colspan="3">JavaScript Game Developer</th>
+            </tr>                        
             <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
@@ -2065,11 +2138,23 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3">Introdução a Programação com JavaScript</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/sp-tech-desenvolvimento-fullstack">Introdução a Programação com JavaScript</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">SPTech Desenvolvimento Fullstack</th>
             </tr>
+            <tr>
+                <th colspan="3">SPTech Desenvolvimento Front-end</th>
+            </tr>
+            <tr>
+                <th colspan="3">HTML Web Developer</th>
+            </tr>
+            <tr>
+                <th colspan="3">JavaScript Game Developer</th>
+            </tr>       
+            <tr>
+                <th colspan="3">Avanade Fullstack Developer</th>
+            </tr>                                             
             <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
@@ -2077,28 +2162,31 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Visita na Feira</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Visita%20na%20Feira">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Bootcamps/Visita%20na%20Feira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Folha de Pagamento</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Folha%20de%20Pagamento">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
         <!-- Ordenação e Filtros em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3">Ordenação e Filtros em JavaScript</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/gincana-no-acampamento?back=/track/sp-tech-desenvolvimento-fullstack">Ordenação e Filtros em JavaScript</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">SPTech Desenvolvimento Fullstack</th>
             </tr>
+            <tr>
+                <th colspan="3">JavaScript Game Developer</th>
+            </tr>            
             <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
@@ -2269,7 +2357,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo Algoritmos com JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3">Resolvendo Algoritmos com JavaScript</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-javascript/algorithm/coracao-das-cartas?back=/track/javascript-game-developer">Resolvendo Algoritmos com JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -2381,7 +2469,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solução de Problemas com JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3">Solução de Problemas com JavaScript</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucao-de-problemas-com-javascript/algorithm/contagem-repetida-de-numeros?back=/track/javascript-game-developer">Solução de Problemas com JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -2393,37 +2481,37 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Barras de ouro</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Barras%20de%20ouro">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Bootcamps/Barras%20de%20ouro">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Conjuntos bons ou ruins</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Conjuntos%20bons%20ou%20ruins">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Bootcamps/Conjuntos%20bons%20ou%20ruins">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Contagem repetida de números</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Contagem%20repetida%20de%20n%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Bootcamps/Contagem%20repetida%20de%20n%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Entrevista embaraçosa</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Entrevista%20embara%C3%A7osa">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Bootcamps/Entrevista%20embara%C3%A7osa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Melhor amigo do Pablo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Melhor%20amigo%20do%20Pablo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Bootcamps/Melhor%20amigo%20do%20Pablo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Produto e divisão</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Produto%20e%20divis%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Bootcamps/Produto%20e%20divis%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>      
             <tr>
                 <td>Vogais Extraterrestres</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Vogais%20Extraterrestres">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/Bootcamps/Vogais%20Extraterrestres">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                   
         </table>  
