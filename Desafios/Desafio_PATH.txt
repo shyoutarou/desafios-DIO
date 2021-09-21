@@ -155,26 +155,26 @@ OK>>>>https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-c
 everis Kotlin Developer
 Se o seu sonho sempre foi aprender a como desenvolver aplicativos Android, este bootcamp é para você! Com foco em desenvolvimento de software utilizando Kotlin, uma linguagem de programação multiplataforma derivada do Java, você irá aprender desde o zero com os melhores especialistas no tema ao mesmo tempo que se prepara para uma oportunidade de contratação na everis, empresa multinacional com sede em Madri, líder em soluções tecnológicas.
 OK>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-em-kotlin/algorithm/soma-simples?back=/track/everis-kotlin-developer
-XXX   https://web.digitalinnovation.one/coding/solucionando-problemas-em-kotlin/algorithm/taxa-de-imposto-de-renda?back=/track/everis-kotlin-developer
-XXX   https://web.digitalinnovation.one/coding/praticando-programacao-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/everis-kotlin-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucionando-problemas-em-kotlin/algorithm/taxa-de-imposto-de-renda?back=/track/everis-kotlin-developer
+OK>>>>https://web.digitalinnovation.one/coding/praticando-programacao-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/everis-kotlin-developer
 
 
 Code Anywhere
 Desenvolva projetos com Spring Boot, Spring Cloud e Azure em conjunto com os melhores experts da Avanade para ampliar o seu conhecimento, criar um portfólio inovador e conquistar grandes oportunidades.
-XXX   https://web.digitalinnovation.one/coding/iniciando-a-programacao-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
-XXX   https://web.digitalinnovation.one/coding/desafios-matematicos-em-java-1/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
+OK>>>>https://web.digitalinnovation.one/coding/iniciando-a-programacao-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
+OK>>>>https://web.digitalinnovation.one/coding/desafios-matematicos-em-java-1/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
 
 
 Take Blip Fullstack Developer
 Desenvolva soluções fullstack aproveitando o melhor que o C#, a principal linguagem da Microsoft pode oferecer, e crie aplicações completas utilizando React no front-end. Ao final dessa jornada, você será capaz de construir aplicações web modernas e dentro das boas práticas do mercado.
-XXX   https://web.digitalinnovation.one/coding/primeiros-programas-em-c/algorithm/soma-simples?back=/track/take-blip-fullstack-developer
-XXX   https://web.digitalinnovation.one/coding/solucionando-desafios-em-c/algorithm/bazinga?back=/track/take-blip-fullstack-developer
-XXX   https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-c/algorithm/formula-de-bhaskara?back=/track/take-blip-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/primeiros-programas-em-c/algorithm/soma-simples?back=/track/take-blip-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucionando-desafios-em-c/algorithm/bazinga?back=/track/take-blip-fullstack-developer
+600XP>https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-c/algorithm/formula-de-bhaskara?back=/track/take-blip-fullstack-developer
 
 
 Santander Bootcamp | Mobile Developer
 Para você que deseja desenvolver aplicativos mobile nativos para Android, aprender as melhores práticas utilizadas por experts do mercado e trilhar uma carreira de sucesso em desenvolvimento mobile.
-https://web.digitalinnovation.one/coding/primeiros-passos-em-kotlin/algorithm/soma-simples?back=/track/santander-mobile-developer
+OK>>>>https://web.digitalinnovation.one/coding/primeiros-passos-em-kotlin/algorithm/soma-simples?back=/track/santander-mobile-developer
 https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin/algorithm/teste-de-selecao-1?back=/track/santander-mobile-developer
 https://web.digitalinnovation.one/coding/praticando-programacao-com-kotlin/algorithm/bob-conduite?back=/track/santander-mobile-developer
 
@@ -230,8 +230,7 @@ Inter Android Developer
 Nesse bootcamp você aprenderá sobre as principais tecnologias utilizadas pelo Inter, que é uma das maiores e mais completas plataformas digitais de serviços financeiros e não financeiros do Brasil. Essa é sua chance de impulsionar sua carreira em desenvolvimento de software, se aprofundando na criação de aplicativos para Android. O bootcamp Inter Android Developer faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, que até 2022 distribuirá 130 mil bolsas de estudo gratuitas, fortalecendo ainda mais a comunidade tech brasileira.
 XXX   https://web.digitalinnovation.one/coding/desafios-matematicos-em-kotlin/algorithm/analise-de-numeros?back=/track/inter-android-developer
 XXX   https://web.digitalinnovation.one/coding/praticando-aritmetica-em-kotlin/algorithm/coluna-na-matriz?back=/track/inter-android-developer
-XXX   https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin/algorithm/teste-de-selecao-1?back=/track/inter-android-developer
-
+XXX   https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin-1/algorithm/teste-de-selecao-1?back=/inter-android-developer
 
 
 everis New Talents - Java

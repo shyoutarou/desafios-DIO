@@ -635,10 +635,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros programas em C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Primeiros programas em C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-programas-em-c/algorithm/soma-simples?back=/track/take-blip-fullstack-developer">Primeiros programas em C#</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Take Blip Fullstack Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -710,6 +710,35 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Resolvendo algoritmos com C# -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-c/algorithm/formula-de-bhaskara?back=/track/take-blip-fullstack-developer">Resolvendo algoritmos com C#</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Take Blip Fullstack Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Cardápio Aéreo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Coxinha de Bueno</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/M%C3%BAltiplos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fórmula de Bhaskara</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/Soma%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>          
         <!-- Solução de problemas básicos em C# -->
         <table border=1>
             <tr>
@@ -849,6 +878,45 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>     
+        <!-- Solucionando desafios em C# -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-desafios-em-c/algorithm/bazinga?back=/track/take-blip-fullstack-developer">Solucionando desafios em C#</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Take Blip Fullstack Developer</th>
+            </tr>          
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Bazinga!</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solucionando%20desafios%20em%20C%23/Bazinga!">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Conversão de Tempo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solucionando%20desafios%20em%20C%23/Convers%C3%A3o%20de%20Tempo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pizza Antes do Final do Ano</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solucionando%20desafios%20em%20C%23/Pizza%20Antes%20do%20Final%20do%20Ano">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Teste de Seleção 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solucionando%20desafios%20em%20C%23/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Ultrapassando V</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solucionando%20desafios%20em%20C%23/Ultrapassando%20V">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>        
         <!-- Solucionando desafios intermediários em C# -->
         <table border=1>
             <tr>
@@ -987,10 +1055,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios matemáticos em Java -->
         <table border=1>
             <tr>
-                <th colspan="3">Desafios matemáticos em Java</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-matematicos-em-java-1/algorithm/area-direita?back=/track/code-anywhere">Desafios matemáticos em Java</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Code Anywhere</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -999,17 +1067,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Área Direita</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/%C3%81rea%20Direita">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Code%20Anywhere/%C3%81rea%20Direita">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Área Esquerda</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/%C3%81rea%20Esquerda">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Code%20Anywhere/%C3%81rea%20Esquerda">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Área Inferior</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/%C3%81rea%20Inferior">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20matem%C3%A1ticos%20em%20Java/Code%20Anywhere/%C3%81rea%20Inferior">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table>        
@@ -1135,11 +1203,11 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Iniciando a programação em Java -->
         <table border=1>
             <tr>
-                <th colspan="3">Iniciando a programação em Java</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/iniciando-a-programacao-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere">Iniciando a programação em Java</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
-            </tr>
+                <th colspan="3">Code Anywhere</th>
+            </tr>                     
             <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
@@ -1154,7 +1222,12 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Entrada e Saída CPF</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Entrada%20e%20Sa%C3%ADda%20CPF">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>         
+            </tr>   
+            <tr>
+                <td>Entrada e Saída CPF</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Entrada%20e%20Sa%C3%ADda%20CPF">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                    
         </table>           
         <!-- Introdução a Busca e Substituição em Java -->
         <table border=1>
@@ -2911,10 +2984,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Praticando Programação em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3">Praticando Programação em Kotlin</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/praticando-programacao-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/everis-kotlin-developer">Praticando Programação em Kotlin</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis Kotlin Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2940,10 +3013,33 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros passos em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3">Primeiros passos em Kotlin</th>
+                <th colspan="3">n<a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-kotlin/algorithm/soma-simples?back=/track/santander-mobile-developer">Primeiros passos em Kotli</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Santander Bootcamp | Mobile Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Média 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Santander%20Bootcamp%20%20Mobile%20Developer/M%C3%A9dia%201">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Multiplicação Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Santander%20Bootcamp%20%20Mobile%20Developer/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Soma Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Santander%20Bootcamp%20%20Mobile%20Developer/Soma%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+           <tr>
+                <th colspan="3">Carrefour Android Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2956,33 +3052,23 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Imposto de Renda</td>
+                <td>Taxa de Imposto de Renda</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Imposto%20de%20Renda">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Média 1</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/M%C3%A9dia%201">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Sequência Lógica</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Sequ%C3%AAncia%20L%C3%B3gica">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>            
+            </tr>                      
         </table>  
         <!-- Solucionando desafios em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3">Solucionando desafios em Kotlin</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin/algorithm/teste-de-selecao-1?back=/track/santander-mobile-developer">Solucionando desafios em Kotlin</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Santander Bootcamp | Mobile Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2990,7 +3076,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Acima da Diagonal Principal</td>
+                <td>A Corrida de Tartarugas</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Acima%20da%20Diagonal%20Principal">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
@@ -3013,15 +3099,38 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Triângulo</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Tri%C3%A2ngulo">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>            
+            </tr>    
+            <tr>
+                <th colspan="3">Inter Android Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Acima da Diagonal Principal</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Acima%20da%20Diagonal%20Principal">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Média 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Área do Círculo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Fibonacci%20F%C3%A1cil">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                     
         </table>                          
         <!-- Solucionando Problemas em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3">Solucionando Problemas em Kotlin</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-problemas-em-kotlin/algorithm/taxa-de-imposto-de-renda?back=/track/everis-kotlin-developer">Solucionando Problemas em Kotlin</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis Kotlin Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
