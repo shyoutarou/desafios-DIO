@@ -87,19 +87,19 @@ OK>>>>>https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-javasc
 Avanade Fullstack Developer
 Nesse bootcamp você vai desenvolver projetos usando.NET e Angular, além de aprender os requisitos básicos para conquistar oportunidades na Avanade Brasil, empresa multinacional presente em 25 países.
 OK>>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c/algorithm/dividindo-x-por-y?back=/track/avanade-fullstack-developer
-https://web.digitalinnovation.one/coding/solucao-de-problemas-essenciais-com-c/algorithm/quadrado-e-ao-cubo?back=/track/avanade-fullstack-developer
-https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/avanade-fullstack-developer
-https://web.digitalinnovation.one/coding/solucao-de-problemas-com-javascript/algorithm/contagem-repetida-de-numeros?back=/track/avanade-fullstack-developer
+OK>>>>>https://web.digitalinnovation.one/coding/solucao-de-problemas-essenciais-com-c/algorithm/quadrado-e-ao-cubo?back=/track/avanade-fullstack-developer
+OK>>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/avanade-fullstack-developer
+OK>>>>>https://web.digitalinnovation.one/coding/solucao-de-problemas-com-javascript/algorithm/contagem-repetida-de-numeros?back=/track/avanade-fullstack-developer
 
 
 everis FullStack Developer
 Aprenda as tecnologias utilizadas pela everis no desenvolvimento de projetos inovadores ao redor do mundo para conquistar oportunidades e acelerar a sua carreira em desenvolvimento de software nesta gigante de tecnologia.
-XXX   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c-1/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c-1/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer
 XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/problema-aritmeticos/algorithm/distancia?back=/track/everis-fullstack-developer
 XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/solucao-de-problemas-essenciais/algorithm/distancia?back=/track/everis-fullstack-developer
 XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/busca-e-lacos-de-repeticao/algorithm/distancia?back=/track/everis-fullstack-developer
-https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-java/algorithm/ordenando-numeros-pares-e-impares?back=/track/everis-fullstack-developer
-https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-java/algorithm/coracao-das-cartas?back=/track/everis-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-java/algorithm/ordenando-numeros-pares-e-impares?back=/track/everis-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-java/algorithm/coracao-das-cartas?back=/track/everis-fullstack-developer
 
 
 GFT START_UNI 2021 #1
@@ -109,52 +109,52 @@ XXX   NAO ENTRA https://web.digitalinnovation.one/coding/solucao-de-problemas-ba
 
 Java Developer
 Java é uma das linguagens back-end mais utilizada por desenvolvedores de todo o mundo. Neste bootcamp você aprenderá o passo a passo da tecnologia e desenvolverá projetos 100% práticos.
-https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java/algorithm/visita-na-feira?back=/track/java-developer
-https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-java/algorithm/quantidade-de-numeros-positivos?back=/track/java-developer
-https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-java/algorithm/ordenando-numeros-pares-e-impares?back=/track/java-developer
-https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-java/algorithm/ordenacao-de-palavras-por-tamanho?back=/track/java-developer
-https://web.digitalinnovation.one/coding/solucao-de-problemas-com-java/algorithm/contagem-repetida-de-numeros?back=/track/java-developer
-https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-java/algorithm/coracao-das-cartas?back=/track/java-developer
+OK>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java/algorithm/visita-na-feira?back=/track/java-developer
+OK>>>>https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-java/algorithm/quantidade-de-numeros-positivos?back=/track/java-developer
+OK>>>>https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-java/algorithm/ordenando-numeros-pares-e-impares?back=/track/java-developer
+OK>>>>https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-java/algorithm/ordenacao-de-palavras-por-tamanho?back=/track/java-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucao-de-problemas-com-java/algorithm/contagem-repetida-de-numeros?back=/track/java-developer
+OK>>>>https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-java/algorithm/coracao-das-cartas?back=/track/java-developer
 
 
 Avanade Angular Developer
 Nesse bootcamp você vai desenvolver projetos usando Angular 8, além de aprender os requisitos básicos para conquistar oportunidades na Avanade Brasil, empresa multinacional presente em 25 países. Não perca a oportunidade de impulsionar sua carreira em tecnologia e garanta sua matrícula.
-https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/dividindo-x-por-y?back=/track/avanade-angular-developer
-XXX  https://web.digitalinnovation.one/coding/praticando-programacao-em-javascript/algorithm/quanta-mandioca?back=/track/avanade-angular-developer
-XXX  https://web.digitalinnovation.one/coding/desenvolvimento-de-problemas-avancados-em-javascript/algorithm/ordenando-numeros-pares-e-impares?back=/track/avanade-angular-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/dividindo-x-por-y?back=/track/avanade-angular-developer
+180XP>https://web.digitalinnovation.one/coding/praticando-programacao-em-javascript/algorithm/quanta-mandioca?back=/track/avanade-angular-developer
+OK>>>>https://web.digitalinnovation.one/coding/desenvolvimento-de-problemas-avancados-em-javascript/algorithm/ordenando-numeros-pares-e-impares?back=/track/avanade-angular-developer
 
 
 Impulso FullStack Developer
 Impulsione sua carreira em desenvolvimento de software e fique por dentro das tecnologias utilizadas pela Impulso, uma empresa de tecnologia da informação com projetos pioneiros e de grande impacto no mercado.
-https://web.digitalinnovation.one/coding/solucionando-problemas-basicos-em-ruby/algorithm/par-ou-impar?back=/track/impulso-fullstack-developer
-https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/dividindo-x-por-y?back=/track/impulso-fullstack-developer
-https://web.digitalinnovation.one/coding/praticando-com-desafios-intermediarios-em-ruby/algorithm/encaixa-ou-nao-ii?back=/track/impulso-fullstack-developer
-https://web.digitalinnovation.one/coding/solucionando-desafios-matematicos-em-ruby/algorithm/substituicao-em-vetor-i?back=/track/impulso-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucionando-problemas-basicos-em-ruby/algorithm/par-ou-impar?back=/track/impulso-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/dividindo-x-por-y?back=/track/impulso-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/praticando-com-desafios-intermediarios-em-ruby/algorithm/encaixa-ou-nao-ii?back=/track/impulso-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucionando-desafios-matematicos-em-ruby/algorithm/substituicao-em-vetor-i?back=/track/impulso-fullstack-developer
 
 
 Inter Java Developer
 Neste bootcamp você terá contato com as principais tecnologias utilizadas pelo Inter e ainda terá a chance de ser contratado pela empresa, que foi o primeiro banco 100% digital do Brasil e atualmente já é uma plataforma completa de serviços financeiros e não financeiros pensada para simplificar a vida dos clientes. Essa é sua chance de impulsionar sua carreira em desenvolvimento de software se aprofundando na linguagem Java com experts da área e realizando diversos projetos práticos e desafios de código.
-XXX   https://web.digitalinnovation.one/coding/solucionando-problemas-basicos-em-java/algorithm/multiplicacao-simples?back=/track/inter-java-developer
-XXX   https://web.digitalinnovation.one/coding/praticando-programacao-em-java/algorithm/abreviando-posts-do-blog?back=/track/inter-java-developer
-XXX   https://web.digitalinnovation.one/coding/desafio-aritmetico-em-java/algorithm/abreviando-posts-do-blog?back=/track/inter-java-developer
+60XP>>https://web.digitalinnovation.one/coding/solucionando-problemas-basicos-em-java/algorithm/multiplicacao-simples?back=/track/inter-java-developer
+OK>>>>https://web.digitalinnovation.one/coding/praticando-programacao-em-java/algorithm/abreviando-posts-do-blog?back=/track/inter-java-developer
+120XP>https://web.digitalinnovation.one/coding/desafio-aritmetico-em-java/algorithm/abreviando-posts-do-blog?back=/track/inter-java-developer
 
 
 
 LocalizaLabs .NET Developer
 Bem-vindo ao bootcamp #LocalizaLabs! O #LocalizaLabs é o laboratório de tecnologia e inovação da Localiza e conta com quase 700 colaboradores totalmente dedicados à tecnologia e a tudo o que ela nos possibilita na jornada de transformação. Acreditamos que a inovação, na prática, só é possível por meio da troca de compartilhamento de ideias, por isso, essa trilha é formada por conteúdos com experts em diferentes habilidades das skills esperadas no programa de contratação. Aqui você vai aprender e desenvolver competências buscadas no mercado de .NET utilizando C# e ainda pode conquistar uma oportunidade de integrar o time da maior locadora de veículos da América Latina.
-XXX   https://web.digitalinnovation.one/coding/solucao-de-problemas-em-c/algorithm/consumo-medio-do-automovel?back=/track/localizalabs-net-developer
-XXX   https://web.digitalinnovation.one/coding/desafios-aritmeticos-em-c/algorithm/media-1?back=/track/localizalabs-net-developer
-XXX   https://web.digitalinnovation.one/coding/praticando-programacao-em-c/algorithm/coordenadas-de-um-ponto?back=/track/localizalabs-net-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucao-de-problemas-em-c/algorithm/consumo-medio-do-automovel?back=/track/localizalabs-net-developer
+90XP>>https://web.digitalinnovation.one/coding/desafios-aritmeticos-em-c/algorithm/media-1?back=/track/localizalabs-net-developer
+60XP>>https://web.digitalinnovation.one/coding/praticando-programacao-em-c/algorithm/coordenadas-de-um-ponto?back=/track/localizalabs-net-developer
 
 MRV .NET Developer
 Bem-vindo ao bootcamp MRV .NET DEVELOPER é um programa gratuito para formação de desenvolvedores .NET com foco em soluções em C#, sendo a porta de entrada para conquistar uma oportunidade de contratação na MRV, a empresa parceira nos projetos da maior Construtora da América Latina.
-XXX   https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-c/algorithm/visita-na-feira?back=/track/mrv-net-developer
-XXX   https://web.digitalinnovation.one/coding/solucionando-desafios-intermediarios-em-c/algorithm/teste-de-selecao-1?back=/track/mrv-net-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-c/algorithm/visita-na-feira?back=/track/mrv-net-developer
+690XP>https://web.digitalinnovation.one/coding/solucionando-desafios-intermediarios-em-c/algorithm/teste-de-selecao-1?back=/track/mrv-net-developer
 
 
 everis Kotlin Developer
 Se o seu sonho sempre foi aprender a como desenvolver aplicativos Android, este bootcamp é para você! Com foco em desenvolvimento de software utilizando Kotlin, uma linguagem de programação multiplataforma derivada do Java, você irá aprender desde o zero com os melhores especialistas no tema ao mesmo tempo que se prepara para uma oportunidade de contratação na everis, empresa multinacional com sede em Madri, líder em soluções tecnológicas.
-XXX   https://web.digitalinnovation.one/coding/introducao-a-programacao-em-kotlin/algorithm/soma-simples?back=/track/everis-kotlin-developer
+OK>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-em-kotlin/algorithm/soma-simples?back=/track/everis-kotlin-developer
 XXX   https://web.digitalinnovation.one/coding/solucionando-problemas-em-kotlin/algorithm/taxa-de-imposto-de-renda?back=/track/everis-kotlin-developer
 XXX   https://web.digitalinnovation.one/coding/praticando-programacao-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/everis-kotlin-developer
 
