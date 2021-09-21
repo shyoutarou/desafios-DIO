@@ -175,8 +175,8 @@ OK>>>>https://web.digitalinnovation.one/coding/solucionando-desafios-em-c/algori
 Santander Bootcamp | Mobile Developer
 Para você que deseja desenvolver aplicativos mobile nativos para Android, aprender as melhores práticas utilizadas por experts do mercado e trilhar uma carreira de sucesso em desenvolvimento mobile.
 OK>>>>https://web.digitalinnovation.one/coding/primeiros-passos-em-kotlin/algorithm/soma-simples?back=/track/santander-mobile-developer
-https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin/algorithm/teste-de-selecao-1?back=/track/santander-mobile-developer
-https://web.digitalinnovation.one/coding/praticando-programacao-com-kotlin/algorithm/bob-conduite?back=/track/santander-mobile-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin/algorithm/teste-de-selecao-1?back=/track/santander-mobile-developer
+OK>>>>https://web.digitalinnovation.one/coding/praticando-programacao-com-kotlin/algorithm/bob-conduite?back=/track/santander-mobile-developer
 
 
 
@@ -190,7 +190,7 @@ https://web.digitalinnovation.one/coding/solucionando-desafios-em-java/algorithm
 
 everis Quality Assurance Beginner
 Conquiste as melhores oportunidades na everis como software tester em aplicações Java. Nessa jornada rumo a contratação, através do bootcamp everis Quality Assurance Beginner, você irá aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
-XXX   https://web.digitalinnovation.one/coding/iniciando-programacao-em-java/algorithm/multiplicacao-simples?back=/track/everis-quality-assurance-beginner
+OK>>>>https://web.digitalinnovation.one/coding/iniciando-programacao-em-java/algorithm/multiplicacao-simples?back=/track/everis-quality-assurance-beginner
 
 
 GFT START #2 Java

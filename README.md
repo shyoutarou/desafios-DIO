@@ -1199,7 +1199,42 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Quantidade%20de%20n%C3%BAmeros%20positivos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
-        </table>       
+        </table> 
+        <!-- Iniciando programação em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/iniciando-programacao-em-java/algorithm/multiplicacao-simples?back=/track/everis-quality-assurance-beginner">Iniciando programação em Java</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">everis Quality Assurance Beginner</th>
+            </tr>     
+            <tr>
+                <th colspan="3">everis Quality Assurance Beginner #2</th>
+            </tr>   
+            <tr>
+                <th colspan="3">everis Site Reliability Engineer Essentials</th>
+            </tr>                                           
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Contagem de Cédulas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Folha de Pagamento</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Multiplicação Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                    
+        </table>               
         <!-- Iniciando a programação em Java -->
         <table border=1>
             <tr>
@@ -2955,10 +2990,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Praticando programação com Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3">Praticando programação com Kotlin</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/praticando-programacao-com-kotlin/algorithm/bob-conduite?back=/track/santander-mobile-developer">Praticando programação com Kotlin</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Santander Bootcamp | Mobile Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3077,27 +3112,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>A Corrida de Tartarugas</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Acima%20da%20Diagonal%20Principal">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Santander%20Bootcamp%20%20Mobile%20Developer/A%20Corrida%20de%20Tartarugas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Análise de Números</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Santander%20Bootcamp%20%20Mobile%20Developer/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fibonacci Fácil</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Fibonacci%20F%C3%A1cil">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Santander%20Bootcamp%20%20Mobile%20Developer/Fibonacci%20F%C3%A1cil">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Teste de Seleção 1</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Santander%20Bootcamp%20%20Mobile%20Developer/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Triângulo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Tri%C3%A2ngulo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Solucionando%20desafios%20em%20Kotlin/Santander%20Bootcamp%20%20Mobile%20Developer/Tri%C3%A2ngulo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>    
             <tr>
