@@ -1035,30 +1035,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Divisores</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Divisores">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>     
-            <tr>
-                <th colspan="3">Capgemini Fullstack Java and Angular</th>
-            </tr>
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>Área Inferior</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Principal">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Nome no Formulário</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Secundaria">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Positivos e Média</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Acima%20Diagonal%20Secundaria">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>                             
+            </tr>                                 
         </table>    
         <!-- Desafios Avançados em Java -->
         <table border=1>
@@ -1996,6 +1973,29 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafio-aritmetico-em-javascript/algorithm/area-inferior?back=/track/capgemini-fullstack-java-and-angular">Desafio Aritmético em JavaScript</a></th>
             </tr>
+           <tr>
+                <th colspan="3">Capgemini Fullstack Java and Angular</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Área Inferior</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Principal">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Nome no Formulário</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Secundaria">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Positivos e Média</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Acima%20Diagonal%20Secundaria">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>              
             <tr>
                 <th colspan="3"></th>
             </tr>
@@ -2018,7 +2018,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Positivos e Média</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafio%20Aritm%C3%A9tico%20em%20JavaScript/Positivos%20e%20M%C3%A9dia">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>
+            </tr>           
         </table>    
         <!-- Desafios Aritméticos em JavaScript -->
         <table border=1>
