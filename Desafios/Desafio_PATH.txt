@@ -278,13 +278,13 @@ Conquiste as melhores oportunidades na Capgemini como Java Fullstack. Através d
 OK>>>>   Introdução a Programação com Java   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-1/algorithm/multiplicacao-simples?back=/track/capgemini-fullstack-java-and-angular
 OK>>>>   Desafios numéricos em Java          https://web.digitalinnovation.one/coding/desafios-numericos-em-java-1/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular
 60XP>>https://web.digitalinnovation.one/coding/desafio-aritmetico-em-javascript/algorithm/area-inferior?back=/track/capgemini-fullstack-java-and-angular
-Desafios avançados de código em JavaScript    https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-javascript/algorithm/diferenca?back=/track/capgemini-fullstack-java-and-angular
+OK>>>>   Desafios avançados de código em JavaScript    https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-javascript/algorithm/diferenca?back=/track/capgemini-fullstack-java-and-angular
 
 
 
 Carrefour Android Developer
 Conquiste as melhores oportunidades com o Carrefour como desenvolvedor mobile. Por meio do bootcamp Carrefour Android Developer, você terá oportunidades de contratação, além de aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
-Primeiros passos em Kotlin    https://web.digitalinnovation.one/coding/primeiros-passos-em-programacao-kotlin/algorithm/sequencia-logica?back=/track/carrefour-android-developer-1
+OK>>>>    Primeiros passos em Kotlin    https://web.digitalinnovation.one/coding/primeiros-passos-em-programacao-kotlin/algorithm/sequencia-logica?back=/track/carrefour-android-developer-1
 XXX   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-kotlin/algorithm/idade-em-dias?back=/track/carrefour-android-developer-1
 https://web.digitalinnovation.one/coding/desafios-numericos-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/carrefour-android-developer-1
 

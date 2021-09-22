@@ -1983,17 +1983,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Área Inferior</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Principal">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafio%20Aritm%C3%A9tico%20em%20JavaScript/Capgemini%20Fullstack%20Java%20and%20Angular/%C3%81rea%20Inferior">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Nome no Formulário</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Secundaria">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafio%20Aritm%C3%A9tico%20em%20JavaScript/Capgemini%20Fullstack%20Java%20and%20Angular/Nome%20no%20Formul%C3%A1rio">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Positivos e Média</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Acima%20Diagonal%20Secundaria">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafio%20Aritm%C3%A9tico%20em%20JavaScript/Capgemini%20Fullstack%20Java%20and%20Angular/Positivos%20e%20M%C3%A9dia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
@@ -2080,10 +2080,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios avançados de código em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3">Desafios avançados de código em JavaScript</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-javascript/algorithm/diferenca?back=/track/capgemini-fullstack-java-and-angular">Desafios avançados de código em JavaScript</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Capgemini Fullstack Java and Angular</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3028,10 +3028,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3">Introdução a Programação com Kotlin</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-kotlin/algorithm/idade-em-dias?back=/track/carrefour-android-developer-1">Introdução a Programação com Kotlin</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Carrefour Android Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3041,7 +3041,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td>Alarme Despertador</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Kotlin/Alarme%20Despertador">Código</a></td>
-                <td align="center">❌</td>
+                <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Idade Em Dias</td>
@@ -3052,7 +3052,20 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Média 3</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Kotlin/M%C3%A9dia%203">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>                     
+            </tr>  
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>  
+            <tr>
+                <td>Alarme Despertador</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Kotlin/Alarme%20Despertador">Código</a></td>
+                <td align="center">❌</td>
+            </tr>                                         
         </table>                 
         <!-- Introdução a Programação em Kotlin -->
         <table border=1>
@@ -3218,17 +3231,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Figurinhas</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Figurinhas">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Carrefour%20Android%20Developer/Figurinhas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Taxa de Imposto de Renda</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Imposto%20de%20Renda">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Carrefour%20Android%20Developer/Taxa%20de%20Imposto%20de%20Renda">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Sequência Lógica</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Sequ%C3%AAncia%20L%C3%B3gica">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Primeiros%20passos%20em%20Kotlin/Carrefour%20Android%20Developer/Sequ%C3%AAncia%20L%C3%B3gica">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                      
         </table>  
