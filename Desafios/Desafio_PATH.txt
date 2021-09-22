@@ -182,9 +182,9 @@ OK>>>>https://web.digitalinnovation.one/coding/praticando-programacao-com-kotlin
 
 Santander Bootcamp | Fullstack Developer
 Para você que deseja desenvolver aplicações back-end de alto nível utilizando Java, criar aplicações ainda mais completas integradas ao banco de dados. Além de explorar o front-end com Angular, uma solução amplamente utilizada para criação de aplicações SPA por grandes empresas do mercado e trilhar uma carreira de sucesso como dev fullstack
-https://web.digitalinnovation.one/coding/primeiros-passos-em-java/algorithm/visita-na-feira?back=/track/santander-fullstack-developer
-https://web.digitalinnovation.one/coding/desafios-numericos-em-java/algorithm/analise-de-numeros?back=/track/santander-fullstack-developer
-https://web.digitalinnovation.one/coding/solucionando-desafios-em-java/algorithm/area-do-circulo?back=/track/santander-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/primeiros-passos-em-java/algorithm/visita-na-feira?back=/track/santander-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/desafios-numericos-em-java/algorithm/analise-de-numeros?back=/track/santander-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucionando-desafios-em-java/algorithm/area-do-circulo?back=/track/santander-fullstack-developer
 
 
 
@@ -195,47 +195,47 @@ OK>>>>https://web.digitalinnovation.one/coding/iniciando-programacao-em-java/alg
 
 GFT START #2 Java
 Chegou a hora de você entrar de cabeça no mundo de Java e criar soluções corporativas de alto nível explorando o melhor que o framework Spring Boot pode oferecer na hora de criar API's Rest.
-XXX   https://web.digitalinnovation.one/coding/desafios-matematicos-em-java/algorithm/visita-na-feira?back=/track/gft-start-2-java
-XXX   https://web.digitalinnovation.one/coding/solucionando-desafios-em-java/algorithm/area-do-circulo?back=/track/gft-start-2-java
+OK>>>>https://web.digitalinnovation.one/coding/desafios-matematicos-em-java/algorithm/visita-na-feira?back=/track/gft-start-2-java
+OK>>>>https://web.digitalinnovation.one/coding/solucionando-desafios-em-java/algorithm/area-do-circulo?back=/track/gft-start-2-java
 
 
 GFT START #2 .NET
 Desenvolva seus primeiros passos e primeiros projetos na stack de .net C# com grandes experts de mercado e construa aplicações de alto nível com embasamento técnico de arquitetura em back-end.
-XXX   https://web.digitalinnovation.one/coding/iniciando-a-programar-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
+OK>>>>https://web.digitalinnovation.one/coding/iniciando-a-programar-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
 XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/desafios-aritmeticos-intermediarios-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
 
 
 
 Banco Carrefour Data Engineer
 Bem vindo ao seu bootcamp focado em engenharia de dados, você terá a oportunidade de aprender com grandes experts de mercado as principais habilidades que um engenheiro de dados precisa ter para criar soluções inteligentes através de grandes massas de dados.
-XXX   https://web.digitalinnovation.one/coding/solucoes-aritmeticas-em-python/algorithm/notas-da-prova?back=/track/banco-carrefour-data-engineer
-XXX   https://web.digitalinnovation.one/coding/solucionando-desafios-em-python/algorithm/media-3?back=/track/banco-carrefour-data-engineer
+60XP>>https://web.digitalinnovation.one/coding/solucoes-aritmeticas-em-python/algorithm/notas-da-prova?back=/track/banco-carrefour-data-engineer
+OK>>>>https://web.digitalinnovation.one/coding/solucionando-desafios-em-python/algorithm/media-3?back=/track/banco-carrefour-data-engineer
 
 
 MRV Front End SPA Developer
 No Bootcamp MRV Front End SPA Developer você vai aprender com a gente os conceitos de desenvolvimento de software para criar soluções digitais, de desenvolvimento Front-end e ReactJS para atuar em projetos de desenvolvimento web e de componentes da interface de usuários. Esse evento faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, um dos principais hubs de inovação do Brasil. O Órbi Academy Techboost, é um dos maiores programas brasileiros de formação em carreiras de tecnologia e irá distribuir mais de 130 mil bolsas de estudo até 2022, impactando toda a comunidade tech brasileira.
-XXX   https://web.digitalinnovation.one/coding/solucoes-aritmeticas-em-javascript/algorithm/compras-no-supermercado?back=/track/mrv-front-end-spa-developer
-XXX   https://web.digitalinnovation.one/coding/desafios-de-codigo-em-javascript/algorithm/aumento-de-salario?back=/track/mrv-front-end-spa-developer
-XXX   https://web.digitalinnovation.one/coding/desafios-intermediarios-em-javascript/algorithm/area-superior?back=/track/mrv-front-end-spa-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucoes-aritmeticas-em-javascript/algorithm/compras-no-supermercado?back=/track/mrv-front-end-spa-developer
+OK>>>>https://web.digitalinnovation.one/coding/desafios-de-codigo-em-javascript/algorithm/aumento-de-salario?back=/track/mrv-front-end-spa-developer
+90XP>>https://web.digitalinnovation.one/coding/desafios-intermediarios-em-javascript/algorithm/area-superior?back=/track/mrv-front-end-spa-developer
 
 
 LocalizaLabs React Developer
 Você aprenderá os conceitos de desenvolvimento de software para criação de soluções digitais, de desenvolvimento front-end e ReactJS para atuação em projetos de desenvolvimento web e de componentes da interface de usuários. O Bootcamp LocalizaLabs React developer faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, um dos principais hubs de inovação do Brasil. O Órbi Academy Techboost, é um dos maiores programas brasileiros de formação em carreiras de tecnologia e irá distribuir mais de 130 mil bolsas de estudo até 2022, impactando toda a comunidade tech brasileira.
-XXX   https://web.digitalinnovation.one/coding/iniciando-desafios-em-javascript/algorithm/calculo-de-viagem?back=/track/localizalabs-react-developer
-XXX   https://web.digitalinnovation.one/coding/desafios-aritmeticos-em-javascript/algorithm/coxinha-de-bueno?back=/track/localizalabs-react-developer
-XXX   https://web.digitalinnovation.one/coding/desafios-matematicos-em-javascript/algorithm/contagem-de-cedulas?back=/track/localizalabs-react-developer
+60XP>>https://web.digitalinnovation.one/coding/iniciando-desafios-em-javascript/algorithm/calculo-de-viagem?back=/track/localizalabs-react-developer
+OK>>>>https://web.digitalinnovation.one/coding/desafios-aritmeticos-em-javascript/algorithm/coxinha-de-bueno?back=/track/localizalabs-react-developer
+OK>>>>https://web.digitalinnovation.one/coding/desafios-matematicos-em-javascript/algorithm/contagem-de-cedulas?back=/track/localizalabs-react-developer
 
 
 Inter Android Developer
 Nesse bootcamp você aprenderá sobre as principais tecnologias utilizadas pelo Inter, que é uma das maiores e mais completas plataformas digitais de serviços financeiros e não financeiros do Brasil. Essa é sua chance de impulsionar sua carreira em desenvolvimento de software, se aprofundando na criação de aplicativos para Android. O bootcamp Inter Android Developer faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, que até 2022 distribuirá 130 mil bolsas de estudo gratuitas, fortalecendo ainda mais a comunidade tech brasileira.
-XXX   https://web.digitalinnovation.one/coding/desafios-matematicos-em-kotlin/algorithm/analise-de-numeros?back=/track/inter-android-developer
-XXX   https://web.digitalinnovation.one/coding/praticando-aritmetica-em-kotlin/algorithm/coluna-na-matriz?back=/track/inter-android-developer
-XXX   https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin-1/algorithm/teste-de-selecao-1?back=/inter-android-developer
+OK>>>>https://web.digitalinnovation.one/coding/desafios-matematicos-em-kotlin/algorithm/analise-de-numeros?back=/track/inter-android-developer
+60XP>>https://web.digitalinnovation.one/coding/praticando-aritmetica-em-kotlin/algorithm/coluna-na-matriz?back=/track/inter-android-developer
+OK>>>>https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin-1/algorithm/teste-de-selecao-1?back=/inter-android-developer
 
 
 everis New Talents - Java
 Bem-vindo ao seu bootcamp com foco em Java e arquitetura back-end, aqui você irá dar seus primeiros passos em back-end e conseguirá criar soluções corporativas escalaveis.
-XXX   https://web.digitalinnovation.one/coding/primeiros-passos-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
+60 XP>>>  https://web.digitalinnovation.one/coding/primeiros-passos-em-java-1/algorithm/visita-na-feira?back=/track/everis-new-talents-java
 XXX   https://web.digitalinnovation.one/coding/desafios-matematicos-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
 XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/resolvendo-desafios-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
 

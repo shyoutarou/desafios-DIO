@@ -25,30 +25,32 @@ Imprima o resultado solicitado (a soma ou média), com 1 casa após o ponto
 decimal.
 */
 
-fun main() {
-  val c = readLine()!!.toInt()
-  var sum = 0.0
-  var med = 0.0
-  val t = readLine()!!
-  val m = Array(12) { DoubleArray(12) }
-
-  for (i in m.indices) {
-    for (j in m.indices) {
-      m[i][j] = readLine()!!.toDouble()
+fun main(args: Array<String>) {
+    
+    val C = readLine()!!.toInt()
+    var sum = 0.0
+    val T = readLine()!!.toUpperCase()
+    val M = Array(12) { DoubleArray(12)}
+    
+    for (i in 0.until(12)) {
+        var line = readLine()!!
+        if (line.contains(" ")) {
+            M[i] = line.split(" ").map(fun (it: String): Double { return it.replace(",", ".").toDouble(); }).toDoubleArray();
+        }
+        else {
+            M[i][0] = line.toDouble()
+            for (j in 1.until(12)) {
+                M[i][j] = readLine()!!.toDouble()
+            }
+        }
     }
-  }
-  for (k in m.indices) {
-    sum += m[k][c]
-  }
-  for (n in m.indices){
-    med = sum/m.size
-  }
-  if (t == "S"){
+    for (k in 0.until(M.size)) {
+        sum += M[k][C]
+    }
+    if (T == "M") sum /= M.size
+    
     println(sum.format(1))
-  }
-  if (t == "M"){
-    println(med.format(1))
-  }
 }
 
-private fun Double.format(digits: Int) = "%.${digits}f".format(this).replace(',','.')
+private fun Double.format(digits: Int) = "%.${digits}f"
+    .format(this).replace(',','.')
