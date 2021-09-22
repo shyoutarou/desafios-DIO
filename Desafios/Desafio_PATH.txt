@@ -14,6 +14,8 @@ XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/resolvendo-desafios-em
 Desafios com C#             				     https://web.digitalinnovation.one/coding/desafios-numpericos-em-c/algorithm/coxinha-de-bueno?back=/track/everis-new-talents-2-net
 Desafios Introdutórios com C# 				     https://web.digitalinnovation.one/coding/primeiros-passos-em-c-1/algorithm/tuitando?back=/track/everis-new-talents-2-net
 
+Desafios avançados em C#                              https://web.digitalinnovation.one/coding/desafios-basicos-em-c/algorithm/teorema-da-divisao-euclidiana?back=/track/avanade-codeanywhere-net
+
 introducao-a-programacao-com-.net   			 https://web.digitalinnovation.one/coding/net-fundamentos/algorithm/dividindo-x-por-y?back=/track/net-fundamentals
 Primeiros desafios com C#      				     https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-c/algorithm/mes?back=/track/everis-new-talents-2-net
 solucao-de-problemas-com-.net      				 https://web.digitalinnovation.one/coding/net-fundamentos-intermediario/algorithm/programa-para-validacao-de-notas?back=/track/net-fundamentals
@@ -38,12 +40,11 @@ Primeiros passos em Kotlin  					 https://web.digitalinnovation.one/coding/prime
 
 
 
-60XP>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c-2/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer
-https://web.digitalinnovation.one/coding/solucionando-desafios-em-java-1/algorithm/area-do-circulo?back=/track/santander-fullstack-developer
-https://web.digitalinnovation.one/coding/desafios-matematicos-em-java-2/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
-https://web.digitalinnovation.one/coding/desafios-numericos-em-java-2/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular
-
-
+60XP>>>    Introdução a Programação com C#   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c-2/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer
+Solucionando Desafios em Java                https://web.digitalinnovation.one/coding/solucionando-desafios-em-java-1/algorithm/area-do-circulo?back=/track/santander-fullstack-developer
+Desafios numéricos em Java                   https://web.digitalinnovation.one/coding/desafios-numericos-em-java-2/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular
+Primeiros desafios de código em Java         https://web.digitalinnovation.one/coding/desafios-matematicos-em-java-2/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
+Solução de problemas em C#                   https://web.digitalinnovation.one/coding/solucao-de-problemas-em-c-1/algorithm/consumo-medio-do-automovel?back=/track/everis-new-talents-net
 
 ===================================================================================================
 
@@ -235,34 +236,34 @@ OK>>>>https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin-1
 
 everis New Talents - Java
 Bem-vindo ao seu bootcamp com foco em Java e arquitetura back-end, aqui você irá dar seus primeiros passos em back-end e conseguirá criar soluções corporativas escalaveis.
-60 XP>>>  https://web.digitalinnovation.one/coding/primeiros-passos-em-java-1/algorithm/visita-na-feira?back=/track/everis-new-talents-java
-XXX   https://web.digitalinnovation.one/coding/desafios-matematicos-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
+60XP>>https://web.digitalinnovation.one/coding/primeiros-passos-em-java-1/algorithm/visita-na-feira?back=/track/everis-new-talents-java
+OK>>>>https://web.digitalinnovation.one/coding/desafios-matematicos-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
 XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/resolvendo-desafios-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
 
 
 everis New Talents - .NET
 Bem-vindo ao seu bootcamp com foco em back-end e arquitetura com dotnet C#, aqui você tera a oportunidade para dar seus primeiros passos em dotnet e criar aplicações corporativas.
-XXX   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c/algorithm/dividindo-x-por-y?back=/track/everis-new-talents-net
-XXX   https://web.digitalinnovation.one/coding/solucao-de-problemas-em-c/algorithm/consumo-medio-do-automovel?back=/track/everis-new-talents-net
-XXX   https://web.digitalinnovation.one/coding/desafios-avancados-em-c/algorithm/coordenadas-de-um-ponto?back=/track/everis-new-talents-net
+OK>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c/algorithm/dividindo-x-por-y?back=/track/everis-new-talents-net
+OK>>>>https://web.digitalinnovation.one/coding/solucao-de-problemas-em-c/algorithm/consumo-medio-do-automovel?back=/track/everis-new-talents-net
+90XP>>https://web.digitalinnovation.one/coding/desafios-avancados-em-c/algorithm/coordenadas-de-um-ponto?back=/track/everis-new-talents-net
 
 
 everis Quality Assurance Beginner #2
 Conquiste as melhores oportunidades na everis como profissional de QA com foco em automação de testes. Nessa jornada rumo a contratação, através do bootcamp everis Quality Assurance Beginner #2, você irá aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
-XXX   https://web.digitalinnovation.one/coding/iniciando-programacao-em-java/algorithm/multiplicacao-simples?back=/track/everis-quality-assurance-beginner-2
+OK>>>>https://web.digitalinnovation.one/coding/iniciando-programacao-em-java/algorithm/multiplicacao-simples?back=/track/everis-quality-assurance-beginner-2
 
 
 Avanade CodeAnywhere .NET
 Desenvolva projetos .NET com C# em conjunto com os melhores experts da Avanade para ampliar o seu conhecimento, criar um portfólio inovador e conquistar grandes oportunidades.
-https://web.digitalinnovation.one/coding/iniciando-aritmetica-em-c/algorithm/media-1?back=/track/avanade-codeanywhere-net
-https://web.digitalinnovation.one/coding/desafios-matematicos-em-c/algorithm/consumo-medio-do-automovel?back=/track/avanade-codeanywhere-net
-https://web.digitalinnovation.one/coding/desafios-basicos-em-c/algorithm/teorema-da-divisao-euclidiana?back=/track/avanade-codeanywhere-net
+OK>>>>https://web.digitalinnovation.one/coding/iniciando-aritmetica-em-c/algorithm/media-1?back=/track/avanade-codeanywhere-net
+OK>>>>https://web.digitalinnovation.one/coding/desafios-matematicos-em-c/algorithm/consumo-medio-do-automovel?back=/track/avanade-codeanywhere-net
+OK>>>>   Desafios avançados em C#    https://web.digitalinnovation.one/coding/desafios-basicos-em-c/algorithm/teorema-da-divisao-euclidiana?back=/track/avanade-codeanywhere-net
 
 
 Cognizant Cloud Data Engineer
 Bem vindo ao seu bootcamp focado em engenharia de dados com Cloud, crie soluções Python, uma das principais linguagens de programação da atualidade, aprenda os principais conceitos de big data e dê seus primeiros passos no ambiente de nuvem.
-Resolvendo algoritmos com Python      https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-python-1/algorithm/fibonacci-facil?back=/track/cognizant-cloud-data-engineer
-https://web.digitalinnovation.one/coding/desafios-matematicos-em-python/algorithm/rodizio-de-cavalos-e-carruagens?back=/track/cognizant-cloud-data-engineer
+OK>>>>   Resolvendo algoritmos com Python      https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-python-1/algorithm/fibonacci-facil?back=/track/cognizant-cloud-data-engineer
+90XP>>https://web.digitalinnovation.one/coding/desafios-matematicos-em-python/algorithm/rodizio-de-cavalos-e-carruagens?back=/track/cognizant-cloud-data-engineer
 
 
 everis Site Reliability Engineer Essentials

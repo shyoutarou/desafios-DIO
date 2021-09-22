@@ -81,7 +81,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 	  <!-- Desafios avançados em C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Desafios avançados em C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-avancados-em-c/algorithm/coordenadas-de-um-ponto?back=/track/everis-new-talents-net">Desafios avançados em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Avanade CodeAnywhere .NET</th>
@@ -105,23 +105,28 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Visita na Feira</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/Avanade%20CodeAnywhere%20.NET/Visita%20na%20Feira">Código</a></td>
                 <td align="center">✔️</td>
-			<tr>
+            </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis New Talents - .NET</th>
             </tr>	
             <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
-            </tr>			
+            </tr>	
+            <tr>
+                <td>Coordenadas de um Ponto</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/everis%20New%20Talents%20-%20.NET/Coordenadas%20de%20um%20Ponto">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>	            		
             <tr>
                 <td>Média 3</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/M%C3%A9dia%203">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/everis%20New%20Talents%20-%20.NET/M%C3%A9dia%203">Código</a></td>
                 <td align="center">✔️</td>
             </tr>	
             <tr>
                 <td>Tempo de Jogo com Minutos</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/Tempo%20de%20Jogo%20com%20Minutos">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20avan%C3%A7ados%20em%20C%23/everis%20New%20Talents%20-%20.NET/Tempo%20de%20Jogo%20com%20Minutos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>			
         </table>
@@ -215,7 +220,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
        <!-- Desafios matemáticos em C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Desafios matemáticos em C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-matematicos-em-c/algorithm/consumo-medio-do-automovel?back=/track/avanade-codeanywhere-net">Desafios matemáticos em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Avanade CodeAnywhere .NET</th>
@@ -346,7 +351,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Iniciando aritmética em C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Iniciando aritmética em C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/iniciando-aritmetica-em-c/algorithm/media-1?back=/track/avanade-codeanywhere-net">Iniciando aritmética em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Avanade CodeAnywhere .NET</th>
@@ -358,17 +363,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Média 1</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Iniciando%20aritm%C3%A9tica%20em%20C%23/M%C3%A9dia%201">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Iniciando%20aritm%C3%A9tica%20em%20C%23/Bootcamps/M%C3%A9dia%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Média 2</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Iniciando%20aritm%C3%A9tica%20em%20C%23/M%C3%A9dia%202">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Iniciando%20aritm%C3%A9tica%20em%20C%23/Bootcamps/M%C3%A9dia%202">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Teste de Seleção 1</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Iniciando%20aritm%C3%A9tica%20em%20C%23/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Iniciando%20aritm%C3%A9tica%20em%20C%23/Bootcamps/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>	                
         </table>        
@@ -1672,17 +1677,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>A Resposta de Theon</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/A%20Resposta%20de%20Theon">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/everis%20New%20Talents%20-%20Java/A%20Resposta%20de%20Theon">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Divisores</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/Divisores">Código</a></td>
+                <td>Divisores I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/everis%20New%20Talents%20-%20Java/Divisores%20I">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Domingo de Manhã</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/Domingo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/everis%20New%20Talents%20-%20Java/Domingo%20de%20Manh%C3%A3">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                     
         </table>                           
@@ -3175,7 +3180,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros passos em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3">n<a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-kotlin/algorithm/soma-simples?back=/track/santander-mobile-developer">Primeiros passos em Kotli</a></th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-kotlin/algorithm/soma-simples?back=/track/santander-mobile-developer">Primeiros passos em Kotlin</a></th>
             </tr>
             <tr>
                 <th colspan="3">Santander Bootcamp | Mobile Developer</th>
@@ -3336,10 +3341,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios matemáticos em Python -->
         <table border=1>
             <tr>
-                <th colspan="3">Desafios matemáticos em Python</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-matematicos-em-python/algorithm/rodizio-de-cavalos-e-carruagens?back=/track/cognizant-cloud-data-engineer">Desafios matemáticos em Python</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Cognizant Cloud Data Engineer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3360,15 +3365,20 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Tempo de Jogo com Minutos</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20matem%C3%A1ticos%20em%20Python/Tempo%20de%20Jogo%20com%20Minutos">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>                
+            </tr>  
+            <tr>
+                <td>A Mudança</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20matem%C3%A1ticos%20em%20Python/Tempo%20de%20Jogo%20com%20Minutos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                            
         </table>
         <!-- Resolvendo algoritmos com Python -->
         <table border=1>
             <tr>
-                <th colspan="3">Resolvendo algoritmos com Python</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-python-1/algorithm/fibonacci-facil?back=/track/cognizant-cloud-data-engineer">Resolvendo algoritmos com Python</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Cognizant Cloud Data Engineer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
