@@ -268,16 +268,16 @@ OK>>>>   Resolvendo algoritmos com Python      https://web.digitalinnovation.one
 
 everis Site Reliability Engineer Essentials
 Conquiste as melhores oportunidades na everis como software tester em aplicações SRE. Nessa jornada rumo a contratação, através do bootcamp everis Site Reliability Engineer Essentials, você irá aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
-XXX   https://web.digitalinnovation.one/coding/iniciando-programacao-em-java/algorithm/multiplicacao-simples?back=/track/everis-site-reliability-engineer-essentials
-XXX   https://web.digitalinnovation.one/coding/desafio-aritmetico-em-java/algorithm/acima-da-diagonal-secundaria?back=/track/everis-site-reliability-engineer-essentials
-XXX   https://web.digitalinnovation.one/coding/desafios-avancados-em-java/algorithm/fibonacci-em-vetor?back=/track/everis-site-reliability-engineer-essentials
+OK>>>>https://web.digitalinnovation.one/coding/iniciando-programacao-em-java/algorithm/multiplicacao-simples?back=/track/everis-site-reliability-engineer-essentials
+OK>>>>https://web.digitalinnovation.one/coding/desafio-aritmetico-em-java/algorithm/acima-da-diagonal-secundaria?back=/track/everis-site-reliability-engineer-essentials
+OK>>>>https://web.digitalinnovation.one/coding/desafios-avancados-em-java/algorithm/fibonacci-em-vetor?back=/track/everis-site-reliability-engineer-essentials
 
 
 Capgemini Fullstack Java and Angular
 Conquiste as melhores oportunidades na Capgemini como Java Fullstack. Através do bootcamp Capgemini Java and Angular, você terá oportunidades de contratação, além de aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
-Introdução a Programação com Java   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-1/algorithm/multiplicacao-simples?back=/track/capgemini-fullstack-java-and-angular
-Desafios numéricos em Java          https://web.digitalinnovation.one/coding/desafios-numericos-em-java-1/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular
-XXX   https://web.digitalinnovation.one/coding/desafio-aritmetico-em-javascript/algorithm/area-inferior?back=/track/capgemini-fullstack-java-and-angular
+OK>>>>   Introdução a Programação com Java   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-1/algorithm/multiplicacao-simples?back=/track/capgemini-fullstack-java-and-angular
+OK>>>>   Desafios numéricos em Java          https://web.digitalinnovation.one/coding/desafios-numericos-em-java-1/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular
+60XP>>https://web.digitalinnovation.one/coding/desafio-aritmetico-em-javascript/algorithm/area-inferior?back=/track/capgemini-fullstack-java-and-angular
 Desafios avançados de código em JavaScript    https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-javascript/algorithm/diferenca?back=/track/capgemini-fullstack-java-and-angular
 
 

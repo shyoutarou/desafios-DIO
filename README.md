@@ -1009,6 +1009,9 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Inter Java Developer</th>
             </tr>
             <tr>
+                <th colspan="3">everis Site Reliability Engineer Essentials</th>
+            </tr>
+            <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
@@ -1060,7 +1063,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios Avançados em Java -->
         <table border=1>
             <tr>
-                <th colspan="3">Desafios Avançados em Java</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-avancados-em-java/algorithm/fibonacci-em-vetor?back=/track/everis-site-reliability-engineer-essentials">Desafios Avançados em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Everis Site Reliability Engineer Essentials</th>
@@ -1379,7 +1382,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com Java -->
         <table border=1>
             <tr>
-                <th colspan="3">Introdução a Programação com Java </th>
+                <th colspan="3"> <a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-1/algorithm/multiplicacao-simples?back=/track/capgemini-fullstack-java-and-angular">Introdução a Programação com Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Capgemini Fullstack Java and Angular</th>
@@ -1991,7 +1994,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafio Aritmético em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3">Desafio Aritmético em JavaScript</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafio-aritmetico-em-javascript/algorithm/area-inferior?back=/track/capgemini-fullstack-java-and-angular">Desafio Aritmético em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -3368,7 +3371,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>  
             <tr>
                 <td>A Mudança</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20matem%C3%A1ticos%20em%20Python/Tempo%20de%20Jogo%20com%20Minutos">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20matem%C3%A1ticos%20em%20Python/A%20Mudan%C3%A7a">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                            
         </table>
