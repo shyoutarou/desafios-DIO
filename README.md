@@ -133,10 +133,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios com C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Desafios com C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-numpericos-em-c/algorithm/coxinha-de-bueno?back=/track/everis-new-talents-2-net">Desafios com C#</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis New Talents #2 .NET</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -191,10 +191,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
        <!-- Desafios Introdutórios com C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Desafios Introdutórios com C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-c-1/algorithm/tuitando?back=/track/everis-new-talents-2-net">Desafios Introdutórios com C#</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis New Talents #2 .NET</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -558,7 +558,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros desafios com C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Primeiros desafios com C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-c/algorithm/mes?back=/track/everis-new-talents-2-net">Primeiros desafios com C#</a></th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -613,10 +613,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>      
-      <!-- Primeiros desafios Matemáticos em C# -->
+        <!-- Primeiros desafios Matemáticos em C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Primeiros desafios Matemáticos em C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-desafios-matematicos-em-c/algorithm/soma-simples?back=/track/decola-tech">Primeiros desafios Matemáticos em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Decola Tech Avanade</th>
@@ -640,10 +640,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros passos com C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Primeiros passos com C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-com-c/algorithm/distancia?back=/track/everis-new-talents-2-net">Primeiros passos com C#</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis New Talents #2 .NET</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1436,10 +1436,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação em Java -->
         <table border=1>
             <tr>
-                <th colspan="3">Introdução a Programação em Java</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-2/algorithm/tuitando?back=/track/everis-new-talents-2-java">Introdução a Programação em Java</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis New Talents #2 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1546,10 +1546,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros desafios de código com Java -->
         <table border=1>
             <tr>
-                <th colspan="3">Primeiros desafios de código com Java</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-java-1/algorithm/mes?back=/track/everis-new-talents-2-java">Primeiros desafios de código com Java</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis New Talents #2 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1575,7 +1575,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros passos com Java -->
         <table border=1>
             <tr>
-                <th colspan="3">Primeiros passos com Java</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-java-2/algorithm/distancia?back=/track/everis-new-talents-2-java">Primeiros passos com Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #2 Java</th>
@@ -1587,17 +1587,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Distância</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Dist%C3%A2ncia">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Bootcamps/Dist%C3%A2ncia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>    
             <tr>
                 <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Dividindo%20X%20por%20Y">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Bootcamps/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
             <tr>
                 <td>Soma Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Soma%20Simples">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20com%20Java/Bootcamps/Soma%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                        
             <tr>
@@ -1648,7 +1648,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>   
            <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis New Talents - Java</th>
             </tr>            
             <tr>
                 <th>Desafio</th>
@@ -2999,10 +2999,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios numéricos em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3">Desafios numéricos em Kotlin</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-numericos-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/carrefour-android-developer-1">Desafios numéricos em Kotlin</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Carrefour Android Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3010,13 +3010,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Jogo Matemático</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20num%C3%A9ricos%20em%20Kotlin/Jogo%20Matem%C3%A1tico">Código</a></td>
+                <td>O jogo Matemático de Paula</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20num%C3%A9ricos%20em%20Kotlin/O%20jogo%20Matem%C3%A1tico%20de%20Paula">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Prime or Not</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20num%C3%A9ricos%20em%20Kotlin/Prime%20or%20Not">Código</a></td>
+                <td>Primo Rápido</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20num%C3%A9ricos%20em%20Kotlin/Primo%20R%C3%A1pido">Código</a></td>
                 <td align="center">✔️</td>
             </tr>     
             <tr>
@@ -3039,18 +3039,18 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Alarme Despertador</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Kotlin/Alarme%20Despertador">Código</a></td>
+                <td>Conversão de Tempo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Kotlin/Carrefour%20Android%20Developer/Convers%C3%A3o%20de%20Tempo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Idade Em Dias</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Kotlin/Idade%20Em%20Dias">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Kotlin/Carrefour%20Android%20Developer/Idade%20Em%20Dias">Código</a></td>
                 <td align="center">✔️</td>
             </tr>     
             <tr>
                 <td>Média 3</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Kotlin/M%C3%A9dia%203">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Kotlin/Carrefour%20Android%20Developer/M%C3%A9dia%203">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
             <tr>

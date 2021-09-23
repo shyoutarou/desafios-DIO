@@ -285,24 +285,24 @@ OK>>>>   Desafios avançados de código em JavaScript    https://web.digitalinno
 Carrefour Android Developer
 Conquiste as melhores oportunidades com o Carrefour como desenvolvedor mobile. Por meio do bootcamp Carrefour Android Developer, você terá oportunidades de contratação, além de aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
 OK>>>>    Primeiros passos em Kotlin    https://web.digitalinnovation.one/coding/primeiros-passos-em-programacao-kotlin/algorithm/sequencia-logica?back=/track/carrefour-android-developer-1
-XXX   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-kotlin/algorithm/idade-em-dias?back=/track/carrefour-android-developer-1
-https://web.digitalinnovation.one/coding/desafios-numericos-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/carrefour-android-developer-1
+OK>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-kotlin/algorithm/idade-em-dias?back=/track/carrefour-android-developer-1
+OK>>>>https://web.digitalinnovation.one/coding/desafios-numericos-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/carrefour-android-developer-1
 
 
 
 everis New Talents #2 Java
 Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço na everis. Por meio do Bootcamp everis New Talents #2 Java, você terá chances de contratação, além de aprender sobre as principais ferramentas de testes mais utilizadas no mercado, conectando-se com grandes experts da área.
-Primeiros passos com Java              https://web.digitalinnovation.one/coding/primeiros-passos-em-java-2/algorithm/distancia?back=/track/everis-new-talents-2-java
-Introdução a Programação em Java       https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-2/algorithm/tuitando?back=/track/everis-new-talents-2-java
-Primeiros desafios de código com Java  https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-java-1/algorithm/mes?back=/track/everis-new-talents-2-java
+OK>>>>  Primeiros passos com Java              https://web.digitalinnovation.one/coding/primeiros-passos-em-java-2/algorithm/distancia?back=/track/everis-new-talents-2-java
+OK>>>>  Introdução a Programação em Java       https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-2/algorithm/tuitando?back=/track/everis-new-talents-2-java
+OK>>>>  Primeiros desafios de código com Java  https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-java-1/algorithm/mes?back=/track/everis-new-talents-2-java
 
 
 everis New Talents #2 .NET
 Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço na everis. Por meio do Bootcamp everis New Talents #2 .NET, você terá chances de contratação, além de aprender sobre as principais ferramentas de testes mais utilizadas no mercado, conectando-se com grandes experts da área.
-https://web.digitalinnovation.one/coding/primeiros-passos-com-c/algorithm/distancia?back=/track/everis-new-talents-2-net
-Desafios Introdutórios com C#    https://web.digitalinnovation.one/coding/primeiros-passos-em-c-1/algorithm/tuitando?back=/track/everis-new-talents-2-net
-Primeiros desafios com C#        https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-c/algorithm/mes?back=/track/everis-new-talents-2-net
-Desafios com C#                  https://web.digitalinnovation.one/coding/desafios-numpericos-em-c/algorithm/coxinha-de-bueno?back=/track/everis-new-talents-2-net
+OK>>>>https://web.digitalinnovation.one/coding/primeiros-passos-com-c/algorithm/distancia?back=/track/everis-new-talents-2-net
+OK>>>>  Desafios Introdutórios com C#    https://web.digitalinnovation.one/coding/primeiros-passos-em-c-1/algorithm/tuitando?back=/track/everis-new-talents-2-net
+OK>>>>  Primeiros desafios com C#        https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-c/algorithm/mes?back=/track/everis-new-talents-2-net
+OK>>>>  Desafios com C#                  https://web.digitalinnovation.one/coding/desafios-numpericos-em-c/algorithm/coxinha-de-bueno?back=/track/everis-new-talents-2-net
 
 
 
