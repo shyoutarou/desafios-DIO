@@ -39,12 +39,13 @@ Primeiros passos em Kotlin  					 https://web.digitalinnovation.one/coding/prime
 
 
 
-
+Solução de problemas em C#                   https://web.digitalinnovation.one/coding/solucao-de-problemas-em-c-1/algorithm/consumo-medio-do-automovel?back=/track/everis-new-talents-net
 60XP>>>    Introdução a Programação com C#   https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c-2/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer
+
+
 Solucionando Desafios em Java                https://web.digitalinnovation.one/coding/solucionando-desafios-em-java-1/algorithm/area-do-circulo?back=/track/santander-fullstack-developer
 Desafios numéricos em Java                   https://web.digitalinnovation.one/coding/desafios-numericos-em-java-2/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular
 Primeiros desafios de código em Java         https://web.digitalinnovation.one/coding/desafios-matematicos-em-java-2/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
-Solução de problemas em C#                   https://web.digitalinnovation.one/coding/solucao-de-problemas-em-c-1/algorithm/consumo-medio-do-automovel?back=/track/everis-new-talents-net
 
 ===================================================================================================
 
@@ -308,9 +309,9 @@ OK>>>>  Desafios com C#                  https://web.digitalinnovation.one/codin
 
 Decola Tech
 O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros talentos poderão ser contratados através do Bootcamp online com a Digital Innovation One, com mais de 40 horas de duração. Depois do Bootcamp, você passará por um processo seletivo e poderá fazer um estágio na Avanade, uma joint venture da Microsoft e Accenture, em um programa de aceleração criado especialmente para você com certificações Microsoft inclusas e um planejamento de carreira.
-https://web.digitalinnovation.one/coding/primeiros-desafios-matematicos-em-c/algorithm/soma-simples?back=/track/decola-tech
-https://web.digitalinnovation.one/coding/introducao-a-resolucao-de-desafios-com-c/algorithm/multiplos?back=/track/decola-tech
-https://web.digitalinnovation.one/coding/desafios-numericos-em-c/algorithm/tipo-de-combustivel?back=/track/decola-tech
+OK>>>>https://web.digitalinnovation.one/coding/primeiros-desafios-matematicos-em-c/algorithm/soma-simples?back=/track/decola-tech
+OK>>>>https://web.digitalinnovation.one/coding/introducao-a-resolucao-de-desafios-com-c/algorithm/multiplos?back=/track/decola-tech
+OK>>>>https://web.digitalinnovation.one/coding/desafios-numericos-em-c/algorithm/tipo-de-combustivel?back=/track/decola-tech
 
 
 GFT Java & AWS Developer

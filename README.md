@@ -130,6 +130,45 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>			
         </table>
+	  <!-- Desafios Básicos C# -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-basicos-c/algorithm/multiplicacao-simples?back=/track/take-blip-fullstack-developer-2">Desafios Básicos C#</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Take Blip Fullstack Developer #2</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Bazinga!</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Bazinga!">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Comunicação em Piralândia</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Crescimento Populacional</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Crescimento%20Populacional">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Média 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/M%C3%A9dia%201">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tempo de um Evento</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Tempo%20de%20um%20Evento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>		
+        </table>        
         <!-- Desafios com C# -->
         <table border=1>
             <tr>
@@ -249,7 +288,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
        <!-- Desafios numéricos em C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Desafios numéricos em C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-numericos-em-c/algorithm/tipo-de-combustivel?back=/track/decola-tech">Desafios numéricos em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Decola Tech Avanade</th>
@@ -495,7 +534,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
        <!-- Introdução a Resolução de Desafios com C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Introdução a Resolução de Desafios com C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-resolucao-de-desafios-com-c/algorithm/multiplos?back=/track/decola-tech">Introdução a Resolução de Desafios com C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Decola Tech Avanade </th>
@@ -587,7 +626,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
        <!-- Primeiros desafios em C# -->
         <table border=1>
             <tr>
-                <th colspan="3">Primeiros desafios em C#</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-desafios-em-c/algorithm/distancia?back=/track/take-blip-fullstack-developer-2">Primeiros desafios em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -872,6 +911,29 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/Bootcamps/Notas%20e%20Moedas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>            
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Preenchimento de Vetor I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/Preenchimento%20de%20Vetor%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Trigo no Tabuleiro</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/Trigo%20no%20Tabuleiro">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Encaixa ou Não?</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
         </table>
         <!-- Solução de Problemas Essenciais com C# -->
         <table border=1>
@@ -1030,13 +1092,37 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Acima Diagonal Secundaria</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Acima%20Diagonal%20Secundaria">Código</a></td>
                 <td align="center">✔️</td>
+            </tr>                               
+        </table>  
+        <!-- Desafios Aritméticos em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="">Desafios Aritméticos em Java</a></th>
             </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>                                              
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Análise De Números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Contagem Repetida de números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>              
             <tr>
                 <td>Divisores</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Divisores">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>                                 
-        </table>    
+            </tr>                    
+        </table>           
         <!-- Desafios Avançados em Java -->
         <table border=1>
             <tr>
@@ -1150,7 +1236,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>   
             <tr>
-                <th colspan="3">Capgemini Fullstack Java and Angular</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-numericos-em-java-1/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular">Capgemini Fullstack Java and Angular</a></th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1173,7 +1259,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                     
             <tr>
-                <th colspan="3">GFT Java & AWS Developer</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-numericos-em-java-3/algorithm/conversao-de-tempo?back=/track/gft-java-aws-developer">GFT Java & AWS Developer</a></th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1182,17 +1268,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Conversão de Tempo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Convers%C3%A3o%20de%20Tempo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Convers%C3%A3o%20de%20Tempo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fatorial Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Capgemini%20Fullstack%20Java%20and%20Angular/Fatorial%20Simples">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Fatorial%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>             
             <tr>
                 <td>Seis Números Ímpares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/Seis%20N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20num%C3%A9ricos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Seis%20N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>    
             <tr>
@@ -1312,8 +1398,8 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>   
             <tr>
-                <td>Entrada e Saída CPF</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Entrada%20e%20Sa%C3%ADda%20CPF">Código</a></td>
+                <td>Exibindo Números Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
         </table>           
@@ -1385,13 +1471,59 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java/algorithm/visita-na-feira?back=/track/java-developer">Java Developer</a></th>
             </tr>
             <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
+            <tr>
+                <td>Folha de Pagamento</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Java%20Developer/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+            <tr>
+                <td>Multiplicação Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Java%20Developer/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>             
+            <tr>
+                <td>Visita na Feira</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Java%20Developer/Visita%20na%20Feira">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>             
+            <tr>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-3/algorithm/multiplos?back=/track/gft-java-aws-developer">GFT Java & AWS Developer</a></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>    
+            <tr>
+                <td>Encaixa ou Não</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/GFT%20Java%20%26%20AWS%20Developer/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+            <tr>
+                <td>Múltiplos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/GFT%20Java%20%26%20AWS%20Developer/M%C3%BAltiplos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>              
+            <tr>
+                <td>Tempo de Jogo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/GFT%20Java%20%26%20AWS%20Developer/Tempo%20de%20Jogo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>               
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>  
             <tr>
                 <td>Área Direita</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/%C3%81rea%20Direita">Código</a></td>
@@ -1401,37 +1533,12 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Conversão Simples de Base</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Convers%C3%A3o%20Simples%20de%20Base">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>    
-            <tr>
-                <td>Encaixa ou Não</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Encaixa%20ou%20N%C3%A3o">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Folha de Pagamento</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Folha%20de%20Pagamento">Código</a></td>
-                <td align="center">✔️</td>
-            </tr> 
-            <tr>
-                <td>Múltiplos</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/M%C3%BAltiplos">Código</a></td>
-                <td align="center">✔️</td>
-            </tr> 
+            </tr>                                             
             <tr>
                 <td>Quadrado e ao Cubo</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Quadrado%20e%20ao%20Cubo">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Tempo de Jogo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Tempo%20de%20Jogo">Código</a></td>
-                <td align="center">✔️</td>
-            </tr> 
-            <tr>
-                <td>Visita na Feira</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/Visita%20na%20Feira">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>                                                               
+            </tr>                                                            
         </table>     
         <!-- Introdução a Programação em Java -->
         <table border=1>
@@ -1648,7 +1755,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>   
            <tr>
-                <th colspan="3">everis New Talents - Java</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-java-1/algorithm/visita-na-feira?back=/track/everis-new-talents-java">everis New Talents - Java</a></th>
             </tr>            
             <tr>
                 <th>Desafio</th>
@@ -1669,7 +1776,30 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Domingo de Manhã</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/everis%20New%20Talents%20-%20Java/Domingo%20de%20Manh%C3%A3">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>                     
+            </tr>      
+           <tr>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-java-3/algorithm/batmain?back=/track/gft-java-aws-developer">GFT Java & AWS Developer</a></th>
+            </tr>            
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Batmain</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Batmain">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Diferença</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Diferen%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pares entre Cinco Números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Primeiros%20passos%20em%20Java/GFT%20Java%20%26%20AWS%20Developer/Pares%20entre%20Cinco%20N%C3%BAmeros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                            
         </table>                           
         <!-- Resolvendo Algoritmos com Java -->
         <table border=1>
@@ -3958,8 +4088,10 @@ Na linha 10, ele vai ver se o resto da divisão entre A e B é igual a 0 OU se o
 
 Pronto, agora o código vai passar em todos os testes de saída.
 
-[Java para C#](https://kalkicode.com/ai/online-java-to-csharp-converter)
-[Java para Kotlin ou Kotlin para Java](https://www.tutorialkart.com/kotlin/convert-java-file-to-kotlin-file/)
+## Conversores de Código
+
+- [Java para C#](https://kalkicode.com/ai/online-java-to-csharp-converter)
+- [Java para Kotlin ou Kotlin para Java](https://www.tutorialkart.com/kotlin/convert-java-file-to-kotlin-file/)
 
 ## uDebug do URI e testes fechados
 
