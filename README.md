@@ -107,7 +107,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents - .NET</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-avancados-em-c/algorithm/coordenadas-de-um-ponto?back=/track/everis-new-talents-net">everis New Talents - .NET</a></th>
             </tr>	
             <tr>
                 <th>Desafio</th>
@@ -335,7 +335,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Desenvolvendo Algoritmos com C#</th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">GFT START_UNI 2021 #1</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -480,7 +480,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>    
             <tr>
-                <th colspan="3">everis FullStack Developer</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c-1/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer">everis FullStack Developer</a></th>
             </tr>                        
             <tr>
                 <th>Desafio</th>
@@ -503,7 +503,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>   
             <tr>
-                <th colspan="3">Extras</th>
+                <th colspan="3"></th>
             </tr>                        
             <tr>
                 <th>Desafio</th>
@@ -1181,10 +1181,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>      
             <tr>
-                <th colspan="3">GFT START #2 Java</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-matematicos-em-java/algorithm/visita-na-feira?back=/track/gft-start-2-java">GFT START #2 Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents - Java</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-matematicos-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere">everis New Talents - Java</a></th>
             </tr>            
             <tr>
                 <th>Desafio</th>
@@ -1338,7 +1338,36 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Quantidade%20de%20n%C3%BAmeros%20positivos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
-        </table> 
+        </table>             
+        <!-- Iniciando a programação em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/iniciando-a-programacao-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere">Iniciando a programação em Java</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Code Anywhere</th>
+            </tr>                     
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>DDD</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Entrada e Saída CPF</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Entrada%20e%20Sa%C3%ADda%20CPF">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Exibindo Números Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                    
+        </table>    
         <!-- Iniciando programação em Java -->
         <table border=1>
             <tr>
@@ -1373,43 +1402,14 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
-        </table>               
-        <!-- Iniciando a programação em Java -->
-        <table border=1>
-            <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/iniciando-a-programacao-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere">Iniciando a programação em Java</a></th>
-            </tr>
-            <tr>
-                <th colspan="3">Code Anywhere</th>
-            </tr>                     
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>DDD</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Entrada e Saída CPF</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Entrada%20e%20Sa%C3%ADda%20CPF">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>   
-            <tr>
-                <td>Exibindo Números Pares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>                    
-        </table>           
+        </table>                 
         <!-- Introdução a Busca e Substituição em Java -->
         <table border=1>
             <tr>
-                <th colspan="3">Introdução a Busca e Substituição em Java</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-java/algorithm/ordenacao-de-palavras-por-tamanho?back=/track/java-developer">Introdução a Busca e Substituição em Java</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Java Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3478,7 +3478,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>   
            <tr>
-                <th colspan="3">Carrefour Android Developer</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-programacao-kotlin/algorithm/sequencia-logica?back=/track/carrefour-android-developer-1">Carrefour Android Developer</a></th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3540,7 +3540,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>    
             <tr>
-                <th colspan="3">Inter Android Developer</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin-1/algorithm/teste-de-selecao-1?back=/inter-android-developer">Inter Android Developer</a></th>
             </tr>
             <tr>
                 <th>Desafio</th>
