@@ -316,21 +316,21 @@ OK>>>>https://web.digitalinnovation.one/coding/desafios-numericos-em-c/algorithm
 
 GFT Java & AWS Developer
 Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço na GFT, por meio do Bootcamp GFT Java & AWS Developer, você terá chances de contratação, além de aprender sobre as principais ferramentas de testes mais utilizadas no mercado, conectando-se com grandes experts da área.
-Primeiros passos em Java               https://web.digitalinnovation.one/coding/primeiros-passos-em-java-3/algorithm/batmain?back=/track/gft-java-aws-developer
-Introdução a Programação com Java      https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-3/algorithm/multiplos?back=/track/gft-java-aws-developer
-Desafios numéricos em Java             https://web.digitalinnovation.one/coding/desafios-numericos-em-java-3/algorithm/conversao-de-tempo?back=/track/gft-java-aws-developer
+OK>>>>   Primeiros passos em Java               https://web.digitalinnovation.one/coding/primeiros-passos-em-java-3/algorithm/batmain?back=/track/gft-java-aws-developer
+OK>>>>   Introdução a Programação com Java      https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-3/algorithm/multiplos?back=/track/gft-java-aws-developer
+OK>>>>   Desafios numéricos em Java             https://web.digitalinnovation.one/coding/desafios-numericos-em-java-3/algorithm/conversao-de-tempo?back=/track/gft-java-aws-developer
 
 
 Take Blip Fullstack Developer #2
 Olá Dev! Aqui está a oportunidade incrível para você se tornar um profissional Fullstack. Com o Bootcamp Take Blip Fullstack Developer #2, você aprenderá o melhor que o C#, a principal linguagem da Microsoft pode oferecer, e criar aplicações completas utilizando React no front-end. O bootcamp Take Blip Fullstack Developer faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, que até 2022 distribuirá 130 mil bolsas de estudo gratuitas, fortalecendo ainda mais a comunidade tech brasileira.
-https://web.digitalinnovation.one/coding/primeiros-desafios-em-c/algorithm/distancia?back=/track/take-blip-fullstack-developer-2
-XXX   https://web.digitalinnovation.one/coding/desafios-basicos-c/algorithm/multiplicacao-simples?back=/track/take-blip-fullstack-developer-2
-https://web.digitalinnovation.one/coding/desafios-intermediarios-c/algorithm/crescimento-populacional?back=/track/take-blip-fullstack-developer-2
-XXX   https://web.digitalinnovation.one/coding/primeiros-desafios-javascript/algorithm/folha-de-pagamento?back=/track/take-blip-fullstack-developer-2
+OK>>>>https://web.digitalinnovation.one/coding/primeiros-desafios-em-c/algorithm/distancia?back=/track/take-blip-fullstack-developer-2
+OK>>>>https://web.digitalinnovation.one/coding/desafios-basicos-c/algorithm/multiplicacao-simples?back=/track/take-blip-fullstack-developer-2
+OK>>>>https://web.digitalinnovation.one/coding/desafios-intermediarios-c/algorithm/crescimento-populacional?back=/track/take-blip-fullstack-developer-2
+OK>>>>https://web.digitalinnovation.one/coding/primeiros-desafios-javascript/algorithm/folha-de-pagamento?back=/track/take-blip-fullstack-developer-2
 
 
 Eduzz Fullstack Developer
 Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço na Eduzz. Por meio do Bootcamp Eduzz Fullstack Developer, você terá chances de contratação, além de aprender sobre os principais elementos da Stack de javascript, uma das stacks mais utilizadas no mercado, conectando-se com grandes experts da área.
-XXX   https://web.digitalinnovation.one/coding/desafios-iniciais-em-javascript/algorithm/dividindo-x-por-y?back=/track/eduzz-fullstack-developer
-XXX   https://web.digitalinnovation.one/coding/desafios-basicos-em-javascript/algorithm/soma-simples?back=/track/eduzz-fullstack-developer
-https://web.digitalinnovation.one/coding/desafios-medios-em-javascript/algorithm/folha-de-pagamento?back=/track/eduzz-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/desafios-iniciais-em-javascript/algorithm/dividindo-x-por-y?back=/track/eduzz-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/desafios-basicos-em-javascript/algorithm/soma-simples?back=/track/eduzz-fullstack-developer
+OK>>>>https://web.digitalinnovation.one/coding/desafios-medios-em-javascript/algorithm/folha-de-pagamento?back=/track/eduzz-fullstack-developer
