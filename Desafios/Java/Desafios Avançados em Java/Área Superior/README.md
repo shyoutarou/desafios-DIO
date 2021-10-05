@@ -6,7 +6,7 @@ considerando somente aqueles elementos que estão na área superior da matriz,
 conforme ilustrado abaixo (área verde).
 
 <p align="center">
-    <img src="../../assets/area-superior.png" width="270" height="270">
+    <img src="../assets/area-superior.png" width="270" height="270">
 </p>
 
 
