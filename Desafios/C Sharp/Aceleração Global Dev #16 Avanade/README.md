@@ -1,0 +1,4 @@
+## BootCamp
+
+- Aceleração Global Dev #16 Avanade
+Olá Dev! Chegou o momento que você ampliará seu conhecimento em Angular e C#, se especializando ainda mais dentro dessas tecnologias. Continue a sua jornada profissional pisando no acelerador. E para isso, preparamos especialmente para você desafios ainda maiores com dicas e orientações de grandes especialistas em desenvolvimento de software da Avanade. Será ao todo 6 horas de trilhas ao vivo, com workshops aplicados pelos experts da própria multinacional, no dia 16/10. Sim! A Avanade busca profissionais com formação universitária na área de tecnologia/exatas para trabalhar em Home Office por todo o Brasil e você poderá conquistar uma dessas vagas. Conheça o programa completo e inscreva-se.

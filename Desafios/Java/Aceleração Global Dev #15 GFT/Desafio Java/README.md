@@ -1,0 +1,4 @@
+## BootCamp
+
+-  Aceleração Global Dev #15 GFT
+Chegou o momento onde você expandirá seu conhecimento em processos de Software e se especializar ainda mais dentro dessa tecnologia. Continue progredindo na sua carreira pisando no acelerador. Para isso, preparamos especialmente para você desafios ainda maiores com dicas e orientações de grandes especialistas em desenvolvimento de software da GFT. Será ao todo 6 horas de trilhas ao vivo, com workshops aplicados pelos experts da própria multinacional, no dia 25/09. Sim! A GFT busca profissionais com formação universitária na área de tecnologia/exatas para trabalhar em Home Office por todo o Brasil e presencialmente em São Paulo, você poderá conquistar uma dessas vagas. Conheça o programa completo e inscreva-se.

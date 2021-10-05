@@ -1,0 +1,4 @@
+## BootCamp
+
+- Acelaração Global Dev #16 Capgemini
+Olá Dev, aqui está um programa de Aceleração onde você pode expandir seu conhecimento em .NET e evoluir ainda mais dentro desta tecnologia. Esse é o ponto de virada na sua carreira! Agora chegou o momento de você se preparar para desafios ainda maiores com dicas e orientações de grandes especialistas em desenvolvimento de software da Capgemini. São 6 horas de trilha ao vivo de workshops com experts da empresa multinacional no dia 16/10. Sim! A Capgemini busca profissionais com formação universitária, ou que ainda estão cursando, na área de TI para trabalhar em Home Office por todo o Brasil e você poderá conquistar uma dessas vagas. Conheça o programa completo e inscreva-se.

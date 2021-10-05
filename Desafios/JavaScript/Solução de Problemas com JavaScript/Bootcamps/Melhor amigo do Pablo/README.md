@@ -33,7 +33,7 @@ branco entre a lista de inscritos e o nome do vencedor.
 | Andres SIM         | Ricardo          |
 | Roberto NAO        | Roberto          |
 | Carlos SIM         |                  |
-| Samuel SIM         | Amigo do Habay:  |
+| Samuel SIM         | Amigo do Pablo:  |
 | Samuel SIM         | Carlos           |
 | Abhay SIM          |                  |
 | Aline SIM          |                  |
