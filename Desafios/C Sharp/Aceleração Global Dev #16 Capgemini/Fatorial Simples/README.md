@@ -15,7 +15,7 @@ A saída contém um valor inteiro, correspondente ao fatorial de N.
 | 4 | 24 |
 
 
-
+```bash
 using System; 
 
 class Problem 
@@ -29,3 +29,6 @@ class Problem
     }
 
 }
+
+```
+

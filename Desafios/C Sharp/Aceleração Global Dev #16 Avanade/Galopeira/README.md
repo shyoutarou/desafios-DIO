@@ -19,6 +19,7 @@ Para cada caso de teste, imprima um número T, que é o tempo gasto, em segundos
 | 3<br />galopeira<br />galopeeeeeeeeeeeeeeeeeira<br />galopeeira | 0.09<br />0.25<br />0.1 |
 
 
+```bash
 using System; 
 
 class Teste 
@@ -34,3 +35,5 @@ class Teste
                 }
     }
 }
+
+```

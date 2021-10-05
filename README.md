@@ -54,17 +54,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Feliz Nataaal!</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Animal">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Feliz%20Nataaal!">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Galopeira</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Galopeira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Top N</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Coxinha%20de%20Bueno">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Top%20N">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>   
@@ -83,17 +83,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Área</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Animal">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/%C3%81rea">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fatorial Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/Fatorial%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>O Filme</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Coxinha%20de%20Bueno">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/O%20Filme">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>               
@@ -1135,17 +1135,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Cálculo Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/C%C3%A1lculo%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Distância Entre Dois Pontos</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Dist%C3%A2ncia%20Entre%20Dois%20Pontos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Esfera</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Divisores">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Esfera">Código</a></td>
                 <td align="center">✔️</td>
             </tr>     
             <tr>
@@ -1158,12 +1158,12 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Fibonacci Fácil</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafios%20B%C3%A1sicos%20em%20Java/Fibonacci%20F%C3%A1cil">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Triângulo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafios%20B%C3%A1sicos%20em%20Java/Tri%C3%A2ngulo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                         
         </table>       
