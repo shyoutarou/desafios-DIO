@@ -3977,6 +3977,10 @@ Para te auxiliar na conclusão do bootcamp, a equipe da DIO realizou uma live ex
 
 [LIVE - Resolvendo um desafio de código na prática](https://www.youtube.com/watch?v=I8NI5QNUCe8)
 
+Há também um curso dentro da plataforma:
+[Resolvendo Desafios de Código em Java](https://web.digitalinnovation.one/course/resolvendo-desafios-de-codigo-em-java/learning/3191f44c-6b79-4a0c-90b7-d9b65b49b7aa?back=/track/everis-new-talents-3-java
+)
+
 Esses desafios lhe ajudarão a praticar e aplicar os conceitos apresentados nas aulas e exercícios. Para ter destaque na carreira de desenvolvimento de software é necessário praticar muito com algoritmos.
 
 <p align="center">
