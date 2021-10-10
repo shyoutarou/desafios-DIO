@@ -63,3 +63,37 @@ A = -000009991, B = 0000000001, C = 0000000001
 A = -9991     , B = 1         , C = 1         
 */
 
+//  NESSE DESAFIO OS MÈTODOS DE IMPRESSÂO (print, println e printf) NA PLATAFORMA  
+//  ESTÁ APLICANDO O TRIM NAS STRINGS E NÃO ESTÁ FICANDO COMO O EXEMPLO MOSTRA
+
+import java.io.IOException;
+import java.util.Scanner;
+
+public class Teste  {
+	
+    public static void main(String[] args) throws IOException {
+        Scanner leitor = new Scanner(System.in);
+        int A = leitor.nextInt();
+        int B = leitor.nextInt();
+        int C = leitor.nextInt();
+        
+        System.out.printf("A = " + "%d, B = " + "%d, C = " + "%d\n", A , B, C); 
+
+        System.out.println("A = " + String.format("%10s", A).replace(' ', ' ') +
+                           ", B = " + String.format("%10s", B).replace(' ', ' ') +
+                           ", C = " + String.format("%10s", C).replace(' ', ' ') );
+
+        System.out.println("A = " + ((A < 0) ? "-" : "") + String.format("%10s", A).replace("-", "").replace(' ', '0') + 
+                           ", B = " + ((B < 0) ? "-" : "") + String.format("%10s", B).replace("-", "").replace(' ', '0') + 
+                           ", C = " + ((C < 0) ? "-" : "") + String.format("%10s", C).replace("-", "").replace(' ', '0'));  
+
+        System.out.println("A = " + String.format("%-9s", A).replace(' ', ' ') + 
+                           ", B = " + String.format("%-10s", B).replace(' ', ' ') +
+                           ", C = " + String.format("%-10s", C).replace(' ', ' ') );
+
+
+        //implemente seu código aqui  
+
+    }
+}
+

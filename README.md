@@ -71,7 +71,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Aceleração Global Dev #16 Capgemini -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-numpericos-em-c/algorithm/coxinha-de-bueno?back=/track/everis-new-talents-2-net">Aceleração Global Dev #16 Capgemini</a></th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafio-c-aceleracao-global-dev-16-capgemini/algorithm/area?back=/tests/cc6ca2ad-fd79-4108-b6d1-ab1af4ba81a4">Aceleração Global Dev #16 Capgemini</a></th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -1149,7 +1149,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>     
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/aceleracao-global-dev-15-gft/algorithm/esfera?back=/tracks">Desafios Básicos em Java</a></th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/aceleracao-global-dev-15-gft/algorithm/triangulo?back=/tracks">Desafios Básicos em Java</a></th>
             </tr>                                              
             <tr>
                 <th>Desafio</th>
@@ -3973,13 +3973,16 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 
 ## Resolvendo um desafio de código na prática
 
-Para te auxiliar na conclusão do bootcamp, a equipe da DIO realizou uma live explicando o passo a passo sobre como resolver os desafios de código, confira:
+Para te auxiliar na conclusão do bootcamp, a equipe da DIO realizou uma live explicando o passo a passo sobre como resolver os desafios de código, confira no Youtube:
 
 [LIVE - Resolvendo um desafio de código na prática](https://www.youtube.com/watch?v=I8NI5QNUCe8)
 
-Há também um curso dentro da plataforma:
-[Resolvendo Desafios de Código em Java](https://web.digitalinnovation.one/course/resolvendo-desafios-de-codigo-em-java/learning/3191f44c-6b79-4a0c-90b7-d9b65b49b7aa?back=/track/everis-new-talents-3-java
+Há também um mini-curso e uma mentoria dentro da plataforma (Precisa estar logado):
+- [Resolvendo Desafios de Código em Java](https://web.digitalinnovation.one/course/resolvendo-desafios-de-codigo-em-java/learning/3191f44c-6b79-4a0c-90b7-d9b65b49b7aa?back=/track/everis-new-talents-3-java
 )
+
+- [
+Mentoria DIO: Como Resolver desafios de código na sua jornada como dev](https://web.digitalinnovation.one/live/como-resolver-desafios-de-codigo-na-sua-jornada-como-dev-dio/learning/1869e000-8ca5-42df-9a94-7c2c62579405?back=/track/impulso-react-web-developer)
 
 Esses desafios lhe ajudarão a praticar e aplicar os conceitos apresentados nas aulas e exercícios. Para ter destaque na carreira de desenvolvimento de software é necessário praticar muito com algoritmos.
 
