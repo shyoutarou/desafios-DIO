@@ -136,6 +136,35 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>		
         </table>
+	  <!-- Desafios aritmeticos intermediarios em c# -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-aritmeticos-em-c/algorithm/media-1?back=/track/localizalabs-net-developer">Desafios aritmeticos intermediarios em c#</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">GFT START #2 .NET</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Fórmula de Bhaskara</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Bazinga!">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Notas e Moedas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tipos de Triângulos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Crescimento%20Populacional">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>	
+        </table>        
 	  <!-- Desafios avançados em C# -->
         <table border=1>
             <tr>
@@ -869,7 +898,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/Soma%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
-        </table>          
+        </table>      
         <!-- Solução de problemas básicos em C# -->
         <table border=1>
             <tr>
@@ -898,7 +927,94 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/Valida%C3%A7%C3%A3o%20de%20Nota">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
+        </table>              
+        <!-- Resolvendo Desafios Básicos em C# -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="url">Resolvendo Desafios Básicos em C#</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">everis New Talents #3 .NET</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Guilherme e Suas Pipas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/Tuitando">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Maior e Posição</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/Visita%20na%20Feira">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Soma de Impares Consecutivos I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/Valida%C3%A7%C3%A3o%20de%20Nota">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
         </table>    
+        <!-- Resolvendo Desafios Iniciais em C# -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="url">Resolvendo Desafios Iniciais em C#</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">everis New Talents #3 .NET</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Ho Ho Ho</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/Tuitando">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pneu</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/Visita%20na%20Feira">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quadrante</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/Valida%C3%A7%C3%A3o%20de%20Nota">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>    
+        <!-- Resolvendo desafios Intermediários em C# -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="url">Resolvendo desafios Intermediários em C#</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">everis New Talents #3 .NET</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Intervalo 2</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/Tuitando">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Polígonos Regulares Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/Visita%20na%20Feira">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>PUM</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/Valida%C3%A7%C3%A3o%20de%20Nota">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>               
         <!-- Solução de problemas com .NET -->
         <table border=1>
             <tr>
