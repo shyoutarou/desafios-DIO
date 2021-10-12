@@ -16,6 +16,8 @@ Para cada caso, imprima quantos números estão dentro (in) e quantos valores es
 | ---|--- |
 | 4<br />14<br />123<br />10<br />-25  | 2 in<br />2 out |
 
+- OBS.: Nesse desafio está havendo problemas ao executar os testes, fica em loop infinito. Porém é possível enviar o desafio sem realizar os testes, completando o desafio
+
 ```bash
 using System; 
 
