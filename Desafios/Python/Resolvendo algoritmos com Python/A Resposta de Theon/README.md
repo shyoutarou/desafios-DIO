@@ -21,3 +21,22 @@ Imprima uma linha contendo o número da pessoa que Theon deve dizer ser seu algo
 | 3<br />8 0 7 | 2 |
 | 2<br />1 1 | 1 |
 
+```bash
+N = int(input())
+persons = list( )
+
+lowest_pos = 0
+
+for i in range(N):
+
+   if i == 0:
+       lowest =
+       continue
+   if             <             
+       lowest = persons[i]
+                 = i
+
+print(    + 1)
+
+```
+
