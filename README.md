@@ -902,7 +902,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo Desafios Básicos em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="url">Resolvendo Desafios Básicos em C#</a></th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-iniciais-em-c/algorithm/maior-e-posicao?back=/track/everis-new-talents-3-net">Resolvendo Desafios Básicos em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #3 .NET</th>
@@ -931,7 +931,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo Desafios Iniciais em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="url">Resolvendo Desafios Iniciais em C#</a></th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-desafios-basicos-em-c/algorithm/ho-ho-ho?back=/track/everis-new-talents-3-net">Resolvendo Desafios Iniciais em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #3 .NET</th>
@@ -960,7 +960,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo desafios Intermediários em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="url">Resolvendo desafios Intermediários em C#</a></th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-desafios-intermediarios-em-c/algorithm/pum?back=/track/everis-new-talents-3-net">Resolvendo desafios Intermediários em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #3 .NET</th>
@@ -989,7 +989,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solução de problemas básicos em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="url">Solução de problemas básicos em C#</a></th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-c/algorithm/visita-na-feira?back=/track/mrv-net-developer">Solução de problemas básicos em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">MRV .NET Developer</th>
@@ -2073,7 +2073,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Resolvendo Desafios em Java</th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis New Talents - Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2312,7 +2312,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Busca e Laços de Repetição</th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis FullStack Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3116,7 +3116,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Problemas Aritméticos</th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis FullStack Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3400,7 +3400,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Soluções e Problemas Essenciais</th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">everis FullStack Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
