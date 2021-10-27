@@ -12,3 +12,16 @@ Você receberá seis valores, negativos e/ou positivos.
 
 Exiba uma mensagem dizendo quantos valores positivos foram lidos assim como é 
 exibido abaixo no exemplo de saída. Não esqueça da mensagem "valores positivos" ao final.
+
+```bash
+let quantidadePositivos = 0;
+
+for (let i = 0; i < 6; i++) {
+
+ const valorInformadoPeloUsuario = gets();
+
+ // TODO Incrementar a "quantidadePositivos" somente SE o "valorInformadoPeloUsuario" for positivo.
+}
+
+console.log(`${quantidadePositivos} valores positivos`);
+```

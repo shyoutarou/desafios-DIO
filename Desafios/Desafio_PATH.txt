@@ -8,14 +8,14 @@ https://web.digitalinnovation.one/coding/introducao-a-programacao/algorithm/divi
 
 XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/problema-aritmeticos/algorithm/distancia?back=/track/everis-fullstack-developer
 XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/solucao-de-problemas-essenciais/algorithm/distancia?back=/track/everis-fullstack-developer
-XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/busca-e-lacos-de-repeticao/algorithm/distancia?back=/track/everis-fullstack-developer
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/busca-e-lacos-de-repeticao-em-javascript/algorithm/distancia?back=/track/everis-fullstack-developer
 
-XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/desenvolvendo-algoritmos-com-c/algorithm/animal?back=/track/gft-start_uni-2021-1
-XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/desafios-aritmeticos-intermediarios-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/desenvolvendo-algoritmos-com-c/algorithm/animal?back=/track/gft-start_uni-2021-1
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/desafios-aritmeticos-intermediarios-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
 
 
-XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-java/algorithm/coracao-das-cartas?back=/track/gft-start_uni-2021-1
-XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/resolvendo-desafios-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-java/algorithm/coracao-das-cartas?back=/track/gft-start_uni-2021-1
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/resolvendo-desafios-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
 ===================================================================================================
 
 Solução de problemas em C#                   https://web.digitalinnovation.one/coding/solucao-de-problemas-em-c-1/algorithm/consumo-medio-do-automovel?back=/track/everis-new-talents-net
@@ -74,7 +74,7 @@ OK>>>>>https://web.digitalinnovation.one/coding/solucao-de-problemas-com-javascr
 everis FullStack Developer
 Aprenda as tecnologias utilizadas pela everis no desenvolvimento de projetos inovadores ao redor do mundo para conquistar oportunidades e acelerar a sua carreira em desenvolvimento de software nesta gigante de tecnologia.
 OK>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c-1/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer
-XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/problema-aritmeticos/algorithm/distancia?back=/track/everis-fullstack-developer
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/problemas-aritmeticos/algorithm/distancia?back=/track/everis-fullstack-developer
 XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/solucao-de-problemas-essenciais/algorithm/distancia?back=/track/everis-fullstack-developer
 XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/busca-e-lacos-de-repeticao/algorithm/distancia?back=/track/everis-fullstack-developer
 OK>>>>https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-java/algorithm/ordenando-numeros-pares-e-impares?back=/track/everis-fullstack-developer
@@ -83,7 +83,7 @@ OK>>>>https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-java/al
 
 GFT START_UNI 2021 #1
 O bootcamp START_UNI 2021 #1 é um programa gratuito para formação de desenvolvedores front-end, back-end e testers, sendo a porta de entrada para os devs conquistarem um estágio na empresa multinacional alemã GFT Brasil.
-XXX   NAO ENTRA https://web.digitalinnovation.one/coding/desenvolvendo-algoritmos-com-c/algorithm/animal?back=/track/gft-start_uni-2021-1
+XXX   NÃO ENTRA https://web.digitalinnovation.one/coding/desenvolvendo-algoritmos-com-c/algorithm/animal?back=/track/gft-start_uni-2021-1
 400XP> solucao-de-problemas-basicos-em-java(Solucionando Desafios em Java)  https://web.digitalinnovation.one/coding/solucionando-desafios-em-java-1/algorithm/diferenca?back=/track/gft-start_uni-2021-1
 
 Java Developer
@@ -181,9 +181,7 @@ OK>>>>https://web.digitalinnovation.one/coding/solucionando-desafios-em-java/alg
 GFT START #2 .NET
 Desenvolva seus primeiros passos e primeiros projetos na stack de .net C# com grandes experts de mercado e construa aplicações de alto nível com embasamento técnico de arquitetura em back-end.
 OK>>>>https://web.digitalinnovation.one/coding/iniciando-a-programar-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
-XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/desafios-aritmeticos-intermediarios-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
-
-
+OK>>>> (desafios-aritmeticos-intermediarios-em-c)  https://web.digitalinnovation.one/coding/desafios-aritmeticos-em-c/algorithm/media-1?back=/track/localizalabs-net-developer
 
 Banco Carrefour Data Engineer
 Bem vindo ao seu bootcamp focado em engenharia de dados, você terá a oportunidade de aprender com grandes experts de mercado as principais habilidades que um engenheiro de dados precisa ter para criar soluções inteligentes através de grandes massas de dados.
@@ -216,7 +214,7 @@ everis New Talents - Java
 Bem-vindo ao seu bootcamp com foco em Java e arquitetura back-end, aqui você irá dar seus primeiros passos em back-end e conseguirá criar soluções corporativas escalaveis.
 60XP>>https://web.digitalinnovation.one/coding/primeiros-passos-em-java-1/algorithm/visita-na-feira?back=/track/everis-new-talents-java
 OK>>>>https://web.digitalinnovation.one/coding/desafios-matematicos-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere
-XXX   NAO ENTRA  https://web.digitalinnovation.one/coding/resolvendo-desafios-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
+XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/resolvendo-desafios-em-java/algorithm/visita-na-feira?back=/track/everis-new-talents-java
 
 
 everis New Talents - .NET
