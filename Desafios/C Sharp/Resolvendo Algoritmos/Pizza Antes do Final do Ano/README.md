@@ -31,3 +31,43 @@ Para cada caso de teste, imprima uma linha contendo a data que o evento deve
 ocorrer, na forma dia∕mes∕ano, de maneira idêntica à da entrada. Caso não
 seja possível realizar o evento, imprima “Pizza antes de FdA” (sem aspas). */
 
+```bash
+using System;
+
+//continue a solução
+
+public class pizzaria
+{
+  public static void Main()
+  {
+    string[] line = Console.ReadLine().Split(" ");
+    int totalDePessoas = int.Parse(line[0]);
+    int totalDeDatas =      ;
+    
+    string dataConsiderada = " ";
+    
+    for (int i = 0; i < totalDeDatas; i++)
+    {
+      int totalDePessoasQuePodemComparecer =    ;
+      
+      string[] entradaDataConfirmacao = Console.ReadLine().Split(" ");
+      dataConsiderada = ;
+      
+      for (int j =  ; j <   ; j++)
+      {
+        
+      }
+      
+      if (totalDePessoasQuePodemComparecer ==    )
+      {
+        Console.WriteLine(dataConsiderada);
+        break;
+      } 
+      else if ( i + 1 >=       )
+      {
+        Console.WriteLine("Pizza antes de FdA");
+      }
+    }
+  }
+}
+```

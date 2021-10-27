@@ -36,49 +36,38 @@
 
 using System;
 
-class PizzaAntesDoFinalDoAno 
+//continue a solução
+
+public class pizzaria
 {
-    static void Main()
-    {  
-        string[] line = Console.ReadLine().Split(" ");
-        
-        int N = int.Parse(line[0]);
-        int D = int.Parse(line[1]);
-        
-        string data = "";
-        
-        int qtd = 0;
-        
-        bool achou = false;
+  public static void Main()
+  {
+    string[] line = Console.ReadLine().Split(" ");
+    int totalDePessoas = int.Parse(line[0]);
+    int totalDeDatas = int.Parse(line[1]);  
+    string dataConsiderada = " ";
 
-        for (int dt=0; dt<D; dt++) 
-        {
-          qtd = 0;
-
-          string[] dados = Console.ReadLine().Split(" ");
-          
-          data =  dados[0];
-          
-          for (int p=1; p<N+1; p++)
-          {
-              qtd += int.Parse( dados[p] );
-          }
-
-          achou = ( qtd == N);
-          
-          if (achou) 
-          { 
-              break; 
-          }
-        } 
-        
-        if (achou)
-        { 
-            Console.Write(data); 
-        }
-        else 
-        { 
-            Console.Write("Pizza antes de FdA"); 
-        }
+    for (int i = 0; i < totalDeDatas; i++)
+    {
+      int totalDePessoasQuePodemComparecer = 0;
+      
+      string[] entradaDataConfirmacao = Console.ReadLine().Split(" ");
+      dataConsiderada = entradaDataConfirmacao[0];
+      
+      for (int j =1; j < totalDePessoas + 1; j++)
+      {
+         totalDePessoasQuePodemComparecer += int.Parse( entradaDataConfirmacao[j] );
+      }
+      
+      if (totalDePessoasQuePodemComparecer ==  totalDePessoas)
+      {
+        Console.WriteLine(dataConsiderada);
+        break;
+      } 
+      else if ( i + 1 >= totalDeDatas)
+      {
+        Console.WriteLine("Pizza antes de FdA");
+      }
     }
+  }
 }

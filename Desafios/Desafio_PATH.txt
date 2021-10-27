@@ -1,3 +1,11 @@
+https://web.digitalinnovation.one/coding/resolvendo-algoritmos/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
+
+https://web.digitalinnovation.one/coding/introducao-a-programacao/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
+
+
+===================================================================================================
+
+
 XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/problema-aritmeticos/algorithm/distancia?back=/track/everis-fullstack-developer
 XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/solucao-de-problemas-essenciais/algorithm/distancia?back=/track/everis-fullstack-developer
 XXX   NÃO ENTRA  https://web.digitalinnovation.one/coding/busca-e-lacos-de-repeticao/algorithm/distancia?back=/track/everis-fullstack-developer
@@ -32,7 +40,6 @@ Você aprenderá muito mais sobre os conceitos de desenvolvimento front-end util
 OK>>>>>https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/sp-tech-desenvolvimento-front-end
 OK>>>>>https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/sp-tech-desenvolvimento-front-end
 OK>>>>>https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/sp-tech-desenvolvimento-front-end
-
 
 .Net Fundamentals
 Esse bootcamp é para as pessoas que estão iniciando sua carreira em desenvolvimento de software. Você aprenderá a desenvolver projetos em uma das linguagens de back-end mais utilizadas no mundo, o .NET C#, e a resolver algoritmos tendo um aprendizado completo, da teoria à prática.

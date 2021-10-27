@@ -8,7 +8,7 @@ Você terá desafio de ler um valor com duas casas decimais, equivalente ao sal�
 Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
 
 <p align="center">
-    <img src="../../../../assets/taxa-imposto-renda.png" width="270" height="270">
+    <img src="../../../../assets/taxa-imposto-renda.png" width="400" height="150">
 </p>
 
 Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00, 
@@ -27,11 +27,11 @@ Se o valor de entrada for menor ou igual a 2000, deverá ser impressa a mensagem
 
 | Exemplo de Entrada | Exemplo de Saída|
 | ---|--- |
-| 30<br />10 | SOMA = 40 |
-| -30<br />10 | SOMA = -20 |
-| 0<br />0 | SOMA = 0 |
+| 3002.00 | R$ 80.36 |
+| 1701.12 | Isento |
+| 4520.00 | R$ 355.60 |
 
-
+```bash
 let salario = gets();
 
 function calcularImposto(valor) {
@@ -58,3 +58,4 @@ function calcularImposto(valor) {
 let resultado = calcularImposto(salario);
 
 print((resultado === 0)? "Isento" : "R$ "+resultado.toFixed(2));
+```
