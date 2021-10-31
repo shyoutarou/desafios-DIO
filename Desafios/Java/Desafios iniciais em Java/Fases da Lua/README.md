@@ -28,23 +28,28 @@ Baseado nos dois percentuais observados por Jade, imprima na tela a fase na qual
  
  Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática, Fase 2, 2015
  
- 
 ```bash
-let lines = gets().split('\n');
+import java.util.Scanner;
 
-let line = lines.shift().split(" ");
-let inicio = parseInt(line[0]);
-let final = parseInt(line[1]);
+public class Teste {
 
-if (inicio >= 0 && final <= 2) {
-    print('nova');
-} else if (final > inicio && final <=     ) {
-    print(               );
-} else if (              ) {
-    print(                 );                 //complete o código nos espaços em branco
-} else { 
-    print('cheia');
+    public static void main(String[] args) {
+        Scanner leitor = new Scanner(System.in);
+        
+        int inicio = leitor.nextInt();
+        int fim = leitor.nextInt();
+        
+        if (inicio >= 0 && fim <= 2) {
+            System.out.println("nova");
+        } else if (fim > inicio && fim <= 96) {
+            System.out.println("    "); //implemente o código aqui
+        } else if (inicio >= fim && fim <= 96) {
+            System.out.println("    "); //implemente o código aqui
+        } else { 
+            System.out.println("   ");  //implemente o código aqui
+        }
+    }
+
 }
- 
 ```
  

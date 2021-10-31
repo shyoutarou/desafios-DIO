@@ -26,9 +26,13 @@ A saída é o perímetro P do polígono regular em uma única linha.
 
  
 Prova 1 de Programação de Computadores da UNILA (2015/2)
+
  
+```bash
 let lines = gets().split("\n");
 let line = lines.shift().split(' ');
 
 //continue o seu código aqui
+```
+
  
