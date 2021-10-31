@@ -4,7 +4,7 @@ In each stage of the Jumping Frog game you must safely get your amphibian throug
 In this game the distance of pipes is irrelevant, which means that the frog always can reach the next pipe with a jump.
 
 <p align="center">
-    <img src="../../../../../assets/jumping-frog.png" width="270" height="270">
+    <img src="../../../../assets/jumping-frog.png" width="270" height="270">
 </p>
 
 You must write a program that, given the pipe heights and the frog jump height, show if the game stage can be beaten or not.

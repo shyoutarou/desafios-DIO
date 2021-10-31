@@ -1304,17 +1304,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Diving</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafios%20B%C3%A1sicos%20em%20Java/Fibonacci%20F%C3%A1cil">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Diving">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Jumping Frog</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafios%20B%C3%A1sicos%20em%20Java/Tri%C3%A2ngulo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Jumping%20Frog">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
 			<tr>
                 <td>Parenthesis Balance I</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafios%20B%C3%A1sicos%20em%20Java/Tri%C3%A2ngulo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Parenthesis%20Balance%20I">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
         </table>  
@@ -2701,7 +2701,36 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Quanta%20Mandioca">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>           
+        </table>    
+        <!-- Desafios iniciais JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-iniciais-javascript/algorithm/tabuada?back=/track/impulso-react-web-developer">Desafios iniciais JavaScript</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Impulso React Web Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Intervalo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript/Intervalo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tabuada</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript/Tabuada">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tipo de Combustível</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>  		
         <!-- Desafios Intermediários em JavaScript -->
         <table border=1>
             <tr>
@@ -2731,6 +2760,35 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>  
+        <!-- Desafios Intermediários JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-intermediarios-javascript/algorithm/coxinha-de-bueno?back=/track/impulso-react-web-developer">Desafios Intermediários JavaScript</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Impulso React Web Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Coxinha de Bueno</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript/Coxinha%20de%20Bueno">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Saída 6</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript/Sa%C3%ADda%206">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Taxa de Imposto de Renda</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript/Taxa%20de%20Imposto%20de%20Renda">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>  		
         <!-- Desafios Lógicos -->
         <table border=1>
             <tr>
@@ -2832,7 +2890,36 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20M%C3%A9dios%20em%20JavaScript/Quantidade%20de%20N%C3%BAmeros%20Positivos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>                                                    
+        </table>   
+        <!-- Desafios Médios JavaScript  -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-medios-javascript/algorithm/fases-da-lua?back=/track/impulso-react-web-developer">Desafios Médios JavaScript</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Impulso React Web Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Fases da Lua</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/Fases%20da%20Lua">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Polígonos Regulares Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/Pol%C3%ADgonos%20Regulares%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Teorema da Divisão Euclidiana</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/Teorema%20da%20Divis%C3%A3o%20Euclidiana">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>  		
         <!-- Desenvolvimento de Problemas Avançados em JavaScript -->
         <table border=1>
             <tr>
