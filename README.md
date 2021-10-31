@@ -545,7 +545,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <th colspan="3">everis New Talents - .NET</th>
-            </tr>                        
+            </tr>    
+			<tr>
+                <th colspan="3">Decola Dev Avanade 2021</th>
+            </tr>   
             <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
@@ -824,10 +827,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo Algoritmos -->
         <table border=1>
             <tr>
-                <th colspan="3">Resolvendo Algoritmos</th>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-algoritmos/algorithm/dividindo-x-por-y?back=/track/decola-dev-avanade-2021">Resolvendo Algoritmos</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">Decola Dev Avanade 2021</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1118,6 +1121,9 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Avanade Fullstack Developer</th>
             </tr>
             <tr>
+                <th colspan="3">Decola Dev Avanade 2021</th>
+            </tr>			
+            <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
@@ -1282,7 +1288,36 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafios%20B%C3%A1sicos%20em%20Java/Tri%C3%A2ngulo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                         
-        </table>       
+        </table>   
+		       <!-- Aceleração Global Dev Volkswagen -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-java-2-aceleracao-global-dev-volkswagen/algorithm/saltos-ornamentais?back=/tests/1bd13bfd-37d5-4c51-a38e-ed19fe73ad6e">Aceleração Global Dev Volkswagen</a></th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>                                                                            
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Diving</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafios%20B%C3%A1sicos%20em%20Java/Fibonacci%20F%C3%A1cil">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Jumping Frog</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafios%20B%C3%A1sicos%20em%20Java/Tri%C3%A2ngulo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+			<tr>
+                <td>Parenthesis Balance I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafios%20B%C3%A1sicos%20em%20Java/Tri%C3%A2ngulo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+        </table>  
         <!-- Desafio Aritmético em Java -->
         <table border=1>
             <tr>
@@ -2095,7 +2130,65 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Desafios%20em%20Java/Uniformes%20de%20final%20de%20ano">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>        
+        </table>      
+		<!-- Resolvendo Desafios Intermediários em Java -->
+        <table border=1>
+            <tr>
+			    <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-intermediarios-java/algorithm/tamanho-da-placa?back=/track/everis-new-talents-3-java">Resolvendo Desafios Intermediários em Java</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">everis New Talents #3 Java</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Entrada e Saída de Números Inteiros</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20Java/Entrada%20e%20Sa%C3%ADda%20de%20N%C3%BAmeros%20Inteiros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Senha Fixa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20Java/Senha%20Fixa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tamanho da Placa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20Java/Tamanho%20da%20Placa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>   
+		<!-- Resolvendo Desafios médios em Java -->
+        <table border=1>
+            <tr>
+			    <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-medios-em-java/algorithm/reservatorio-de-mel?back=/track/everis-new-talents-3-java">Resolvendo Desafios médios em Java</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">everis New Talents #3 Java</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>A Mensagem do padre do balão</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Desafios%20m%C3%A9dios%20em%20Java/A%20Mensagem%20do%20padre%20do%20bal%C3%A3o">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Crescente e Decrescente</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Desafios%20m%C3%A9dios%20em%20Java/Crescente%20e%20Decrescente">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Reservatório de Mel</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Resolvendo%20Desafios%20m%C3%A9dios%20em%20Java/Reservat%C3%B3rio%20de%20Mel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>  		
         <!-- Solução de Problemas Básicos em Java -->
         <table border=1>
             <tr>
@@ -2269,6 +2362,45 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                     
         </table>     
+        <!-- Solucionando desafios matematicos em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Solucionando desafios matematicos em Java</th>
+            </tr>
+            <tr>
+                <th colspan="3">Code Anywhere</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Análise De Números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/An%C3%A1lise%20De%20N%C3%BAmeros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+            <tr>
+                <td>Área do Círculo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Cálculo de Viagem</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/C%C3%A1lculo%20de%20Viagem">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Folha de Pagamento</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Múltiplos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Solucionando%20desafios%20matematicos%20em%20Java/M%C3%BAltiplos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>			
+        </table>  		
         <!-- Solucionando problemas básicos em Java -->
         <table border=1>
             <tr>
