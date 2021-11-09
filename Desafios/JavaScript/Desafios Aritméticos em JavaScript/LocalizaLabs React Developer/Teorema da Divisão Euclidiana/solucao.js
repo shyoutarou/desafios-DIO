@@ -23,19 +23,13 @@ Saída
 Imprima o quociente q seguido pelo resto r da divisão de a por b, considerando as regras apresentadas a cima. */
 
 let line = gets().split(" ");
-let A = parseInt(line[0]);
-let B = parseInt(line[1]);
-let q = 0;
-let r = 0;
-for (resto = 0; resto < Math.abs(B); resto++) {
-    quoc = parseInt(((A - resto)/B).toFixed(0));
-    if (A === (B * quoc) + resto ) {
-      q = quoc;
-      r = resto;
-    }
-
+const a = parseInt(line[0]);
+const b = parseInt(line[1]);
+q = parseInt(a / b);
+r = a - b * q;
+if (r < 0) {
+ r += Math.abs(b);
+ q = ( a - r ) / b ;  //escreva sua lógica aqui
 }
-console.log(q + ' ' +r);
 
-
-
+print(q + " " + r);

@@ -42,7 +42,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Aceleração Global Dev #16 Avanade -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-c-aceleracao-global-dev-16-avanade/algorithm/feliz-nataaal?back=/tests/1d66f99c-21b1-4d68-b281-172e959666db">Aceleração Global Dev #16 Avanade</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-c-aceleracao-global-dev-16-avanade/algorithm/feliz-nataaal?back=/tests/1d66f99c-21b1-4d68-b281-172e959666db">Aceleração Global Dev #16 Avanade</a></th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -71,7 +71,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Aceleração Global Dev #16 Capgemini -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafio-c-aceleracao-global-dev-16-capgemini/algorithm/area?back=/tests/cc6ca2ad-fd79-4108-b6d1-ab1af4ba81a4">Aceleração Global Dev #16 Capgemini</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafio-c-aceleracao-global-dev-16-capgemini/algorithm/area?back=/tests/cc6ca2ad-fd79-4108-b6d1-ab1af4ba81a4">Aceleração Global Dev #16 Capgemini</a></th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -100,7 +100,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 	  <!-- Desafios Aritméticos em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-aritmeticos-em-c/algorithm/media-1?back=/track/localizalabs-net-developer">Desafios Aritméticos em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-aritmeticos-em-c/algorithm/media-1?back=/track/localizalabs-net-developer">Desafios Aritméticos em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">LocalizaLabs .NET Developer</th>
@@ -139,7 +139,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 	  <!-- Desafios aritmeticos intermediarios em c# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-aritmeticos-em-c/algorithm/media-1?back=/track/localizalabs-net-developer">Desafios aritmeticos intermediarios em c#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-aritmeticos-em-c/algorithm/media-1?back=/track/localizalabs-net-developer">Desafios aritmeticos intermediarios em c#</a></th>
             </tr>
             <tr>
                 <th colspan="3">GFT START #2 .NET</th>
@@ -168,7 +168,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 	  <!-- Desafios avançados em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-avancados-em-c/algorithm/coordenadas-de-um-ponto?back=/track/everis-new-talents-net">Desafios avançados em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-avancados-em-c/algorithm/coordenadas-de-um-ponto?back=/track/everis-new-talents-net">Desafios avançados em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Avanade CodeAnywhere .NET</th>
@@ -194,7 +194,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-avancados-em-c/algorithm/coordenadas-de-um-ponto?back=/track/everis-new-talents-net">everis New Talents - .NET</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-avancados-em-c/algorithm/coordenadas-de-um-ponto?back=/track/everis-new-talents-net">everis New Talents - .NET</a></th>
             </tr>	
             <tr>
                 <th>Desafio</th>
@@ -220,7 +220,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 	  <!-- Desafios Básicos C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-basicos-c/algorithm/multiplicacao-simples?back=/track/take-blip-fullstack-developer-2">Desafios Básicos C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-c/algorithm/multiplicacao-simples?back=/track/take-blip-fullstack-developer-2">Desafios Básicos C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Take Blip Fullstack Developer #2</th>
@@ -259,7 +259,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios com C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-numpericos-em-c/algorithm/coxinha-de-bueno?back=/track/everis-new-talents-2-net">Desafios com C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-numpericos-em-c/algorithm/coxinha-de-bueno?back=/track/everis-new-talents-2-net">Desafios com C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #2 .NET</th>
@@ -288,7 +288,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios Intermediários C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-intermediarios-c/algorithm/crescimento-populacional?back=/track/take-blip-fullstack-developer-2">Desafios Intermediários C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-c/algorithm/crescimento-populacional?back=/track/take-blip-fullstack-developer-2">Desafios Intermediários C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Take Blip Fullstack Developer #2</th>
@@ -317,7 +317,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
        <!-- Desafios Introdutórios com C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-c-1/algorithm/tuitando?back=/track/everis-new-talents-2-net">Desafios Introdutórios com C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-passos-em-c-1/algorithm/tuitando?back=/track/everis-new-talents-2-net">Desafios Introdutórios com C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #2 .NET</th>
@@ -346,7 +346,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
        <!-- Desafios matemáticos em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-matematicos-em-c/algorithm/consumo-medio-do-automovel?back=/track/avanade-codeanywhere-net">Desafios matemáticos em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-matematicos-em-c/algorithm/consumo-medio-do-automovel?back=/track/avanade-codeanywhere-net">Desafios matemáticos em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Avanade CodeAnywhere .NET</th>
@@ -375,7 +375,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
        <!-- Desafios numéricos em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-numericos-em-c/algorithm/tipo-de-combustivel?back=/track/decola-tech">Desafios numéricos em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-numericos-em-c/algorithm/tipo-de-combustivel?back=/track/decola-tech">Desafios numéricos em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Decola Tech Avanade</th>
@@ -448,7 +448,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Iniciando a programar em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/iniciando-a-programar-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net">Iniciando a programar em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/iniciando-a-programar-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net">Iniciando a programar em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">GFT START #2 .NET</th>
@@ -477,7 +477,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Iniciando aritmética em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/iniciando-aritmetica-em-c/algorithm/media-1?back=/track/avanade-codeanywhere-net">Iniciando aritmética em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/iniciando-aritmetica-em-c/algorithm/media-1?back=/track/avanade-codeanywhere-net">Iniciando aritmética em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Avanade CodeAnywhere .NET</th>
@@ -506,7 +506,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com .NET -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/net-fundamentos/algorithm/coxinha-de-bueno?back=/track/net-fundamentals">Introdução a Programação com .NET</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/net-fundamentos/algorithm/coxinha-de-bueno?back=/track/net-fundamentals">Introdução a Programação com .NET</a></th>
             </tr>
             <tr>
                 <th colspan="3">.Net Fundamentals</th>
@@ -535,7 +535,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c/algorithm/quanta-mandioca?back=/track/net-fundamentals">Introdução a Programação com C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-programacao-com-c/algorithm/quanta-mandioca?back=/track/net-fundamentals">Introdução a Programação com C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">.Net Fundamentals</th>
@@ -570,7 +570,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>    
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-c-1/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer">everis FullStack Developer</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-programacao-com-c-1/algorithm/aumento-de-salario?back=/track/everis-fullstack-developer">everis FullStack Developer</a></th>
             </tr>                        
             <tr>
                 <th>Desafio</th>
@@ -624,7 +624,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
        <!-- Introdução a Resolução de Desafios com C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-resolucao-de-desafios-com-c/algorithm/multiplos?back=/track/decola-tech">Introdução a Resolução de Desafios com C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-resolucao-de-desafios-com-c/algorithm/multiplos?back=/track/decola-tech">Introdução a Resolução de Desafios com C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Decola Tech Avanade </th>
@@ -658,7 +658,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Praticando Programação em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/praticando-programacao-em-c/algorithm/coordenadas-de-um-ponto?back=/track/localizalabs-net-developer">Praticando Programação em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/praticando-programacao-em-c/algorithm/coordenadas-de-um-ponto?back=/track/localizalabs-net-developer">Praticando Programação em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">LocalizaLabs .NET Developer</th>
@@ -687,7 +687,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros desafios com C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-c/algorithm/mes?back=/track/everis-new-talents-2-net">Primeiros desafios com C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-desafios-de-codigo-em-c/algorithm/mes?back=/track/everis-new-talents-2-net">Primeiros desafios com C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #2 .NET</th>
@@ -716,7 +716,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
        <!-- Primeiros desafios em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-desafios-em-c/algorithm/distancia?back=/track/take-blip-fullstack-developer-2">Primeiros desafios em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-desafios-em-c/algorithm/distancia?back=/track/take-blip-fullstack-developer-2">Primeiros desafios em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Take Blip Fullstack Developer #2</th>
@@ -745,7 +745,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros desafios Matemáticos em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-desafios-matematicos-em-c/algorithm/soma-simples?back=/track/decola-tech">Primeiros desafios Matemáticos em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-desafios-matematicos-em-c/algorithm/soma-simples?back=/track/decola-tech">Primeiros desafios Matemáticos em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Decola Tech Avanade</th>
@@ -769,7 +769,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros passos com C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-com-c/algorithm/distancia?back=/track/everis-new-talents-2-net">Primeiros passos com C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-passos-com-c/algorithm/distancia?back=/track/everis-new-talents-2-net">Primeiros passos com C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #2 .NET</th>
@@ -798,7 +798,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros programas em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-programas-em-c/algorithm/soma-simples?back=/track/take-blip-fullstack-developer">Primeiros programas em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-programas-em-c/algorithm/soma-simples?back=/track/take-blip-fullstack-developer">Primeiros programas em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Take Blip Fullstack Developer</th>
@@ -827,7 +827,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo Algoritmos -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-algoritmos/algorithm/dividindo-x-por-y?back=/track/decola-dev-avanade-2021">Resolvendo Algoritmos</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-algoritmos/algorithm/dividindo-x-por-y?back=/track/decola-dev-avanade-2021">Resolvendo Algoritmos</a></th>
             </tr>
             <tr>
                 <th colspan="3">Decola Dev Avanade 2021</th>
@@ -876,7 +876,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo algoritmos com C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-c/algorithm/formula-de-bhaskara?back=/track/take-blip-fullstack-developer">Resolvendo algoritmos com C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-algoritmos-com-c/algorithm/formula-de-bhaskara?back=/track/take-blip-fullstack-developer">Resolvendo algoritmos com C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Take Blip Fullstack Developer</th>
@@ -905,7 +905,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo Desafios Básicos em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-iniciais-em-c/algorithm/maior-e-posicao?back=/track/everis-new-talents-3-net">Resolvendo Desafios Básicos em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-iniciais-em-c/algorithm/maior-e-posicao?back=/track/everis-new-talents-3-net">Resolvendo Desafios Básicos em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #3 .NET</th>
@@ -934,7 +934,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo Desafios Iniciais em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-desafios-basicos-em-c/algorithm/ho-ho-ho?back=/track/everis-new-talents-3-net">Resolvendo Desafios Iniciais em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-desafios-basicos-em-c/algorithm/ho-ho-ho?back=/track/everis-new-talents-3-net">Resolvendo Desafios Iniciais em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #3 .NET</th>
@@ -963,7 +963,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo desafios Intermediários em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-desafios-intermediarios-em-c/algorithm/pum?back=/track/everis-new-talents-3-net">Resolvendo desafios Intermediários em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-desafios-intermediarios-em-c/algorithm/pum?back=/track/everis-new-talents-3-net">Resolvendo desafios Intermediários em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #3 .NET</th>
@@ -992,7 +992,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solução de problemas básicos em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-c/algorithm/visita-na-feira?back=/track/mrv-net-developer">Solução de problemas básicos em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucao-de-problemas-basicos-em-c/algorithm/visita-na-feira?back=/track/mrv-net-developer">Solução de problemas básicos em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">MRV .NET Developer</th>
@@ -1021,7 +1021,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solução de problemas com .NET -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/net-fundamentos-intermediario/algorithm/fila-do-banco?back=/track/net-fundamentals">Solução de problemas com .NET</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/net-fundamentos-intermediario/algorithm/fila-do-banco?back=/track/net-fundamentals">Solução de problemas com .NET</a></th>
             </tr>
             <tr>
                 <th colspan="3">.Net Fundamentals</th>
@@ -1060,7 +1060,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solução de Problemas em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucao-de-problemas-em-c/algorithm/consumo-medio-do-automovel?back=/track/localizalabs-net-developer">Solução de Problemas em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucao-de-problemas-em-c/algorithm/consumo-medio-do-automovel?back=/track/localizalabs-net-developer">Solução de Problemas em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">LocalizaLabs .NET Developer</th>
@@ -1115,7 +1115,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solução de Problemas Essenciais com C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucao-de-problemas-essenciais-com-c/algorithm/pedro-bento-e-o-mundo-de-oz?back=/track/avanade-fullstack-developer">Solução de Problemas Essenciais com C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucao-de-problemas-essenciais-com-c/algorithm/pedro-bento-e-o-mundo-de-oz?back=/track/avanade-fullstack-developer">Solução de Problemas Essenciais com C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Avanade Fullstack Developer</th>
@@ -1157,7 +1157,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solucionando desafios em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-desafios-em-c/algorithm/bazinga?back=/track/take-blip-fullstack-developer">Solucionando desafios em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucionando-desafios-em-c/algorithm/bazinga?back=/track/take-blip-fullstack-developer">Solucionando desafios em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Take Blip Fullstack Developer</th>
@@ -1196,7 +1196,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solucionando desafios intermediários em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-desafios-intermediarios-em-c/algorithm/teste-de-selecao-1?back=/track/mrv-net-developer">Solucionando desafios intermediários em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucionando-desafios-intermediarios-em-c/algorithm/teste-de-selecao-1?back=/track/mrv-net-developer">Solucionando desafios intermediários em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">MRV .NET Developer</th>
@@ -1248,7 +1248,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="">Aceleração Global Dev #15 GFT</a></th>
             </tr>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/aceleracao-global-dev-15-gft/algorithm/calculo-simples?back=/tracks">Desafio Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/aceleracao-global-dev-15-gft/algorithm/calculo-simples?back=/tracks">Desafio Java</a></th>
             </tr>                                              
             <tr>
                 <th>Desafio</th>
@@ -1271,7 +1271,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>     
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/aceleracao-global-dev-15-gft/algorithm/triangulo?back=/tracks">Desafios Básicos em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/aceleracao-global-dev-15-gft/algorithm/triangulo?back=/tracks">Desafios Básicos em Java</a></th>
             </tr>                                              
             <tr>
                 <th>Desafio</th>
@@ -1292,7 +1292,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 		       <!-- Aceleração Global Dev Volkswagen -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-java-2-aceleracao-global-dev-volkswagen/algorithm/saltos-ornamentais?back=/tests/1bd13bfd-37d5-4c51-a38e-ed19fe73ad6e">Aceleração Global Dev Volkswagen</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-2-aceleracao-global-dev-volkswagen/algorithm/saltos-ornamentais?back=/tests/1bd13bfd-37d5-4c51-a38e-ed19fe73ad6e">Aceleração Global Dev Volkswagen</a></th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -1321,7 +1321,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafio Aritmético em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafio-aritmetico-em-java/algorithm/acima-da-diagonal-secundaria?back=/track/inter-java-developer">Desafio Aritmético em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafio-aritmetico-em-java/algorithm/acima-da-diagonal-secundaria?back=/track/inter-java-developer">Desafio Aritmético em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Inter Java Developer</th>
@@ -1382,7 +1382,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios Avançados em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-avancados-em-java/algorithm/fibonacci-em-vetor?back=/track/everis-site-reliability-engineer-essentials">Desafios Avançados em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-avancados-em-java/algorithm/fibonacci-em-vetor?back=/track/everis-site-reliability-engineer-essentials">Desafios Avançados em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Everis Site Reliability Engineer Essentials</th>
@@ -1411,7 +1411,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios matemáticos em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-matematicos-em-java-1/algorithm/area-direita?back=/track/code-anywhere">Desafios matemáticos em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-matematicos-em-java-1/algorithm/area-direita?back=/track/code-anywhere">Desafios matemáticos em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Code Anywhere</th>
@@ -1437,10 +1437,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>      
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-matematicos-em-java/algorithm/visita-na-feira?back=/track/gft-start-2-java">GFT START #2 Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-matematicos-em-java/algorithm/visita-na-feira?back=/track/gft-start-2-java">GFT START #2 Java</a></th>
             </tr>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-matematicos-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere">everis New Talents - Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-matematicos-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere">everis New Talents - Java</a></th>
             </tr>            
             <tr>
                 <th>Desafio</th>
@@ -1466,7 +1466,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios numéricos em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-numericos-em-java/algorithm/analise-de-numeros?back=/track/santander-fullstack-developer">Desafios numéricos em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-numericos-em-java/algorithm/analise-de-numeros?back=/track/santander-fullstack-developer">Desafios numéricos em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Santander Bootcamp | Fullstack Developer</th>
@@ -1492,7 +1492,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>   
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-numericos-em-java-1/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular">Capgemini Fullstack Java and Angular</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-numericos-em-java-1/algorithm/divisores-i?back=/track/capgemini-fullstack-java-and-angular">Capgemini Fullstack Java and Angular</a></th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1515,7 +1515,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                     
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-numericos-em-java-3/algorithm/conversao-de-tempo?back=/track/gft-java-aws-developer">GFT Java & AWS Developer</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-numericos-em-java-3/algorithm/conversao-de-tempo?back=/track/gft-java-aws-developer">GFT Java & AWS Developer</a></th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1559,7 +1559,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Fundamentos Aritméticos em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-java/algorithm/quantidade-de-numeros-positivos?back=/track/java-developer">Fundamentos Aritméticos em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/fundamentos-aritmeticos-em-java/algorithm/quantidade-de-numeros-positivos?back=/track/java-developer">Fundamentos Aritméticos em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Java Developer</th>
@@ -1598,7 +1598,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Iniciando a programação em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/iniciando-a-programacao-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere">Iniciando a programação em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/iniciando-a-programacao-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere">Iniciando a programação em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Code Anywhere</th>
@@ -1630,7 +1630,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Iniciando programação em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/iniciando-programacao-em-java/algorithm/multiplicacao-simples?back=/track/everis-quality-assurance-beginner">Iniciando programação em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/iniciando-programacao-em-java/algorithm/multiplicacao-simples?back=/track/everis-quality-assurance-beginner">Iniciando programação em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis Quality Assurance Beginner</th>
@@ -1665,7 +1665,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Busca e Substituição em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-java/algorithm/ordenacao-de-palavras-por-tamanho?back=/track/java-developer">Introdução a Busca e Substituição em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-busca-e-substituicao-em-java/algorithm/ordenacao-de-palavras-por-tamanho?back=/track/java-developer">Introdução a Busca e Substituição em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Java Developer</th>
@@ -1704,7 +1704,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com Java -->
         <table border=1>
             <tr>
-                <th colspan="3"> <a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-1/algorithm/multiplicacao-simples?back=/track/capgemini-fullstack-java-and-angular">Introdução a Programação com Java</a></th>
+                <th colspan="3"> <a href="https://web.dio.me/coding/introducao-a-programacao-com-java-1/algorithm/multiplicacao-simples?back=/track/capgemini-fullstack-java-and-angular">Introdução a Programação com Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Capgemini Fullstack Java and Angular</th>
@@ -1730,7 +1730,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java/algorithm/visita-na-feira?back=/track/java-developer">Java Developer</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-programacao-com-java/algorithm/visita-na-feira?back=/track/java-developer">Java Developer</a></th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1753,7 +1753,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>             
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-3/algorithm/multiplos?back=/track/gft-java-aws-developer">GFT Java & AWS Developer</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-programacao-com-java-3/algorithm/multiplos?back=/track/gft-java-aws-developer">GFT Java & AWS Developer</a></th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1802,7 +1802,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-java-2/algorithm/tuitando?back=/track/everis-new-talents-2-java">Introdução a Programação em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-programacao-com-java-2/algorithm/tuitando?back=/track/everis-new-talents-2-java">Introdução a Programação em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #2 Java</th>
@@ -1831,7 +1831,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Ordenação e Filtros em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-java/algorithm/ordenando-numeros-pares-e-impares?back=/track/everis-fullstack-developer">Ordenação e Filtros em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/ordenacao-e-filtros-em-java/algorithm/ordenando-numeros-pares-e-impares?back=/track/everis-fullstack-developer">Ordenação e Filtros em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis FullStack Developer</th>
@@ -1873,7 +1873,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Praticando programação em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/praticando-programacao-em-java/algorithm/abreviando-posts-do-blog?back=/track/inter-java-developer">Praticando programação em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/praticando-programacao-em-java/algorithm/abreviando-posts-do-blog?back=/track/inter-java-developer">Praticando programação em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Inter Java Developer</th>
@@ -1912,7 +1912,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros desafios de código com Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-java-1/algorithm/mes?back=/track/everis-new-talents-2-java">Primeiros desafios de código com Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-desafios-de-codigo-em-java-1/algorithm/mes?back=/track/everis-new-talents-2-java">Primeiros desafios de código com Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #2 Java</th>
@@ -1941,7 +1941,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros passos com Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-java-2/algorithm/distancia?back=/track/everis-new-talents-2-java">Primeiros passos com Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-passos-em-java-2/algorithm/distancia?back=/track/everis-new-talents-2-java">Primeiros passos com Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #2 Java</th>
@@ -1993,7 +1993,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros passos em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-java/algorithm/visita-na-feira?back=/track/santander-fullstack-developer">Primeiros passos em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-passos-em-java/algorithm/visita-na-feira?back=/track/santander-fullstack-developer">Primeiros passos em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Santander Bootcamp | Fullstack Developer</th>
@@ -2014,7 +2014,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>   
            <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-java-1/algorithm/visita-na-feira?back=/track/everis-new-talents-java">everis New Talents - Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-passos-em-java-1/algorithm/visita-na-feira?back=/track/everis-new-talents-java">everis New Talents - Java</a></th>
             </tr>            
             <tr>
                 <th>Desafio</th>
@@ -2037,7 +2037,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>      
            <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-java-3/algorithm/batmain?back=/track/gft-java-aws-developer">GFT Java & AWS Developer</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-passos-em-java-3/algorithm/batmain?back=/track/gft-java-aws-developer">GFT Java & AWS Developer</a></th>
             </tr>            
             <tr>
                 <th>Desafio</th>
@@ -2063,7 +2063,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo Algoritmos com Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-java/algorithm/coracao-das-cartas?back=/track/everis-fullstack-developer">Resolvendo Algoritmos com Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-algoritmos-com-java/algorithm/coracao-das-cartas?back=/track/everis-fullstack-developer">Resolvendo Algoritmos com Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis FullStack Developer</th>
@@ -2134,7 +2134,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 		<!-- Resolvendo Desafios Intermediários em Java -->
         <table border=1>
             <tr>
-			    <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-intermediarios-java/algorithm/tamanho-da-placa?back=/track/everis-new-talents-3-java">Resolvendo Desafios Intermediários em Java</a></th>
+			    <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-java/algorithm/tamanho-da-placa?back=/track/everis-new-talents-3-java">Resolvendo Desafios Intermediários em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #3 Java</th>
@@ -2163,7 +2163,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 		<!-- Resolvendo Desafios médios em Java -->
         <table border=1>
             <tr>
-			    <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-medios-em-java/algorithm/reservatorio-de-mel?back=/track/everis-new-talents-3-java">Resolvendo Desafios médios em Java</a></th>
+			    <th colspan="3"><a href="https://web.dio.me/coding/desafios-medios-em-java/algorithm/reservatorio-de-mel?back=/track/everis-new-talents-3-java">Resolvendo Desafios médios em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis New Talents #3 Java</th>
@@ -2244,7 +2244,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solução de Problemas com Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucao-de-problemas-com-java/algorithm/contagem-repetida-de-numeros?back=/track/java-developer">Solução de Problemas com Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucao-de-problemas-com-java/algorithm/contagem-repetida-de-numeros?back=/track/java-developer">Solução de Problemas com Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Java Developer</th>
@@ -2293,7 +2293,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solucionando Desafios em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-desafios-em-java/algorithm/area-do-circulo?back=/track/santander-fullstack-developer">Solucionando Desafios em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucionando-desafios-em-java/algorithm/area-do-circulo?back=/track/santander-fullstack-developer">Solucionando Desafios em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Santander Bootcamp | Fullstack Developer</th>
@@ -2404,7 +2404,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solucionando problemas básicos em Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-problemas-basicos-em-java/algorithm/multiplicacao-simples?back=/track/inter-java-developer">Solucionando problemas básicos em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucionando-problemas-basicos-em-java/algorithm/multiplicacao-simples?back=/track/inter-java-developer">Solucionando problemas básicos em Java</a></th>
             </tr>
             <tr>
                 <th colspan="3">Inter Java Developer</th>
@@ -2480,7 +2480,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafio Aritmético em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafio-aritmetico-em-javascript/algorithm/area-inferior?back=/track/capgemini-fullstack-java-and-angular">Desafio Aritmético em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafio-aritmetico-em-javascript/algorithm/area-inferior?back=/track/capgemini-fullstack-java-and-angular">Desafio Aritmético em JavaScript</a></th>
             </tr>
            <tr>
                 <th colspan="3">Capgemini Fullstack Java and Angular</th>
@@ -2532,7 +2532,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios Aritméticos em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-aritmeticos-em-javascript/algorithm/coxinha-de-bueno?back=/track/localizalabs-react-developer">Desafios Aritméticos em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-aritmeticos-em-javascript/algorithm/coxinha-de-bueno?back=/track/localizalabs-react-developer">Desafios Aritméticos em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">LocalizaLabs React Developer</th>
@@ -2589,7 +2589,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios avançados de código em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-desafios-de-codigo-em-javascript/algorithm/diferenca?back=/track/capgemini-fullstack-java-and-angular">Desafios avançados de código em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-desafios-de-codigo-em-javascript/algorithm/diferenca?back=/track/capgemini-fullstack-java-and-angular">Desafios avançados de código em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">Capgemini Fullstack Java and Angular</th>
@@ -2618,7 +2618,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios Básicos em JavaScript  -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-basicos-em-javascript/algorithm/soma-simples?back=/track/eduzz-fullstack-developer">Desafios Básicos em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-em-javascript/algorithm/soma-simples?back=/track/eduzz-fullstack-developer">Desafios Básicos em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">Eduzz Fullstack Developer</th>
@@ -2647,7 +2647,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios de código em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-de-codigo-em-javascript/algorithm/aumento-de-salario?back=/track/mrv-front-end-spa-developer">Desafios de código em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-de-codigo-em-javascript/algorithm/aumento-de-salario?back=/track/mrv-front-end-spa-developer">Desafios de código em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">MRV Front End SPA Developer</th>
@@ -2676,7 +2676,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios iniciais em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-iniciais-em-javascript/algorithm/dividindo-x-por-y?back=/track/eduzz-fullstack-developer">Desafios iniciais em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-iniciais-em-javascript/algorithm/dividindo-x-por-y?back=/track/eduzz-fullstack-developer">Desafios iniciais em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">Eduzz Fullstack Developer</th>
@@ -2705,7 +2705,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios iniciais JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-iniciais-javascript/algorithm/tabuada?back=/track/impulso-react-web-developer">Desafios iniciais JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-iniciais-javascript/algorithm/tabuada?back=/track/impulso-react-web-developer">Desafios iniciais JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">Impulso React Web Developer</th>
@@ -2734,7 +2734,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios Intermediários em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-intermediarios-em-javascript/algorithm/area-superior?back=/track/mrv-front-end-spa-developer">Desafios Intermediários em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-em-javascript/algorithm/area-superior?back=/track/mrv-front-end-spa-developer">Desafios Intermediários em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">MRV Front End SPA Developer</th>
@@ -2763,7 +2763,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios Intermediários JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-intermediarios-javascript/algorithm/coxinha-de-bueno?back=/track/impulso-react-web-developer">Desafios Intermediários JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-javascript/algorithm/coxinha-de-bueno?back=/track/impulso-react-web-developer">Desafios Intermediários JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">Impulso React Web Developer</th>
@@ -2836,7 +2836,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios Matematicos em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-matematicos-em-javascript/algorithm/contagem-de-cedulas?back=/track/localizalabs-react-developer">Desafios Matematicos em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-matematicos-em-javascript/algorithm/contagem-de-cedulas?back=/track/localizalabs-react-developer">Desafios Matematicos em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">LocalizaLabs React Developer</th>
@@ -2865,7 +2865,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios Médios em JavaScript  -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-medios-em-javascript/algorithm/folha-de-pagamento?back=/track/eduzz-fullstack-developer">Desafios Médios em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-medios-em-javascript/algorithm/folha-de-pagamento?back=/track/eduzz-fullstack-developer">Desafios Médios em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">Eduzz Fullstack Developer</th>
@@ -2894,7 +2894,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios Médios JavaScript  -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-medios-javascript/algorithm/fases-da-lua?back=/track/impulso-react-web-developer">Desafios Médios JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-medios-javascript/algorithm/fases-da-lua?back=/track/impulso-react-web-developer">Desafios Médios JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">Impulso React Web Developer</th>
@@ -2923,7 +2923,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desenvolvimento de Problemas Avançados em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desenvolvimento-de-problemas-avancados-em-javascript/algorithm/ordenando-numeros-pares-e-impares?back=/track/avanade-angular-developer">Desenvolvimento de Problemas Avançados em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desenvolvimento-de-problemas-avancados-em-javascript/algorithm/ordenando-numeros-pares-e-impares?back=/track/avanade-angular-developer">Desenvolvimento de Problemas Avançados em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">Avanade Angular Developer</th>
@@ -2952,7 +2952,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Fundamentos Aritméticos em Javascript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/analise-de-numeros?back=/track/sp-tech-desenvolvimento-fullstack">Fundamentos Aritméticos em Javascript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/fundamentos-aritmeticos-em-javascript/algorithm/analise-de-numeros?back=/track/sp-tech-desenvolvimento-fullstack">Fundamentos Aritméticos em Javascript</a></th>
             </tr>
             <tr>
                 <th colspan="3">SPTech Desenvolvimento Fullstack</th>
@@ -3000,7 +3000,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Iniciando Desafios em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/iniciando-desafios-em-javascript/algorithm/calculo-de-viagem?back=/track/localizalabs-react-developer">Iniciando Desafios em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/iniciando-desafios-em-javascript/algorithm/calculo-de-viagem?back=/track/localizalabs-react-developer">Iniciando Desafios em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">LocalizaLabs React Developer</th>
@@ -3029,7 +3029,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Busca e Substituição em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-busca-e-substituicao-em-javascript/algorithm/atalhos-para-o-weblogger-brasil?back=/track/sp-tech-desenvolvimento-fullstack">Introdução a Busca e Substituição em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-busca-e-substituicao-em-javascript/algorithm/atalhos-para-o-weblogger-brasil?back=/track/sp-tech-desenvolvimento-fullstack">Introdução a Busca e Substituição em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">SPTech Desenvolvimento Fullstack</th>
@@ -3103,7 +3103,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/sp-tech-desenvolvimento-fullstack">Introdução a Programação com JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/sp-tech-desenvolvimento-fullstack">Introdução a Programação com JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">SPTech Desenvolvimento Fullstack</th>
@@ -3144,7 +3144,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Ordenação e Filtros em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/gincana-no-acampamento?back=/track/sp-tech-desenvolvimento-fullstack">Ordenação e Filtros em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/ordenacao-e-filtros-em-javascript/algorithm/gincana-no-acampamento?back=/track/sp-tech-desenvolvimento-fullstack">Ordenação e Filtros em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">SPTech Desenvolvimento Fullstack</th>
@@ -3254,7 +3254,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Praticando programação em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/praticando-programacao-em-javascript/algorithm/quanta-mandioca?back=/track/avanade-angular-developer">Praticando programação em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/praticando-programacao-em-javascript/algorithm/quanta-mandioca?back=/track/avanade-angular-developer">Praticando programação em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">Avanade Angular Developer</th>
@@ -3293,7 +3293,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros Desafios JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-desafios-javascript/algorithm/folha-de-pagamento?back=/track/take-blip-fullstack-developer-2">Primeiros Desafios JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-desafios-javascript/algorithm/folha-de-pagamento?back=/track/take-blip-fullstack-developer-2">Primeiros Desafios JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">Take Blip Fullstack Developer #2</th>
@@ -3400,7 +3400,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo Algoritmos com JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-javascript/algorithm/coracao-das-cartas?back=/track/javascript-game-developer">Resolvendo Algoritmos com JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-algoritmos-com-javascript/algorithm/coracao-das-cartas?back=/track/javascript-game-developer">Resolvendo Algoritmos com JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">JavaScript Game Developer</th>
@@ -3483,7 +3483,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solução de Problemas Básicos em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/dividindo-x-por-y?back=/track/avanade-angular-developer">Solução de Problemas Básicos em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucao-de-problemas-basicos-em-javascript/algorithm/dividindo-x-por-y?back=/track/avanade-angular-developer">Solução de Problemas Básicos em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">Avanade Angular Developer</th>
@@ -3515,7 +3515,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solução de Problemas com JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucao-de-problemas-com-javascript/algorithm/contagem-repetida-de-numeros?back=/track/javascript-game-developer">Solução de Problemas com JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucao-de-problemas-com-javascript/algorithm/contagem-repetida-de-numeros?back=/track/javascript-game-developer">Solução de Problemas com JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">JavaScript Game Developer</th>
@@ -3655,7 +3655,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Soluções Aritméticas em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucoes-aritmeticas-em-javascript/algorithm/exibindo-numeros-pares?back=/track/mrv-front-end-spa-developer">Soluções Aritméticas em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucoes-aritmeticas-em-javascript/algorithm/exibindo-numeros-pares?back=/track/mrv-front-end-spa-developer">Soluções Aritméticas em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">MRV Front End SPA Developer</th>
@@ -3692,7 +3692,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios Matemáticos em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-matematicos-em-kotlin/algorithm/analise-de-numeros?back=/track/inter-android-developer">Desafios Matemáticos em Kotlin</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-matematicos-em-kotlin/algorithm/analise-de-numeros?back=/track/inter-android-developer">Desafios Matemáticos em Kotlin</a></th>
             </tr>
             <tr>
                 <th colspan="3">Inter Android Developer</th>
@@ -3721,7 +3721,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios numéricos em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-numericos-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/carrefour-android-developer-1">Desafios numéricos em Kotlin</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-numericos-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/carrefour-android-developer-1">Desafios numéricos em Kotlin</a></th>
             </tr>
             <tr>
                 <th colspan="3">Carrefour Android Developer</th>
@@ -3750,7 +3750,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-com-kotlin/algorithm/idade-em-dias?back=/track/carrefour-android-developer-1">Introdução a Programação com Kotlin</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-programacao-com-kotlin/algorithm/idade-em-dias?back=/track/carrefour-android-developer-1">Introdução a Programação com Kotlin</a></th>
             </tr>
             <tr>
                 <th colspan="3">Carrefour Android Developer</th>
@@ -3792,7 +3792,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/introducao-a-programacao-em-kotlin/algorithm/soma-simples?back=/track/everis-kotlin-developer">Introdução a Programação em Kotlin</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-programacao-em-kotlin/algorithm/soma-simples?back=/track/everis-kotlin-developer">Introdução a Programação em Kotlin</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis Kotlin Developer</th>
@@ -3821,7 +3821,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Praticando Aritmética em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/praticando-aritmetica-em-kotlin/algorithm/coluna-na-matriz?back=/track/inter-android-developer">Praticando Aritmética em Kotlin</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/praticando-aritmetica-em-kotlin/algorithm/coluna-na-matriz?back=/track/inter-android-developer">Praticando Aritmética em Kotlin</a></th>
             </tr>
             <tr>
                 <th colspan="3">Inter Android Developer</th>
@@ -3860,7 +3860,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Praticando programação com Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/praticando-programacao-com-kotlin/algorithm/bob-conduite?back=/track/santander-mobile-developer">Praticando programação com Kotlin</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/praticando-programacao-com-kotlin/algorithm/bob-conduite?back=/track/santander-mobile-developer">Praticando programação com Kotlin</a></th>
             </tr>
             <tr>
                 <th colspan="3">Santander Bootcamp | Mobile Developer</th>
@@ -3889,7 +3889,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Praticando Programação em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/praticando-programacao-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/everis-kotlin-developer">Praticando Programação em Kotlin</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/praticando-programacao-em-kotlin/algorithm/o-jogo-matematico-de-paula?back=/track/everis-kotlin-developer">Praticando Programação em Kotlin</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis Kotlin Developer</th>
@@ -3918,7 +3918,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Primeiros passos em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-kotlin/algorithm/soma-simples?back=/track/santander-mobile-developer">Primeiros passos em Kotlin</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-passos-em-kotlin/algorithm/soma-simples?back=/track/santander-mobile-developer">Primeiros passos em Kotlin</a></th>
             </tr>
             <tr>
                 <th colspan="3">Santander Bootcamp | Mobile Developer</th>
@@ -3944,7 +3944,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>   
            <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/primeiros-passos-em-programacao-kotlin/algorithm/sequencia-logica?back=/track/carrefour-android-developer-1">Carrefour Android Developer</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/primeiros-passos-em-programacao-kotlin/algorithm/sequencia-logica?back=/track/carrefour-android-developer-1">Carrefour Android Developer</a></th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3970,7 +3970,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solucionando desafios em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin/algorithm/teste-de-selecao-1?back=/track/santander-mobile-developer">Solucionando desafios em Kotlin</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucionando-desafios-em-kotlin/algorithm/teste-de-selecao-1?back=/track/santander-mobile-developer">Solucionando desafios em Kotlin</a></th>
             </tr>
             <tr>
                 <th colspan="3">Santander Bootcamp | Mobile Developer</th>
@@ -4006,7 +4006,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>    
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-desafios-em-kotlin-1/algorithm/teste-de-selecao-1?back=/inter-android-developer">Inter Android Developer</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucionando-desafios-em-kotlin-1/algorithm/teste-de-selecao-1?back=/inter-android-developer">Inter Android Developer</a></th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -4032,7 +4032,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solucionando Problemas em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-problemas-em-kotlin/algorithm/taxa-de-imposto-de-renda?back=/track/everis-kotlin-developer">Solucionando Problemas em Kotlin</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucionando-problemas-em-kotlin/algorithm/taxa-de-imposto-de-renda?back=/track/everis-kotlin-developer">Solucionando Problemas em Kotlin</a></th>
             </tr>
             <tr>
                 <th colspan="3">everis Kotlin Developer</th>
@@ -4079,7 +4079,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Desafios matemáticos em Python -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/desafios-matematicos-em-python/algorithm/rodizio-de-cavalos-e-carruagens?back=/track/cognizant-cloud-data-engineer">Desafios matemáticos em Python</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-matematicos-em-python/algorithm/rodizio-de-cavalos-e-carruagens?back=/track/cognizant-cloud-data-engineer">Desafios matemáticos em Python</a></th>
             </tr>
             <tr>
                 <th colspan="3">Cognizant Cloud Data Engineer</th>
@@ -4113,7 +4113,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo algoritmos com Python -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/resolvendo-algoritmos-com-python-1/algorithm/fibonacci-facil?back=/track/cognizant-cloud-data-engineer">Resolvendo algoritmos com Python</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-algoritmos-com-python-1/algorithm/fibonacci-facil?back=/track/cognizant-cloud-data-engineer">Resolvendo algoritmos com Python</a></th>
             </tr>
             <tr>
                 <th colspan="3">Cognizant Cloud Data Engineer</th>
@@ -4142,7 +4142,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solucionando Desafios em Python -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-desafios-em-python/algorithm/media-3?back=/track/banco-carrefour-data-engineer">Solucionando Desafios em Python</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucionando-desafios-em-python/algorithm/media-3?back=/track/banco-carrefour-data-engineer">Solucionando Desafios em Python</a></th>
             </tr>
             <tr>
                 <th colspan="3">Banco Carrefour Data Engineer</th>
@@ -4171,7 +4171,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Soluções Aritméticas em Python -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucoes-aritmeticas-em-python/algorithm/notas-da-prova?back=/track/banco-carrefour-data-engineer">Soluções Aritméticas em Python</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucoes-aritmeticas-em-python/algorithm/notas-da-prova?back=/track/banco-carrefour-data-engineer">Soluções Aritméticas em Python</a></th>
             </tr>
             <tr>
                 <th colspan="3">Banco Carrefour Data Engineer</th>
@@ -4208,7 +4208,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
        <!-- Praticando com Desafios Intermediários em Ruby -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/praticando-com-desafios-intermediarios-em-ruby/algorithm/encaixa-ou-nao-ii?back=/track/impulso-fullstack-developer">Praticando com Desafios Intermediários em Ruby</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/praticando-com-desafios-intermediarios-em-ruby/algorithm/encaixa-ou-nao-ii?back=/track/impulso-fullstack-developer">Praticando com Desafios Intermediários em Ruby</a></th>
             </tr>
             <tr>
                 <th colspan="3">Impulso FullStack Developer</th>
@@ -4247,7 +4247,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solucionando desafios matemáticos em Ruby -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-desafios-matematicos-em-ruby/algorithm/substituicao-em-vetor-i?back=/track/impulso-fullstack-developer">Solucionando desafios matemáticos em Ruby</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucionando-desafios-matematicos-em-ruby/algorithm/substituicao-em-vetor-i?back=/track/impulso-fullstack-developer">Solucionando desafios matemáticos em Ruby</a></th>
             </tr>
             <tr>
                 <th colspan="3">Impulso FullStack Developer</th>
@@ -4276,7 +4276,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Solucionando Problemas Básicos em Ruby -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.digitalinnovation.one/coding/solucionando-problemas-basicos-em-ruby/algorithm/par-ou-impar?back=/track/impulso-fullstack-developer">Solucionando Problemas Básicos em Ruby</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/solucionando-problemas-basicos-em-ruby/algorithm/par-ou-impar?back=/track/impulso-fullstack-developer">Solucionando Problemas Básicos em Ruby</a></th>
             </tr>
             <tr>
                 <th colspan="3">Impulso FullStack Developer</th>
@@ -4313,11 +4313,11 @@ Para te auxiliar na conclusão do bootcamp, a equipe da DIO realizou uma live ex
 [LIVE - Resolvendo um desafio de código na prática](https://www.youtube.com/watch?v=I8NI5QNUCe8)
 
 Há também um mini-curso e uma mentoria dentro da plataforma (Precisa estar logado):
-- [Resolvendo Desafios de Código em Java](https://web.digitalinnovation.one/course/resolvendo-desafios-de-codigo-em-java/learning/3191f44c-6b79-4a0c-90b7-d9b65b49b7aa?back=/track/everis-new-talents-3-java
+- [Resolvendo Desafios de Código em Java](https://web.dio.me/course/resolvendo-desafios-de-codigo-em-java/learning/3191f44c-6b79-4a0c-90b7-d9b65b49b7aa?back=/track/everis-new-talents-3-java
 )
 
 - [
-Mentoria DIO: Como Resolver desafios de código na sua jornada como dev](https://web.digitalinnovation.one/live/como-resolver-desafios-de-codigo-na-sua-jornada-como-dev-dio/learning/1869e000-8ca5-42df-9a94-7c2c62579405?back=/track/impulso-react-web-developer)
+Mentoria DIO: Como Resolver desafios de código na sua jornada como dev](https://web.dio.me/live/como-resolver-desafios-de-codigo-na-sua-jornada-como-dev-dio/learning/1869e000-8ca5-42df-9a94-7c2c62579405?back=/track/impulso-react-web-developer)
 
 Esses desafios lhe ajudarão a praticar e aplicar os conceitos apresentados nas aulas e exercícios. Para ter destaque na carreira de desenvolvimento de software é necessário praticar muito com algoritmos.
 
@@ -4557,7 +4557,7 @@ Logo o código feito para cada linguagem daria certo em ambos os testes, pois se
 
 ## Solução de Desafio C# 
 
-[Link original](https://web.digitalinnovation.one/articles/entendendo-o-codigo-solucao-do-desafio-c-multiplos?back=%2Fhome&page=1&order=oldest)
+[Link original](https://web.dio.me/articles/entendendo-o-codigo-solucao-do-desafio-c-multiplos?back=%2Fhome&page=1&order=oldest)
 
 Antes de iniciar qualquer desafio de código, é importante entender o que está sendo pedido e como a informação será processada pelo console.
 
@@ -4694,7 +4694,7 @@ Pronto, agora o código vai passar em todos os testes de saída.
 
 ## uDebug do URI e testes fechados
 
-[Link original](https://web.digitalinnovation.one/topics/utilizando-o-udebug-do-uri-para-resolver-desafios-da-dio?tab=forum&topic_type=all&back=%2Ftrack%2Fcarrefour-android-developer-1&back_order=newest&back_page=1&page=1&order=oldest)
+[Link original](https://web.dio.me/topics/utilizando-o-udebug-do-uri-para-resolver-desafios-da-dio?tab=forum&topic_type=all&back=%2Ftrack%2Fcarrefour-android-developer-1&back_order=newest&back_page=1&page=1&order=oldest)
 
  Os desafios de código da DIO vem do [URI online judge](www.urionlinejudge.com.br) e no URI tem uma seção de debug (exemplo: https://www.udebug.com/URI/1040), onde tem vários casos de teste que são por propostos por usuários para ajudar quem está fazendo um desafio a testar seu código. A DIO utiliza os testes do uDebug nos seus casos de teste, porém como os testes são criados por usuários eles podem estar errados, não são testes oficiais sugeridos pelo URI. No Debug do URI é possível ver se o resultado do código bate com os testes, independente do resultado dos testes do uDebug do URI fazerem sentido ou não, no fim o que importa é os seus resultados baterem.
 
@@ -4728,9 +4728,9 @@ Obs2: Não existe nenhuma trapaça em fazer isso, nem o URI e nem o uDebug vai t
 
 ## Clean Code e Refactoring
 
-- [RESOLVEMOS! Bug: (bootcamp da everis New Talents - .NET) - Desafios avançados em C# - Desafio 3/3 - Tempo de Jogo com Minutos | Clean Code e Refactoring](https://web.digitalinnovation.one/topics/resolvemos-bug-bootcamp-da-everis-new-talents-net-desafios-avancados-em-c-desafio-33-tempo-de-jogo-com-minutos-clean-code-e-refactoring?back=%2Fhome&page=1&order=oldest)
+- [RESOLVEMOS! Bug: (bootcamp da everis New Talents - .NET) - Desafios avançados em C# - Desafio 3/3 - Tempo de Jogo com Minutos | Clean Code e Refactoring](https://web.dio.me/topics/resolvemos-bug-bootcamp-da-everis-new-talents-net-desafios-avancados-em-c-desafio-33-tempo-de-jogo-com-minutos-clean-code-e-refactoring?back=%2Fhome&page=1&order=oldest)
 
-- [Refatorando => Desafios avançado 1/3 de C#. Melhorando a qualidade e legibilidade do código. Aplicando Clean Code e Refactoring.](https://web.digitalinnovation.one/articles/c9011-aplicando-clean-code-refactoring-e-dipsolid-desafios-avancado-13-de-c?back=%2Fhome&page=1&order=oldest)
+- [Refatorando => Desafios avançado 1/3 de C#. Melhorando a qualidade e legibilidade do código. Aplicando Clean Code e Refactoring.](https://web.dio.me/articles/c9011-aplicando-clean-code-refactoring-e-dipsolid-desafios-avancado-13-de-c?back=%2Fhome&page=1&order=oldest)
 
 ## 🐛 Issues
 
