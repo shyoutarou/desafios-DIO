@@ -1,0 +1,5 @@
+## BootCamp
+
+- International Career Acceleration #2 TONNIE – Talent On European Experiences
+As principais empresas internacionais estão em busca dos melhores talentos de tecnologia do mundo. Eles estão procurando por você. Você sonhou com isso. O que você está esperando? Este é o seu momento para evoluir e colocar todas as suas habilidades à prova! Preparamos para você a International Career Acceleration #2 TONNIE – Talent On European Experiences, um programa que abordará desafios ainda maiores, com o intuito de intensificar seus conhecimentos e lhe preparar para uma carreira internacional. Serão ao todo 6 horas de trilhas ao vivo, com workshops aplicados por experts no dia 22/11. Sim, o TONNIE busca profissionais com tempo de experiência igual ou superior a 3 anos, com inglês intermediário ou superior de todo o Brasil para trabalhar em Portugal para empresas Européias! Esta será uma oportunidade valiosa para você que está visando o melhor para sua carreira. Conheça o programa completo e inscreva-se já.
+

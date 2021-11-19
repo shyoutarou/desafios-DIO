@@ -1288,8 +1288,66 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafios%20B%C3%A1sicos%20em%20Java/Tri%C3%A2ngulo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                         
-        </table>   
-		       <!-- Aceleração Global Dev Volkswagen -->
+        </table>  
+		<!-- Aceleração Global Dev #18 GFT -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-18-gft/algorithm/copa?back=/tests/cf7627d9-f1d0-4713-a5a5-14134443e99b">Aceleração Global Dev #18 GFT</a></th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>                                                                            
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Cachorros-Quentes</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Diving">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Copa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Jumping%20Frog">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+			<tr>
+                <td>Montanha-Russa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Parenthesis%20Balance%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+        </table> 		
+		<!-- Aceleração Global Dev Tonnie -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-volkswagen/algorithm/aproveite-a-oferta?back=/tests/5699e494-c66b-4f7b-8168-325afc6e100a">Aceleração Global Dev Tonnie</a></th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>                                                                            
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Enjoy the Offer</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Diving">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Exchanging Cards</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Jumping%20Frog">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+			<tr>
+                <td>Head or Tail</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Parenthesis%20Balance%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+        </table> 		
+		<!-- Aceleração Global Dev Volkswagen -->
         <table border=1>
             <tr>
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-2-aceleracao-global-dev-volkswagen/algorithm/saltos-ornamentais?back=/tests/1bd13bfd-37d5-4c51-a38e-ed19fe73ad6e">Aceleração Global Dev Volkswagen</a></th>
@@ -2701,7 +2759,51 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Quanta%20Mandioca">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>    
+        </table>
+        <!-- Desafios Java Developer -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-developer/algorithm/xadrez?back=/track/spread-java-developer">Desafios Java Developer </a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Spread Java Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Dama</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Dist%C3%A2ncia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fuso Horário</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Dividindo%20X%20por%20Y">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>MacPRONALTS</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Quanta%20Mandioca">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+			<tr>
+                <td>Par ou Ímpar</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Dist%C3%A2ncia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Trigo no Tabuleiro</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Dividindo%20X%20por%20Y">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Xadrez</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Quanta%20Mandioca">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>    		
         <!-- Desafios iniciais JavaScript -->
         <table border=1>
             <tr>
