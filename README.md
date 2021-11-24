@@ -1304,17 +1304,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Cachorros-Quentes</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Diving">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Cachorros-Quentes">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Copa</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Jumping%20Frog">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Copa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
 			<tr>
                 <td>Montanha-Russa</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Parenthesis%20Balance%20I">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Montanha-Russa">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
         </table> 		
@@ -1333,17 +1333,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Enjoy the Offer</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Diving">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Enjoy%20the%20Offer">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Exchanging Cards</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Jumping%20Frog">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Exchanging%20Cards">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
 			<tr>
                 <td>Head or Tail</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Parenthesis%20Balance%20I">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Head%20or%20Tail">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
         </table> 		
