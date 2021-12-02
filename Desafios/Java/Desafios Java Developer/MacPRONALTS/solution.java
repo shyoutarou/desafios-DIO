@@ -1,33 +1,35 @@
-
-import java.io.IOException;
+import java.util.Locale;
 import java.util.Scanner;
 
-public class Problem {
+public class Main {
 
-	public static void main(String[] args) throws IOException {
-    	Scanner leitor = new Scanner(System.in);
-    	int N = leitor.nextInt();
-    	for (int i = 0; i < N; i++) {
-    	   int x = leitor.nextInt();
-    	   
-    	  	VERIFICA(x);
-    	}
-	}
-	
-  public static void VERIFICA(int x){
-     
-      if(x == 0)
-          System.out.println("NULL");
-      else if((x % 2) == 0){
-          if(x < 0)
-              System.out.println("EVEN NEGATIVE");
-          else
-              System.out.println("EVEN POSITIVE");
-      }else{
-          if(x < 0)
-              System.out.println("ODD NEGATIVE");
-          else
-              System.out.println("ODD POSITIVE");
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		sc.useLocale(Locale.ENGLISH);
+		Locale.setDefault(new Locale("en", "US"));
+		
+		int produtos=0, quantidade=0;
+		double res=0, valor=0;
+		int N = Integer.parseInt(sc.nextLine());
+		
+		for (int x=0 ; x<N ; x++){
+			produtos = sc.nextInt();
+			quantidade  = sc.nextInt();
+
+      if (produtos == 1001){
+          res += (1.50*quantidade);
+      }else if (produtos == 1002){
+          res+= (2.50*quantidade);
+      }else if (produtos == 1003){
+          res+= (3.50*quantidade);
+      }else if (produtos == 1004){
+          res+= (4.50*quantidade);
+      }else if (produtos == 1005){
+          res+= (5.50*quantidade);
       }
-  }
+            
+		}
+		System.out.printf("%.2f\n",res);
+		sc.close();
+	}
 }
