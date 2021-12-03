@@ -1408,6 +1408,122 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                               
         </table>  
+        <!-- Desafio Java - Bootcamp Amdocs -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafio-java-bootcamp-amdocs/algorithm/a-mudanca?back=/track/amdocs-java-developer">Desafio Java - Bootcamp Amdocs</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Amdocs JAVA Developer</th>
+            </tr>                                              
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>A Mudança</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>A Mudança Continua!!</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>              
+            <tr>
+                <td>Colchão</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Divisores">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                    
+        </table>   	
+        <!-- Desafio Java - Bootcamp Amdocs 2 -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafio-java-bootcamp-amdocs-2/algorithm/fatorial-simples?back=/track/amdocs-java-developer">Desafio Java - Bootcamp Amdocs 2 </a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Amdocs JAVA Developer</th>
+            </tr>                                              
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Fatorial Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Fibonacci Rápido</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>              
+            <tr>
+                <td>Soma de Impares Consecutivos I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Divisores">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                    
+        </table>  	
+        <!-- Desafio Java - Cognizant Developer -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafio-java-cognizant-developer/algorithm/andando-no-tempo?back=/track/cognizant-java-developer">Desafio Java - Cognizant Developer</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Amdocs JAVA Developer</th>
+            </tr>                                              
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Análise De Números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Andando no Tempo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>              
+            <tr>
+                <td>Saída 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Divisores">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                    
+        </table>  		
+        <!-- Desafio Java Iniciante - Cognizant Developer -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafio-java-iniciante-cognizant-developer/algorithm/tempo-do-dobby?back=/track/cognizant-java-developer">Desafio Java Iniciante - Cognizant Developer </a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Amdocs JAVA Developer</th>
+            </tr>                                              
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>DDD</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Tempo do Dobby</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>              
+            <tr>
+                <td>Visita na Feira</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Divisores">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                    
+        </table>  		
         <!-- Desafios Aritméticos em Java -->
         <table border=1>
             <tr>
