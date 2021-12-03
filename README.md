@@ -4,7 +4,7 @@
 <p align="center">
   <img src="./assets/banner.png" alt="DIO" tittle="Digital Innovation One">
 </p>
-
+ 
 <p align="center">
   <!-- C# -->
   <a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp">
@@ -1465,7 +1465,119 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
-        </table>      
+        </table>     
+        <!-- Desafios iniciais em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-iniciais-em-java/algorithm/intervalo?back=/track/tqi-java-developer">Desafios iniciais em Java</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">TQI Java Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Andando no Tempo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fases da Lua</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Intervalo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>     
+            <tr>
+                <td>Lanche</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tabuada</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  			
+        </table>  	
+        <!-- Desafios Java Developer -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-developer/algorithm/xadrez?back=/track/spread-java-developer">Desafios Java Developer</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Spread Java Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Dama</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fuso Horário</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>MacPRONALTS</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>     
+            <tr>
+                <td>Par ou Ímpar</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Trigo no Tabuleiro</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Xadrez</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   			
+        </table>     	
+        <!-- Desafios Java Intermediários -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-avancados-em-java/algorithm/fibonacci-em-vetor?back=/track/everis-site-reliability-engineer-essentials">Desafios Java Intermediários</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">TQI Java Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Batmain</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Diferença</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pares entre Cinco Números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>           
+        </table> 		
         <!-- Desafios matemáticos em Java -->
         <table border=1>
             <tr>
@@ -2759,51 +2871,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Quanta%20Mandioca">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>
-        <!-- Desafios Java Developer -->
-        <table border=1>
-            <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-developer/algorithm/xadrez?back=/track/spread-java-developer">Desafios Java Developer </a></th>
-            </tr>
-            <tr>
-                <th colspan="3">Spread Java Developer</th>
-            </tr>
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>Dama</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Dist%C3%A2ncia">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Fuso Horário</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Dividindo%20X%20por%20Y">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>MacPRONALTS</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Quanta%20Mandioca">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-			<tr>
-                <td>Par ou Ímpar</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Dist%C3%A2ncia">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Trigo no Tabuleiro</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Dividindo%20X%20por%20Y">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Xadrez</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20iniciais%20em%20JavaScript/Quanta%20Mandioca">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-        </table>    		
+        </table>	
         <!-- Desafios iniciais JavaScript -->
         <table border=1>
             <tr>
@@ -3715,7 +3783,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                    
         </table>              
-        <!-- Soluções e Problemas Essenciais -->
+        <!-- Soluções de Problemas Essenciais -->
         <table border=1>
             <tr>
                 <th colspan="3">Soluções e Problemas Essenciais</th>
