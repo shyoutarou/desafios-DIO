@@ -1481,27 +1481,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Andando no Tempo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20iniciais%20em%20Java/Andando%20no%20Tempo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fases da Lua</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20iniciais%20em%20Java/Fases%20da%20Lua">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Intervalo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20iniciais%20em%20Java/Intervalo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>     
             <tr>
                 <td>Lanche</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20iniciais%20em%20Java/Lanche">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Tabuada</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20iniciais%20em%20Java/Tabuada">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  			
         </table>  	
@@ -1520,32 +1520,32 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Dama</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20Developer/Dama">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fuso Horário</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20Developer/Fuso%20Hor%C3%A1rio">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>MacPRONALTS</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20Developer/MacPRONALTS">Código</a></td>
                 <td align="center">✔️</td>
             </tr>     
             <tr>
                 <td>Par ou Ímpar</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20Developer/Par%20ou%20%C3%8Dmpar">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Trigo no Tabuleiro</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20Developer/Trigo%20no%20Tabuleiro">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Xadrez</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20Developer/Xadrez">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   			
         </table>     	
@@ -1564,17 +1564,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Batmain</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20Intermedi%C3%A1rios/Batmain">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Diferença</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20Intermedi%C3%A1rios/Diferen%C3%A7a">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Pares entre Cinco Números</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20Intermedi%C3%A1rios/Pares%20entre%20Cinco%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table> 		
