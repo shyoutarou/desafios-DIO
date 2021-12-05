@@ -839,32 +839,32 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Xenlongão</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Programando%20em%20C%23/Xenlong%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Quadrado de Pares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/M%C3%BAltiplos">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Programando%20em%20C%23/Quadrado%20de%20Pares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Sequência S</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/Soma%20Simples">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Programando%20em%20C%23/Sequ%C3%AAncia%20S">Código</a></td>
                 <td align="center">✔️</td>
             </tr>    
             <tr>
                 <td>Sequencia IJ 2</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Programando%20em%20C%23/Sequencia%20IJ%202">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Vai Ter Copa?</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/M%C3%BAltiplos">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Programando%20em%20C%23/Vai%20Ter%20Copa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Sucessor Par</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/Soma%20Simples">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Programando%20em%20C%23/Sucessor%20Par">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                     
         </table>                          
@@ -3766,6 +3766,93 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                       
         </table>    
+        <!-- Resolvendo Desafios Básicos em JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-desafios-em-javascript/algorithm/multiplos?back=/track/eduzz-fullstack-developer-2">Resolvendo Desafios Básicos em JavaScript</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Eduzz Fullstack Developer #2</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Múltiplos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/%C3%81lbum%20da%20Copa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Teste de Seleção 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Folha de Pagamento</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>   
+        <!-- Resolvendo desafios em JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-desafios-em-javascript-1/algorithm/quadrado-de-pares?back=/track/eduzz-fullstack-developer-2">Resolvendo desafios em JavaScript</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Eduzz Fullstack Developer #2</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Nossos Dias Nunca Voltarão</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/%C3%81lbum%20da%20Copa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quadrado de Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Resto 2</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>   
+        <!-- Resolvendo Desafios Intermediários em JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-desafios-em-javascript-1/algorithm/quadrado-de-pares?back=/track/eduzz-fullstack-developer-2">Resolvendo Desafios Intermediários em JavaScript</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Eduzz Fullstack Developer #2</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Polígonos Regulares Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/%C3%81lbum%20da%20Copa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tomadas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Triângulo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>                       
         <!-- Solução de Problemas -->
         <table border=1>
             <tr>
