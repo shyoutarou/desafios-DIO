@@ -827,10 +827,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Programando em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/programando-em-c/algorithm/xenlongao?back=/track/decola-tech-2a-edicao">Primeiros programas em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/programando-em-c/algorithm/xenlongao?back=/track/decola-tech-2a-edicao">Programando em C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">Take Blip Fullstack Developer</th>
+                <th colspan="3">Decola Tech 2a edição</th>
             </tr>
             <tr>
                 <th>Desafio</th>
