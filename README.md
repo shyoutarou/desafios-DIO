@@ -3698,6 +3698,35 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Programando com JavaScript - Iniciante  -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/programando-com-javascript-iniciante/algorithm/intervalo?back=/track/mrv-fullstack-developer">Programando com JavaScript - Iniciante</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Programando com JavaScript - Iniciante</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Intervalo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/M%C3%BAltiplos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Números Ímpares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quanta Mandioca</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>           
         <!-- Resolvendo Algoritmos -->
         <table border=1>
             <tr>
@@ -3781,17 +3810,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Múltiplos</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/%C3%81lbum%20da%20Copa">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/M%C3%BAltiplos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Teste de Seleção 1</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Folha de Pagamento</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
         </table>   
@@ -3810,17 +3839,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Nossos Dias Nunca Voltarão</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/%C3%81lbum%20da%20Copa">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20desafios%20em%20JavaScript/Nossos%20Dias%20Nunca%20Voltar%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Quadrado de Pares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20desafios%20em%20JavaScript/Quadrado%20de%20Pares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Resto 2</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20desafios%20em%20JavaScript/Resto%202">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
         </table>   
@@ -3839,17 +3868,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Polígonos Regulares Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/%C3%81lbum%20da%20Copa">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/Pol%C3%ADgonos%20Regulares%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Tomadas</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/Tomadas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Triângulo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Desafios%20Intermedi%C3%A1rios%20em%20JavaScript/Tri%C3%A2ngulo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
         </table>                       
