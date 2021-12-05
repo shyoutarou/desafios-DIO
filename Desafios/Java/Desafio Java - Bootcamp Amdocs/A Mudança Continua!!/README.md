@@ -1,9 +1,8 @@
 ## Desafio
 
 <p align="center">
-    <img src="../../../../../assets/mudancacontinua.png" width="270" height="270">
+    <img src="../../../../assets/mudancacontinua.png" width="270" height="270">
 </p>
-
 
 Novamente Júlio pede sua ajuda, ele esqueceu de um pequeno detalhe. Como o seu o programa anterior só informava uma saudação, ele pediu que transformasse o grau do Sol/Lua em HH:MM:SS. Então caso aceite: dado um grau relativo a posição do Sol/Lua, refaça o sistema só que agora além da saudação de cada período do dia, informe exatamente as horas, os minutos e segundos.
 

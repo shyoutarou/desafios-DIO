@@ -1,5 +1,5 @@
 <h1 align="center">Desafios e Soluções dos Bootcamps da Digital Innovation One :books:</h1>
-
+ 
 <!--Banner session-->
 <p align="center">
   <img src="./assets/banner.png" alt="DIO" tittle="Digital Innovation One">
@@ -618,7 +618,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td>Sequencia IJ 2</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps_Extra/Sequencia%20IJ%202">Código</a></td>
-                <td align="center">❌</td>
+                <td align="center">✔️</td>
             </tr>                                             
         </table>
        <!-- Introdução a Resolução de Desafios com C# -->
@@ -823,7 +823,51 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/Soma%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
-        </table>                       
+        </table>      
+        <!-- Programando em C# -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/programando-em-c/algorithm/xenlongao?back=/track/decola-tech-2a-edicao">Primeiros programas em C#</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Take Blip Fullstack Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Xenlongão</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quadrado de Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/M%C3%BAltiplos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Sequência S</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/Soma%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>    
+            <tr>
+                <td>Sequencia IJ 2</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Vai Ter Copa?</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/M%C3%BAltiplos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Sucessor Par</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Primeiros%20programas%20em%20C%23/Soma%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                     
+        </table>                          
         <!-- Resolvendo Algoritmos -->
         <table border=1>
             <tr>

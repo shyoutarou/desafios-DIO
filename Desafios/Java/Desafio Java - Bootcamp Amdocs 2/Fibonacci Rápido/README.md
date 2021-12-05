@@ -3,7 +3,7 @@
 A fórmula de Binet é uma forma de calcular números de Fibonacci.
 
 <p align="center">
-    <img src="../../../../../assets/fatorialrapido.png" width="270" height="270">
+    <img src="../../../../assets/fatorialrapido.png" width="470" height="270">
 </p>
 
 Sua tarefa é, dado um natural n, calcular o valor de Fibonacci(n) usando a fórmula acima.
