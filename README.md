@@ -3704,7 +3704,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/programando-com-javascript-iniciante/algorithm/intervalo?back=/track/mrv-fullstack-developer">Programando com JavaScript - Iniciante</a></th>
             </tr>
             <tr>
-                <th colspan="3">Programando com JavaScript - Iniciante</th>
+                <th colspan="3">MRV Fullstack Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
