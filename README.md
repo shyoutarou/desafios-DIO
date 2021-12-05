@@ -3713,17 +3713,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Intervalo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/M%C3%BAltiplos">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Programando%20com%20JavaScript%20-%20Iniciante/Intervalo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Números Ímpares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Programando%20com%20JavaScript%20-%20Iniciante/N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Quanta Mandioca</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Desafios%20B%C3%A1sicos%20em%20JavaScript/Folha%20de%20Pagamento">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Programando%20com%20JavaScript%20-%20Iniciante/Quanta%20Mandioca">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
         </table>           
