@@ -955,6 +955,9 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">everis New Talents #3 .NET</th>
             </tr>
             <tr>
+                <th colspan="3">NYY DATA New Talents #3 .NET</th>
+            </tr>				
+            <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
@@ -984,6 +987,9 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">everis New Talents #3 .NET</th>
             </tr>
             <tr>
+                <th colspan="3">NYY DATA New Talents #3 .NET</th>
+            </tr>			
+            <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
@@ -1012,6 +1018,9 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <th colspan="3">everis New Talents #3 .NET</th>
             </tr>
+            <tr>
+                <th colspan="3">NYY DATA New Talents #3 .NET</th>
+            </tr>				
             <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
@@ -1892,7 +1901,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-para-iniciantes-em-java/algorithm/distancia?back=/track/mrv-fullstack-developer">Desafios para iniciantes em Java</a></th>
             </tr>
             <tr>
-                <th colspan="3"></th>
+                <th colspan="3">NTT DATA Quality Assurance Beginner #3</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1901,29 +1910,19 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Distância</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Dist%C3%A2ncia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Ho Ho Ho</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Ho%20Ho%20Ho">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Quadrante</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Quadrante">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Exibindo Números Pares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Quantidade de números positivos</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/Quantidade%20de%20n%C3%BAmeros%20positivos">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>            
+            </tr>           
         </table>   
         <!-- Fundamentos Aritméticos em Java -->
         <table border=1>
@@ -2486,6 +2485,9 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">everis New Talents #3 Java</th>
             </tr>
             <tr>
+                <th colspan="3">NTT DATA New Talents #3 Java</th>
+            </tr>			
+            <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
@@ -2514,6 +2516,9 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <th colspan="3">everis New Talents #3 Java</th>
             </tr>
+            <tr>
+                <th colspan="3">NTT DATA New Talents #3 Java</th>
+            </tr>				
             <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
