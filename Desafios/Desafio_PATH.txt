@@ -5,6 +5,10 @@ https://web.dio.me/coding/desafios-para-iniciantes-em-java/algorithm/intervalo?b
 
 https://web.dio.me/coding/introducao-a-programacao/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net
 
+NTT DATA Android Developer
+Conquiste as melhores oportunidades na NTT DATA como profissional Android com foco em automação de testes. Nessa jornada rumo a contratação, através do bootcamp NTT DATA Android Developer, você irá aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
+
+https://web.dio.me/coding/desafios-iniciantes-em-kotlin/algorithm/media-2?back=/track/ntt-data-android-developer
 
 ===================================================================================================
 

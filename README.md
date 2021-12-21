@@ -3854,7 +3854,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo Desafios Intermediários em JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-desafios-em-javascript-1/algorithm/quadrado-de-pares?back=/track/eduzz-fullstack-developer-2">Resolvendo Desafios Intermediários em JavaScript</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-desafios-intermediarios-em-javascript/algorithm/triangulo?back=/track/eduzz-fullstack-developer-2">Resolvendo Desafios Intermediários em JavaScript</a></th>
             </tr>
             <tr>
                 <th colspan="3">Eduzz Fullstack Developer #2</th>
