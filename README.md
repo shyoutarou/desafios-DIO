@@ -271,27 +271,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Animal">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20C%23/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Esfera</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20C%23/Esfera">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Ho Ho Ho</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Coxinha%20de%20Bueno">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20C%23/Ho%20Ho%20Ho">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Pedro Bento e o Mundo de OZ</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20C%23/Pedro%20Bento%20e%20o%20Mundo%20de%20OZ">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Xenlonguinho</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Coxinha%20de%20Bueno">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20C%23/Xenlonguinho">Código</a></td>
                 <td align="center">✔️</td>
             </tr>			
         </table>  		
@@ -4187,17 +4187,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Aumento de Salário</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Iniciantes%20em%20Kotlin/Aumento%20de%20Sal%C3%A1rio">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
             <tr>
                 <td>Diferença</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Iniciantes%20em%20Kotlin/Diferen%C3%A7a">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Média 2</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/Coxinha%20de%20Bueno">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Iniciantes%20em%20Kotlin/M%C3%A9dia%202">Código</a></td>
                 <td align="center">✔️</td>
             </tr>             
         </table>   	
