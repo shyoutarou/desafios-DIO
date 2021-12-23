@@ -168,7 +168,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 	  <!-- Desafios avançados em C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-avancados-em-c/algorithm/coordenadas-de-um-ponto?back=/track/everis-new-talents-net">Desafios avançados em C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-em-c/algorithm/teorema-da-divisao-euclidiana?back=/track/avanade-codeanywhere-net">Desafios avançados em C#</a></th>
             </tr>
             <tr>
                 <th colspan="3">Avanade CodeAnywhere .NET</th>
@@ -255,7 +255,46 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Aritm%C3%A9ticos%20em%20C%23/Tempo%20de%20um%20Evento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>		
-        </table>        
+        </table>     
+        <!-- Desafios C# -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-c/algorithm/ho-ho-ho?back=/track/localiza-net-developer-2">Desafios C#</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">LocalizaLabs .NET Developer #2</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Dividindo X por Y</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Animal">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Esfera</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Ho Ho Ho</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Coxinha%20de%20Bueno">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pedro Bento e o Mundo de OZ</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Xenlonguinho</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Coxinha%20de%20Bueno">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>			
+        </table>  		
         <!-- Desafios com C# -->
         <table border=1>
             <tr>
@@ -4133,6 +4172,35 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
     <summary><strong>Kotlin</strong></summary>
     <br />
     <div align="left">
+        <!-- Desafios Iniciantes em Kotlin -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-iniciantes-em-kotlin/algorithm/media-2?back=/track/ntt-data-android-developer">Desafios Iniciantes em Kotlin</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">NTT DATA Android Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Aumento de Salário</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+            <tr>
+                <td>Diferença</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Média 2</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/Coxinha%20de%20Bueno">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>             
+        </table>   	
         <!-- Desafios Matemáticos em Kotlin -->
         <table border=1>
             <tr>
