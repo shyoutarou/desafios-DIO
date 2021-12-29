@@ -3763,7 +3763,46 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Programando%20com%20JavaScript%20-%20Iniciante/Quanta%20Mandioca">Código</a></td>
                 <td align="center">✔️</td>
             </tr>            
-        </table>           
+        </table>     
+        <!-- Programando com JS-->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/programando-com-kotlin/algorithm/quadrado-de-pares?back=/track/inter-frontend-developer">Programando com JS</a></th>			
+            </tr>
+            <tr>
+                <th colspan="3">Inter Frontend Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Nossos Dias Nunca Voltarão</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/%C3%81lbum%20da%20Copa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Polígonos Regulares Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quadrado de Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>        
+            <tr>
+                <td>Resto 2</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tomadas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20Algoritmos/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 			
+        </table>   		
         <!-- Resolvendo Algoritmos -->
         <table border=1>
             <tr>
@@ -5198,6 +5237,11 @@ class minhaClasse {
 Na linha 10, ele vai ver se o resto da divisão entre A e B é igual a 0 OU se o resto da divisão entre B e A é igual a 0. Se qualquer uma dessas condições for verdadeira, o if será verdadeiro e ele irá executar o que está dentro das { }
 
 Pronto, agora o código vai passar em todos os testes de saída.
+
+## Leitura Extra
+
+- [Eduzz, resolvendo desafios básicos em Javascript](https://web.dio.me/articles/eduzz-resolvendo-desafios-basicos-em-javascript?back=%2Fhome&page=1&order=oldest)
+- [Desafios de Código, o Guia Definitivo](https://web.dio.me/articles/desafios-de-codigo-o-guia-definitivo?back=%2Fhome&page=1&order=oldest)
 
 ## Conversores de Código
 
