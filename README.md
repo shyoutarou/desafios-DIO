@@ -217,6 +217,35 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>			
         </table>
+	  <!-- Desafios Básicos - GFT Start #3 .NET -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-gft-start-3-net/algorithm/vai-ter-copa?back=/track/gft-start-3-net">Desafios Básicos - GFT Start #3 .NET</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">GFT Start #3 .NET</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Média 3</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20aritmeticos%20intermediarios%20em%20c%23/F%C3%B3rmula%20de%20Bhaskara">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Teste de Seleção 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20aritmeticos%20intermediarios%20em%20c%23/Notas%20e%20Moedas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Vai Ter Copa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20aritmeticos%20intermediarios%20em%20c%23/Tipos%20de%20Tri%C3%A2ngulos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>	
+        </table>  		
 	  <!-- Desafios Básicos C# -->
         <table border=1>
             <tr>
@@ -323,7 +352,36 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Coxinha%20de%20Bueno">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>        
+        </table>
+        <!-- Desafios Iniciais - GFT Start #3 .NET -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/gft-start-3-net/algorithm/diferenca?back=/track/gft-start-3-net">Desafios Iniciais - GFT Start #3 .NET</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">GFT Start #3 .NET</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Cálculo Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Animal">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Diferença</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Múltiplos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20com%20C%23/Coxinha%20de%20Bueno">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>   		
         <!-- Desafios Intermediários C# -->
         <table border=1>
             <tr>
@@ -994,7 +1052,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">everis New Talents #3 .NET</th>
             </tr>
             <tr>
-                <th colspan="3">NYY DATA New Talents #3 .NET</th>
+                <th colspan="3">NTT DATA New Talents #3 .NET</th>
             </tr>				
             <tr>
                 <th>Desafio</th>
@@ -1026,7 +1084,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">everis New Talents #3 .NET</th>
             </tr>
             <tr>
-                <th colspan="3">NYY DATA New Talents #3 .NET</th>
+                <th colspan="3">NTT DATA New Talents #3 .NET</th>
             </tr>			
             <tr>
                 <th>Desafio</th>
@@ -1058,7 +1116,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">everis New Talents #3 .NET</th>
             </tr>
             <tr>
-                <th colspan="3">NYY DATA New Talents #3 .NET</th>
+                <th colspan="3">NTT DATA New Talents #3 .NET</th>
             </tr>				
             <tr>
                 <th>Desafio</th>
@@ -1615,6 +1673,35 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Java%20Iniciante%20-%20Cognizant%20Developer/Visita%20na%20Feira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
+        </table>  	
+        <!-- Desafios - GFT Start #3 Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-gft-start-3-java/algorithm/fases-da-lua?back=/track/gft-start-3-java">Desafios - GFT Start #3 Java</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">GFT Start #3 Java</th>
+            </tr>                                              
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Fases da Lua</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Java%20Iniciante%20-%20Cognizant%20Developer/DDD">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Reservatório de Mel</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Java%20Iniciante%20-%20Cognizant%20Developer/Tempo%20do%20Dobby">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>              
+            <tr>
+                <td>Senha Fixa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Java%20Iniciante%20-%20Cognizant%20Developer/Visita%20na%20Feira">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                    
         </table>  		
         <!-- Desafios Aritméticos em Java -->
         <table border=1>
@@ -1673,7 +1760,65 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
-        </table>     
+        </table>    
+        <!-- Desafios Básicos- GFT Start #3 Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-gft-start-3-java/algorithm/quantidade-de-numeros-positivos?back=/track/gft-start-3-java">Desafios Básicos- GFT Start #3 Java</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">GFT Start #3 Java</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Batalha de Digitrons</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Lanche</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quantidade de números positivos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>           
+        </table>  	
+        <!-- Desafios Iniciais - GFT Start #3 Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-iniciais-gft-start-3-java/algorithm/multiplicacao-simples?back=/track/gft-start-3-java">Desafios Iniciais - GFT Start #3 Java</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">GFT Start #3 Java</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Multiplicação Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Resto 2</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Xadrez</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>           
+        </table>  		
         <!-- Desafios iniciais em Java -->
         <table border=1>
             <tr>
@@ -1713,6 +1858,64 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>  			
         </table>  	
+        <!-- Desafios Intermediários - GFT Start #3 Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-gft-start-3-java/algorithm/a-mensagem-do-padre-do-balao?back=/track/gft-start-3-java">Desafios Intermediários - GFT Start #3 Java</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">GFT Start #3 Java</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>A Mensagem do padre do balão</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Acima da Diagonal Principal</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Top N</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>           
+        </table>  	
+        <!-- Desafios Java - Aceleração Global Dev #19 - GFT -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-19-gft/algorithm/taxa-de-imposto-de-renda?back=/tests/50264a06-43f6-4412-b7a4-9ae8c4a86a3f">Desafios Java - Aceleração Global Dev #19 - GFT</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev #19 GFT</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Fórmula de Bhaskara</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/A%20Mudan%C3%A7a">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Taxa de Imposto de Renda</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/%C3%81rea%20Superior">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Vai Ter Copa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Avan%C3%A7ados%20em%20Java/Fibonacci%20em%20Vetor">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>           
+        </table>  		
         <!-- Desafios Java Developer -->
         <table border=1>
             <tr>

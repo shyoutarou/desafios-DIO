@@ -16,7 +16,7 @@ Para cada caso de teste, imprima uma única linha com o número visitantes que p
 
 | Exemplo de Entrada | Exemplo de Saída|
 | ---|--- |
-8<br />160 182<br />160<br />182<br />183<br />159<br />250<br />170<br />172<br />173 | 5 |
+| 8<br />160 182<br />160<br />182<br />183<br />159<br />250<br />170<br />172<br />173 | 5 |
 
 ```bash
 //Escreva o seu código nos espaços em branco
