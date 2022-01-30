@@ -1702,7 +1702,65 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20-%20GFT%20Start%20%233%20Java/Senha%20Fixa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
+        </table> 
+ 		<!-- Desafios Aceleração Global Dev #20 - Cognizant -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-aceleracao-global-dev-20-cognizant/algorithm/soma-de-impares-consecutivos-ii?back=/tests/c4b07b3a-0991-4727-a585-fed480de9e9c">Desafios Aceleração Global Dev #20 - Cognizant</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev #20 Cognizant</th>
+            </tr>                                              
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Soma de Ímpares Consecutivos II</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Soma de Ímpares Consecutivos III</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>              
+            <tr>
+                <td>Programa para Validação de Notas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Divisores">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                    
         </table>  		
+ 		<!-- Desafios Aceleração Global Dev #20 Avanade -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-aceleracao-global-dev-20-avanade/algorithm/tipo-de-combustivel?back=/tests/9c9a9d07-0892-45ac-acf3-597211d6020c">Desafios Aceleração Global Dev #20 Avanade</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev #20 Avanade</th>
+            </tr>                                              
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Tipo de Combustível</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Folha%20de%20Pagamento">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>PUM</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20programa%C3%A7%C3%A3o%20em%20Java/Bootcamps/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>              
+            <tr>
+                <td>Resto da Divisão</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Divisores">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                    
+        </table>  
         <!-- Desafios Aritméticos em Java -->
         <table border=1>
             <tr>
@@ -1789,7 +1847,36 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20B%C3%A1sicos-%20GFT%20Start%20%233%20Java/Quantidade%20de%20n%C3%BAmeros%20positivos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
-        </table>  	
+        </table>  
+        <!-- Desafios em Java - Sportheca -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-em-java-sportheca/algorithm/volume-da-tv?back=/track/sportheca-mobile-developer">Desafios em Java - Sportheca</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Sportheca Mobile Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Volume da TV</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%233%20Java/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quanta Mandioca?</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%233%20Java/Resto%202">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Imprevistos Natalinos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%233%20Java/Xadrez">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>           
+        </table>  			
         <!-- Desafios Iniciais - GFT Start #3 Java -->
         <table border=1>
             <tr>
@@ -2166,6 +2253,65 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>           
         </table>   
+        <!-- Desafios Sportheca -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/aprimorando-em-java-sportheca/algorithm/tempo-do-dobby?back=/track/sportheca-mobile-developer">Desafios Sportheca</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Sportheca Mobile Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Tempo do Dobby</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Dist%C3%A2ncia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tabuada</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Ho%20Ho%20Ho">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fases da Lua</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Quadrante">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Acima da Diagonal Secundária</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Dist%C3%A2ncia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Folha de Pagamento</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Ho%20Ho%20Ho">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Colchão</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Quadrante">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  		
+            <tr>
+                <td>Reservatório de Mel</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Dist%C3%A2ncia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Contagem repetida de números</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Ho%20Ho%20Ho">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Vogais Extraterrestres</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20para%20iniciantes%20em%20Java/Quadrante">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 			
+        </table>   		
         <!-- Fundamentos Aritméticos em Java -->
         <table border=1>
             <tr>
@@ -5445,6 +5591,7 @@ Pronto, agora o código vai passar em todos os testes de saída.
 
 - [Eduzz, resolvendo desafios básicos em Javascript](https://web.dio.me/articles/eduzz-resolvendo-desafios-basicos-em-javascript?back=%2Fhome&page=1&order=oldest)
 - [Desafios de Código, o Guia Definitivo](https://web.dio.me/articles/desafios-de-codigo-o-guia-definitivo?back=%2Fhome&page=1&order=oldest)
+- [XENLONGUINHO & XENLONGÃO](https://web.dio.me/articles/xenlonguinho-xenlongao-insight?back=%2Fhome&page=1&order=oldest)
 
 ## Conversores de Código
 
