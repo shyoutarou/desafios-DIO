@@ -3169,7 +3169,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>O Escolhido</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Escolhido">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/O%20Escolhido">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
