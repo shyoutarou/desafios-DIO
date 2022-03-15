@@ -18,3 +18,7 @@ A saída contém N linhas, cada uma representando uma lista de compra, sem os it
 | carne laranja suco picles laranja picles  | carne laranja picles suco |
 | laranja pera laranja pera pera | laranja pera |
 
+```bash
+
+```
+

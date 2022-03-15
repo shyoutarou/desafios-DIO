@@ -39,64 +39,6 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
     <summary><strong>C Sharp</strong></summary>
     <br />
     <div align="left">
-        <!-- Aceleração Global Dev #16 Avanade -->
-        <table border=1>
-            <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-c-aceleracao-global-dev-16-avanade/algorithm/feliz-nataaal?back=/tests/1d66f99c-21b1-4d68-b281-172e959666db">Aceleração Global Dev #16 Avanade</a></th>
-            </tr>
-            <tr>
-                <th colspan="3"></th>
-            </tr>
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>Feliz Nataaal!</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Feliz%20Nataaal!">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Galopeira</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Galopeira">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Top N</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Top%20N">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-        </table>   
-        <!-- Aceleração Global Dev #16 Capgemini -->
-        <table border=1>
-            <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafio-c-aceleracao-global-dev-16-capgemini/algorithm/area?back=/tests/cc6ca2ad-fd79-4108-b6d1-ab1af4ba81a4">Aceleração Global Dev #16 Capgemini</a></th>
-            </tr>
-            <tr>
-                <th colspan="3"></th>
-            </tr>
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>Área</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/%C3%81rea">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Fatorial Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/Fatorial%20Simples">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>O Filme</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/O%20Filme">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-        </table>  
         <!-- Desafios - Banco Carrefour Woman Developer -->
         <table border=1>
             <tr>
@@ -156,10 +98,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>			
         </table>  		
-        <!-- Desafios .NET - Aceleração Global Dev #21 - GFT -->
+        <!-- Desafios .NET - Aceleração Global Dev 21 - GFT -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-21-gft/algorithm/fibonacci-facil?back=/tests/d32632f6-a3f6-4081-a64b-6397e9d02f15">Desafios .NET - Aceleração Global Dev #21 - GFT</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-21-gft/algorithm/fibonacci-facil?back=/tests/d32632f6-a3f6-4081-a64b-6397e9d02f15">Desafios .NET - Aceleração Global Dev 21 - GFT</a></th>
             </tr>
             <tr>
                 <th colspan="3"></th>
@@ -184,7 +126,65 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20.NET%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2321%20-%20GFT/Preenchimento%20de%20Vetor%20II">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>    		
+        </table>  
+        <!-- Desafios C# - Aceleração Global Dev 16 - Avanade -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-c-aceleracao-global-dev-16-avanade/algorithm/feliz-nataaal?back=/tests/1d66f99c-21b1-4d68-b281-172e959666db">Desafios C# - Aceleração Global Dev 16 - Avanade</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev 16 Avanade</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Feliz Nataaal!</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Feliz%20Nataaal!">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Galopeira</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Galopeira">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Top N</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Top%20N">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>   
+        <!-- Desafio C# - Aceleração Global Dev 16 Capgemini -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafio-c-aceleracao-global-dev-16-capgemini/algorithm/area?back=/tests/cc6ca2ad-fd79-4108-b6d1-ab1af4ba81a4">Desafio C# - Aceleração Global Dev 16 Capgemini</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev 16 Capgemini</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Área</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/%C3%81rea">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fatorial Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/Fatorial%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>O Filme</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/O%20Filme">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>   		
 	    <!-- Desafios Aritméticos em C# -->
         <table border=1>
             <tr>
@@ -230,7 +230,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-aritmeticos-em-c/algorithm/media-1?back=/track/localizalabs-net-developer">Desafios aritmeticos intermediarios em c#</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT START #2 .NET</th>
+                <th colspan="3">GFT START 2 .NET</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -305,13 +305,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>			
         </table>
-	  <!-- Desafios Básicos - GFT Start #3 .NET -->
+	  <!-- Desafios Básicos - GFT Start 3 .NET -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-gft-start-3-net/algorithm/vai-ter-copa?back=/track/gft-start-3-net">Desafios Básicos - GFT Start #3 .NET</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-gft-start-3-net/algorithm/vai-ter-copa?back=/track/gft-start-3-net">Desafios Básicos - GFT Start 3 .NET</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT Start #3 .NET</th>
+                <th colspan="3">GFT Start 3 .NET</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -340,7 +340,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-c/algorithm/multiplicacao-simples?back=/track/take-blip-fullstack-developer-2">Desafios Básicos C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">Take Blip Fullstack Developer #2</th>
+                <th colspan="3">Take Blip Fullstack Developer 2</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -379,7 +379,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-c/algorithm/ho-ho-ho?back=/track/localiza-net-developer-2">Desafios C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">LocalizaLabs .NET Developer #2</th>
+                <th colspan="3">LocalizaLabs .NET Developer 2</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -418,7 +418,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-numpericos-em-c/algorithm/coxinha-de-bueno?back=/track/everis-new-talents-2-net">Desafios com C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents #2 .NET</th>
+                <th colspan="3">everis New Talents 2 .NET</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -441,13 +441,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>
-        <!-- Desafios Iniciais - GFT Start #3 .NET -->
+        <!-- Desafios Iniciais - GFT Start 3 .NET -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/gft-start-3-net/algorithm/diferenca?back=/track/gft-start-3-net">Desafios Iniciais - GFT Start #3 .NET</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/gft-start-3-net/algorithm/diferenca?back=/track/gft-start-3-net">Desafios Iniciais - GFT Start 3 .NET</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT Start #3 .NET</th>
+                <th colspan="3">GFT Start 3 .NET</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -470,13 +470,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>   	
-        <!-- Desafios Iniciais - GFT Start #4 .NET -->
+        <!-- Desafios Iniciais - GFT Start 4 .NET -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/gft-start-4-net/algorithm/mes?back=/track/gft-start-4-net">Desafios Iniciais - GFT Start #4 .NET</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/gft-start-4-net/algorithm/mes?back=/track/gft-start-4-net">Desafios Iniciais - GFT Start 4 .NET</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT Start #4 .NET</th>
+                <th colspan="3">GFT Start 4 .NET</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -505,7 +505,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-c/algorithm/crescimento-populacional?back=/track/take-blip-fullstack-developer-2">Desafios Intermediários C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">Take Blip Fullstack Developer #2</th>
+                <th colspan="3">Take Blip Fullstack Developer 2</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -534,7 +534,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/primeiros-passos-em-c-1/algorithm/tuitando?back=/track/everis-new-talents-2-net">Desafios Introdutórios com C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents #2 .NET</th>
+                <th colspan="3">everis New Talents 2 .NET</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -636,7 +636,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Desenvolvendo Algoritmos com C#</th>
             </tr>
             <tr>
-                <th colspan="3">GFT START_UNI 2021 #1</th>
+                <th colspan="3">GFT START_UNI 2021 1</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -665,7 +665,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/iniciando-a-programar-em-c/algorithm/dividindo-x-por-y?back=/track/gft-start-2-net">Iniciando a programar em C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT START #2 .NET</th>
+                <th colspan="3">GFT START 2 .NET</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -958,7 +958,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/primeiros-desafios-de-codigo-em-c/algorithm/mes?back=/track/everis-new-talents-2-net">Primeiros desafios com C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents #2 .NET</th>
+                <th colspan="3">everis New Talents 2 .NET</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -987,7 +987,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/primeiros-desafios-em-c/algorithm/distancia?back=/track/take-blip-fullstack-developer-2">Primeiros desafios em C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">Take Blip Fullstack Developer #2</th>
+                <th colspan="3">Take Blip Fullstack Developer 2</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1040,7 +1040,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/primeiros-passos-com-c/algorithm/distancia?back=/track/everis-new-talents-2-net">Primeiros passos com C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents #2 .NET</th>
+                <th colspan="3">everis New Talents 2 .NET</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -1220,10 +1220,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-iniciais-em-c/algorithm/maior-e-posicao?back=/track/everis-new-talents-3-net">Resolvendo Desafios Básicos em C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents #3 .NET</th>
+                <th colspan="3">everis New Talents 3 .NET</th>
             </tr>
             <tr>
-                <th colspan="3">NTT DATA New Talents #3 .NET</th>
+                <th colspan="3">NTT DATA New Talents 3 .NET</th>
             </tr>				
             <tr>
                 <th>Desafio</th>
@@ -1252,10 +1252,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-desafios-basicos-em-c/algorithm/ho-ho-ho?back=/track/everis-new-talents-3-net">Resolvendo Desafios Iniciais em C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents #3 .NET</th>
+                <th colspan="3">everis New Talents 3 .NET</th>
             </tr>
             <tr>
-                <th colspan="3">NTT DATA New Talents #3 .NET</th>
+                <th colspan="3">NTT DATA New Talents 3 .NET</th>
             </tr>			
             <tr>
                 <th>Desafio</th>
@@ -1284,10 +1284,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-desafios-intermediarios-em-c/algorithm/pum?back=/track/everis-new-talents-3-net">Resolvendo desafios Intermediários em C#</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents #3 .NET</th>
+                <th colspan="3">everis New Talents 3 .NET</th>
             </tr>
             <tr>
-                <th colspan="3">NTT DATA New Talents #3 .NET</th>
+                <th colspan="3">NTT DATA New Talents 3 .NET</th>
             </tr>				
             <tr>
                 <th>Desafio</th>
@@ -1563,140 +1563,6 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
     <summary><strong>Java</strong></summary>
     <br />
     <div align="left">
-        <!-- Aceleração Global Dev #15 GFT -->
-        <table border=1>
-            <tr>
-                <th colspan="3"><a href="">Aceleração Global Dev #15 GFT</a></th>
-            </tr>
-            <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/aceleracao-global-dev-15-gft/algorithm/calculo-simples?back=/tracks">Desafio Java</a></th>
-            </tr>                                              
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>Cálculo Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/C%C3%A1lculo%20Simples">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>   
-            <tr>
-                <td>Distância Entre Dois Pontos</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Dist%C3%A2ncia%20Entre%20Dois%20Pontos">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>              
-            <tr>
-                <td>Esfera</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Esfera">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>     
-            <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/aceleracao-global-dev-15-gft/algorithm/triangulo?back=/tracks">Desafios Básicos em Java</a></th>
-            </tr>                                              
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>Fibonacci Fácil</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafios%20B%C3%A1sicos%20em%20Java/Fibonacci%20F%C3%A1cil">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>   
-            <tr>
-                <td>Triângulo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafios%20B%C3%A1sicos%20em%20Java/Tri%C3%A2ngulo">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>                                         
-        </table>  
-		<!-- Aceleração Global Dev #18 GFT -->
-        <table border=1>
-            <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-18-gft/algorithm/copa?back=/tests/cf7627d9-f1d0-4713-a5a5-14134443e99b">Aceleração Global Dev #18 GFT</a></th>
-            </tr>
-            <tr>
-                <th colspan="3"></th>
-            </tr>                                                                            
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>Cachorros-Quentes</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Cachorros-Quentes">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>   
-            <tr>
-                <td>Copa</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Copa">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>  
-			<tr>
-                <td>Montanha-Russa</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Montanha-Russa">Código</a></td>
-                <td align="center">✔️</td>
-            </tr> 
-        </table> 		
-		<!-- Aceleração Global Dev Tonnie -->
-        <table border=1>
-            <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-volkswagen/algorithm/aproveite-a-oferta?back=/tests/5699e494-c66b-4f7b-8168-325afc6e100a">Aceleração Global Dev Tonnie</a></th>
-            </tr>
-            <tr>
-                <th colspan="3"></th>
-            </tr>                                                                            
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>Enjoy the Offer</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Enjoy%20the%20Offer">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>   
-            <tr>
-                <td>Exchanging Cards</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Exchanging%20Cards">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>  
-			<tr>
-                <td>Head or Tail</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Head%20or%20Tail">Código</a></td>
-                <td align="center">✔️</td>
-            </tr> 
-        </table> 		
-		<!-- Aceleração Global Dev Volkswagen -->
-        <table border=1>
-            <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-2-aceleracao-global-dev-volkswagen/algorithm/saltos-ornamentais?back=/tests/1bd13bfd-37d5-4c51-a38e-ed19fe73ad6e">Aceleração Global Dev Volkswagen</a></th>
-            </tr>
-            <tr>
-                <th colspan="3"></th>
-            </tr>                                                                            
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>Diving</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Diving">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>   
-            <tr>
-                <td>Jumping Frog</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Jumping%20Frog">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>  
-			<tr>
-                <td>Parenthesis Balance I</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Parenthesis%20Balance%20I">Código</a></td>
-                <td align="center">✔️</td>
-            </tr> 
-        </table>  
         <!-- Desafio Aritmético em Java -->
         <table border=1>
             <tr>
@@ -1845,13 +1711,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                    
         </table>  	
-        <!-- Desafios - GFT QA #1 -->
+        <!-- Desafios - GFT QA 1 -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-gft-start-3-java/algorithm/fases-da-lua?back=/track/gft-start-3-java">Desafios - GFT QA #1</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-gft-start-3-java/algorithm/fases-da-lua?back=/track/gft-start-3-java">Desafios - GFT QA 1</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT QA #1</th>
+                <th colspan="3">GFT QA 1</th>
             </tr>                                              
             <tr>
                 <th>Desafio</th>
@@ -1889,13 +1755,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>   			
         </table> 		
-        <!-- Desafios - GFT Start #3 Java -->
+        <!-- Desafios - GFT Start 3 Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-gft-start-3-java/algorithm/fases-da-lua?back=/track/gft-start-3-java">Desafios - GFT Start #3 Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-gft-start-3-java/algorithm/fases-da-lua?back=/track/gft-start-3-java">Desafios - GFT Start 3 Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT Start #3 Java</th>
+                <th colspan="3">GFT Start 3 Java</th>
             </tr>                                              
             <tr>
                 <th>Desafio</th>
@@ -1918,13 +1784,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                    
         </table> 
-        <!-- Desafios - GFT Start #4 Java -->
+        <!-- Desafios - GFT Start 4 Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-gft-start-4-java/algorithm/exibindo-numeros-pares?back=/track/gft-start-4-java">Desafios - GFT Start #4 Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-gft-start-4-java/algorithm/exibindo-numeros-pares?back=/track/gft-start-4-java">Desafios - GFT Start 4 Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT Start #4 Java</th>
+                <th colspan="3">GFT Start 4 Java</th>
             </tr>                                              
             <tr>
                 <th>Desafio</th>
@@ -1947,13 +1813,71 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                    
         </table> 		
- 		<!-- Desafios Aceleração Global Dev #20 - Cognizant -->
+        <!-- Desafio Java - Aceleração Global Dev #15 - GFT -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-aceleracao-global-dev-20-cognizant/algorithm/soma-de-impares-consecutivos-ii?back=/tests/c4b07b3a-0991-4727-a585-fed480de9e9c">Desafios Aceleração Global Dev #20 - Cognizant</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/aceleracao-global-dev-15-gft/algorithm/calculo-simples?back=/tracks">Desafio Java - Aceleração Global Dev #15 - GFT</a></th>
+            </tr> 
+            <tr>
+                <th colspan="3"><a href="">Aceleração Global Dev 15 GFT</a></th>
+            </tr>			
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
             </tr>
             <tr>
-                <th colspan="3">Aceleração Global Dev #20 Cognizant</th>
+                <td>Cálculo Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/C%C3%A1lculo%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Distância Entre Dois Pontos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Dist%C3%A2ncia%20Entre%20Dois%20Pontos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>              
+            <tr>
+                <td>Esfera</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Esfera">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                                           
+        </table>  
+		<!-- Desafios Java - Aceleração Global Dev #18 - GFT -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-18-gft/algorithm/copa?back=/tests/cf7627d9-f1d0-4713-a5a5-14134443e99b">Desafios Java - Aceleração Global Dev #18 - GFT</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev 18 GFT</th>
+            </tr>                                                                            
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Cachorros-Quentes</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Cachorros-Quentes">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Copa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Copa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+			<tr>
+                <td>Montanha-Russa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Montanha-Russa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+        </table> 	
+ 		<!-- Desafios Aceleração Global Dev 20 - Cognizant -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-aceleracao-global-dev-20-cognizant/algorithm/soma-de-impares-consecutivos-ii?back=/tests/c4b07b3a-0991-4727-a585-fed480de9e9c">Desafios Aceleração Global Dev 20 - Cognizant</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev 20 Cognizant</th>
             </tr>                                              
             <tr>
                 <th>Desafio</th>
@@ -1976,13 +1900,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                    
         </table>  		
- 		<!-- Desafios Aceleração Global Dev #20 Avanade -->
+ 		<!-- Desafios Aceleração Global Dev 20 Avanade -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-aceleracao-global-dev-20-avanade/algorithm/tipo-de-combustivel?back=/tests/9c9a9d07-0892-45ac-acf3-597211d6020c">Desafios Aceleração Global Dev #20 Avanade</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-aceleracao-global-dev-20-avanade/algorithm/tipo-de-combustivel?back=/tests/9c9a9d07-0892-45ac-acf3-597211d6020c">Desafios Aceleração Global Dev 20 Avanade</a></th>
             </tr>
             <tr>
-                <th colspan="3">Aceleração Global Dev #20 Avanade</th>
+                <th colspan="3">Aceleração Global Dev 20 Avanade</th>
             </tr>                                              
             <tr>
                 <th>Desafio</th>
@@ -2004,7 +1928,65 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20Avanade/Resto%20da%20Divis%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
-        </table>  
+        </table>  		
+		<!-- Desafios Java - Aceleração Global Dev Tonnie -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-volkswagen/algorithm/aproveite-a-oferta?back=/tests/5699e494-c66b-4f7b-8168-325afc6e100a">Desafios Java - Aceleração Global Dev Tonnie</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev Tonnie</th>
+            </tr>                                                                            
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Enjoy the Offer</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Enjoy%20the%20Offer">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Exchanging Cards</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Exchanging%20Cards">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+			<tr>
+                <td>Head or Tail</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Head%20or%20Tail">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+        </table> 		
+		<!-- Desafios Java - Aceleração Global Dev Volkswagen -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-2-aceleracao-global-dev-volkswagen/algorithm/saltos-ornamentais?back=/tests/1bd13bfd-37d5-4c51-a38e-ed19fe73ad6e">Desafios Java - Aceleração Global Dev Volkswagen</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev Volkswagen</th>
+            </tr>                                                                            
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Diving</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Diving">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Jumping Frog</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Jumping%20Frog">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
+			<tr>
+                <td>Parenthesis Balance I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Parenthesis%20Balance%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+        </table>  		
         <!-- Desafios Aritméticos em Java -->
         <table border=1>
             <tr>
@@ -2063,13 +2045,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>           
         </table>    
-        <!-- Desafios Básicos- GFT Start #3 Java -->
+        <!-- Desafios Básicos- GFT Start 3 Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-gft-start-3-java/algorithm/quantidade-de-numeros-positivos?back=/track/gft-start-3-java">Desafios Básicos- GFT Start #3 Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-gft-start-3-java/algorithm/quantidade-de-numeros-positivos?back=/track/gft-start-3-java">Desafios Básicos- GFT Start 3 Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT Start #3 Java</th>
+                <th colspan="3">GFT Start 3 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2092,13 +2074,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>           
         </table>  
-        <!-- Desafios Básicos - GFT Start #4 Java -->
+        <!-- Desafios Básicos - GFT Start 4 Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-gft-start-4-java/algorithm/area-do-circulo?back=/track/gft-start-4-java">Desafios Básicos- GFT Start #4 Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-gft-start-4-java/algorithm/area-do-circulo?back=/track/gft-start-4-java">Desafios Básicos- GFT Start 4 Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT Start #4 Java</th>
+                <th colspan="3">GFT Start 4 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2150,13 +2132,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>           
         </table>  			
-        <!-- Desafios Iniciais - GFT Start #3 Java -->
+        <!-- Desafios Iniciais - GFT Start 3 Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-iniciais-gft-start-3-java/algorithm/multiplicacao-simples?back=/track/gft-start-3-java">Desafios Iniciais - GFT Start #3 Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-iniciais-gft-start-3-java/algorithm/multiplicacao-simples?back=/track/gft-start-3-java">Desafios Iniciais - GFT Start 3 Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT Start #3 Java</th>
+                <th colspan="3">GFT Start 3 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2179,13 +2161,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>           
         </table>  	
-        <!-- Desafios Iniciais - GFT Start #4 Java -->
+        <!-- Desafios Iniciais - GFT Start 4 Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-iniciais-gft-start-4-java/algorithm/media-1?back=/track/gft-start-4-java">Desafios Iniciais - GFT Start #4 Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-iniciais-gft-start-4-java/algorithm/media-1?back=/track/gft-start-4-java">Desafios Iniciais - GFT Start 4 Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT Start #4 Java</th>
+                <th colspan="3">GFT Start 4 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2247,13 +2229,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>  			
         </table>  	
-        <!-- Desafios Intermediários - GFT Start #3 Java -->
+        <!-- Desafios Intermediários - GFT Start 3 Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-gft-start-3-java/algorithm/a-mensagem-do-padre-do-balao?back=/track/gft-start-3-java">Desafios Intermediários - GFT Start #3 Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-gft-start-3-java/algorithm/a-mensagem-do-padre-do-balao?back=/track/gft-start-3-java">Desafios Intermediários - GFT Start 3 Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT Start #3 Java</th>
+                <th colspan="3">GFT Start 3 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2276,13 +2258,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>           
         </table>  	
-        <!-- Desafios Intermediários - GFT Start #4 Java -->
+        <!-- Desafios Intermediários - GFT Start 4 Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-gft-start-4-java/algorithm/area-direita?back=/track/gft-start-4-java">Desafios Intermediários - GFT Start #4 Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-gft-start-4-java/algorithm/area-direita?back=/track/gft-start-4-java">Desafios Intermediários - GFT Start 4 Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT Start #4 Java</th>
+                <th colspan="3">GFT Start 4 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2305,13 +2287,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>           
         </table> 		
-        <!-- Desafios Java - Aceleração Global Dev #19 - GFT -->
+        <!-- Desafios Java - Aceleração Global Dev 19 - GFT -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-19-gft/algorithm/taxa-de-imposto-de-renda?back=/tests/50264a06-43f6-4412-b7a4-9ae8c4a86a3f">Desafios Java - Aceleração Global Dev #19 - GFT</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-19-gft/algorithm/taxa-de-imposto-de-renda?back=/tests/50264a06-43f6-4412-b7a4-9ae8c4a86a3f">Desafios Java - Aceleração Global Dev 19 - GFT</a></th>
             </tr>
             <tr>
-                <th colspan="3">Aceleração Global Dev #19 GFT</th>
+                <th colspan="3">Aceleração Global Dev 19 GFT</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2436,7 +2418,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>      
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-matematicos-em-java/algorithm/visita-na-feira?back=/track/gft-start-2-java">GFT START #2 Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-matematicos-em-java/algorithm/visita-na-feira?back=/track/gft-start-2-java">GFT START 2 Java</a></th>
             </tr>
             <tr>
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-matematicos-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere">everis New Talents - Java</a></th>
@@ -2561,7 +2543,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-para-iniciantes-em-java/algorithm/distancia?back=/track/mrv-fullstack-developer">Desafios para iniciantes em Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">NTT DATA Quality Assurance Beginner #3</th>
+                <th colspan="3">NTT DATA Quality Assurance Beginner 3</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2723,7 +2705,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">everis Quality Assurance Beginner</th>
             </tr>     
             <tr>
-                <th colspan="3">everis Quality Assurance Beginner #2</th>
+                <th colspan="3">everis Quality Assurance Beginner 2</th>
             </tr>   
             <tr>
                 <th colspan="3">everis Site Reliability Engineer Essentials</th>
@@ -2892,7 +2874,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-programacao-com-java-2/algorithm/tuitando?back=/track/everis-new-talents-2-java">Introdução a Programação em Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents #2 Java</th>
+                <th colspan="3">everis New Talents 2 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -2915,13 +2897,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>                      
         </table>    
-        <!-- Mais Desafios - GFT QA #1 -->
+        <!-- Mais Desafios - GFT QA 1 -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/mais-desafios-gft-qa-1/algorithm/media-1?back=/track/gft-quality-assurance-1">Mais Desafios - GFT QA #1</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/mais-desafios-gft-qa-1/algorithm/media-1?back=/track/gft-quality-assurance-1">Mais Desafios - GFT QA 1</a></th>
             </tr>
             <tr>
-                <th colspan="3">GFT QA #1</th>
+                <th colspan="3">GFT QA 1</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3041,7 +3023,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/primeiros-desafios-de-codigo-em-java-1/algorithm/mes?back=/track/everis-new-talents-2-java">Primeiros desafios de código com Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents #2 Java</th>
+                <th colspan="3">everis New Talents 2 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3070,7 +3052,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/primeiros-passos-em-java-2/algorithm/distancia?back=/track/everis-new-talents-2-java">Primeiros passos com Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents #2 Java</th>
+                <th colspan="3">everis New Talents 2 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3240,10 +3222,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 			    <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-java/algorithm/tamanho-da-placa?back=/track/everis-new-talents-3-java">Resolvendo Desafios Intermediários em Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents #3 Java</th>
+                <th colspan="3">everis New Talents 3 Java</th>
             </tr>
             <tr>
-                <th colspan="3">NTT DATA New Talents #3 Java</th>
+                <th colspan="3">NTT DATA New Talents 3 Java</th>
             </tr>			
             <tr>
                 <th>Desafio</th>
@@ -3272,10 +3254,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
 			    <th colspan="3"><a href="https://web.dio.me/coding/desafios-medios-em-java/algorithm/reservatorio-de-mel?back=/track/everis-new-talents-3-java">Resolvendo Desafios médios em Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">everis New Talents #3 Java</th>
+                <th colspan="3">everis New Talents 3 Java</th>
             </tr>
             <tr>
-                <th colspan="3">NTT DATA New Talents #3 Java</th>
+                <th colspan="3">NTT DATA New Talents 3 Java</th>
             </tr>				
             <tr>
                 <th>Desafio</th>
@@ -3304,7 +3286,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3">Solução de Problemas Básicos em Java</th>
             </tr>
             <tr>
-                <th colspan="3">GFT START_UNI 2021 #1</th>
+                <th colspan="3">GFT START_UNI 2021 1</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3415,7 +3397,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>    
             <tr>
-                <th colspan="3">GFT START #2 Java</th>
+                <th colspan="3">GFT START 2 Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3707,7 +3689,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-eduzz-fullstack-developer/algorithm/pneu?back=/track/eduzz-fullstack-developer-3">Desafios Básicos - Eduzz FullStack Developer</a></th>
             </tr>
             <tr>
-                <th colspan="3">Eduzz Fullstack Developer #3</th>
+                <th colspan="3">Eduzz Fullstack Developer 3</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3910,7 +3892,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-javascript-eduzz-fullstack-developer/algorithm/nome-no-formulario?back=/track/eduzz-fullstack-developer-3">Desafios Intermediários JavaScript - Eduzz FullStack Developer</a></th>
             </tr>
             <tr>
-                <th colspan="3">Eduzz Fullstack Developer #3</th>
+                <th colspan="3">Eduzz Fullstack Developer 3</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -3939,7 +3921,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-javascrip-eduzz-fullstack-developer/algorithm/notas-da-prova?back=/track/eduzz-fullstack-developer-3">Desafios JavaScript - Eduzz FullStack Developer</a></th>
             </tr>
             <tr>
-                <th colspan="3">Eduzz Fullstack Developer #3</th>
+                <th colspan="3">Eduzz Fullstack Developer 3</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -4469,7 +4451,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/primeiros-desafios-javascript/algorithm/folha-de-pagamento?back=/track/take-blip-fullstack-developer-2">Primeiros Desafios JavaScript</a></th>
             </tr>
             <tr>
-                <th colspan="3">Take Blip Fullstack Developer #2</th>
+                <th colspan="3">Take Blip Fullstack Developer 2</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -4683,7 +4665,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-desafios-em-javascript/algorithm/multiplos?back=/track/eduzz-fullstack-developer-2">Resolvendo Desafios Básicos em JavaScript</a></th>
             </tr>
             <tr>
-                <th colspan="3">Eduzz Fullstack Developer #2</th>
+                <th colspan="3">Eduzz Fullstack Developer 2</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -4712,7 +4694,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-desafios-em-javascript-1/algorithm/quadrado-de-pares?back=/track/eduzz-fullstack-developer-2">Resolvendo desafios em JavaScript</a></th>
             </tr>
             <tr>
-                <th colspan="3">Eduzz Fullstack Developer #2</th>
+                <th colspan="3">Eduzz Fullstack Developer 2</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -4741,7 +4723,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-desafios-intermediarios-em-javascript/algorithm/triangulo?back=/track/eduzz-fullstack-developer-2">Resolvendo Desafios Intermediários em JavaScript</a></th>
             </tr>
             <tr>
-                <th colspan="3">Eduzz Fullstack Developer #2</th>
+                <th colspan="3">Eduzz Fullstack Developer 2</th>
             </tr>
             <tr>
                 <th>Desafio</th>
