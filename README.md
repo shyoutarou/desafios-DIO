@@ -441,6 +441,64 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Desafios Impulso Iniciante - C# -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-impulso-iniciante-c/algorithm/distancia?back=/track/impulso-fullstack-web-developer&tab=undefined&moduleId=undefined">Desafios Impulso Iniciante - C#</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Impulso Fullstack Web Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Distância</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Impulso%20Iniciante%20-%20C%23/Dist%C3%A2ncia">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Dividindo X por Y</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Impulso%20Iniciante%20-%20C%23/Dividindo%20X%20por%20Y">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quanta Mandioca</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Impulso%20Iniciante%20-%20C%23/Quanta%20Mandioca">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>
+        <!-- Desafios Impulso Intermediários - C# -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-impulso-intermediarios-c/algorithm/idade-em-dias?back=/track/impulso-fullstack-web-developer&tab=undefined&moduleId=undefined">Desafios Impulso Intermediários - C#</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Impulso Fullstack Web Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Conversão de Tempo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Impulso%20Intermedi%C3%A1rios%20-%20C%23/Convers%C3%A3o%20de%20Tempo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Idade em Dias</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Impulso%20Intermedi%C3%A1rios%20-%20C%23/Idade%20em%20Dias">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tempo do Dobby</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Impulso%20Intermedi%C3%A1rios%20-%20C%23/Tempo%20do%20Dobby">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>		
         <!-- Desafios Iniciais - GFT Start 3 .NET -->
         <table border=1>
             <tr>
@@ -1928,7 +1986,36 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2320%20Avanade/Resto%20da%20Divis%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                    
-        </table>  		
+        </table>  
+        <!-- Desafios Aceleração Global Dev 22 - Avanade -->
+        <table border=1>
+            <tr>
+                <th colspan="3">Desafios Aceleração Global Dev 22 - Avanade</th>			
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev #22 Avanade</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Feliz Nataaal!</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Feliz%20Nataaal!">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Galopeira</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Galopeira">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tempo de Jogo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Tempo%20de%20Jogo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>		
 		<!-- Desafios Java - Aceleração Global Dev Tonnie -->
         <table border=1>
             <tr>
@@ -2102,7 +2189,65 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20B%C3%A1sicos%20-%20GFT%20Start%20%234%20Java/Visita%20na%20Feira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
-        </table>  		
+        </table>  
+        <!-- Desafios de Código Iniciais Java - Philips Developer -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-de-codigo-iniciais-java-philips-developer/algorithm/multiplicacao-simples?back=/track/philips-fullstack-developer&tab=undefined&moduleId=undefined">Desafios de Código Iniciais Java - Philips Developer</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Philips Fullstack Developer | You Are You</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Multiplicação Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20de%20C%C3%B3digo%20Iniciais%20Java%20-%20Philips%20Developer/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pink e Cérebro</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20de%20C%C3%B3digo%20Iniciais%20Java%20-%20Philips%20Developer/Pink%20e%20C%C3%A9rebro">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quadrado e ao Cubo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20de%20C%C3%B3digo%20Iniciais%20Java%20-%20Philips%20Developer/Quadrado%20e%20ao%20Cubo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>           
+        </table> 	
+        <!-- Desafios de Código Intermediários Java - Philips Developer -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-de-codigo-intermediarios-java-philips-developer/algorithm/notas-da-prova?back=/track/philips-fullstack-developer&tab=undefined&moduleId=undefined">Desafios de Código Intermediários Java - Philips Developer</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Philips Fullstack Developer | You Are You</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Notas da Prova</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Java%20-%20Philips%20Developer/Notas%20da%20Prova">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Sequência Lógica</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Java%20-%20Philips%20Developer/Sequ%C3%AAncia%20L%C3%B3gica">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tuitando</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Java%20-%20Philips%20Developer/Tuitando">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>           
+        </table>		
         <!-- Desafios em Java - Sportheca -->
         <table border=1>
             <tr>
@@ -3596,7 +3741,36 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafio%20Aritm%C3%A9tico%20em%20JavaScript/Positivos%20e%20M%C3%A9dia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
-        </table>    
+        </table>  
+        <!-- Desafios Aceleração Global Dev 22 - Avanade -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/aceleracao-global-dev-21-gft/algorithm/nome-no-formulario?back=/tests/eaf91050-c99d-43b1-aac0-31161739dbff">Desafios Aceleração Global Dev 22 - Avanade</a></th>			
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev #22 Avanade</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Brinquedos do Papai Noel</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Brinquedos%20do%20Papai%20Noel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Frota de Táxi</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Frota%20de%20T%C3%A1xi">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Nome no Formulário</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2322%20-%20Avanade/Nome%20no%20Formul%C3%A1rio">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>		
         <!-- Desafios Aritméticos em JavaScript -->
         <table border=1>
             <tr>
@@ -3769,7 +3943,138 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20c%C3%B3digo%20em%20JavaScript/Quantidade%20de%20Numeros%20Positivos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>    
+        </table>   
+        <!-- Desafios de Código Iniciais Js - Philips Developer -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-de-codigo-iniciais-philips-developer/algorithm/quantidade-de-numeros-positivos?back=/track/philips-fullstack-developer&tab=undefined&moduleId=undefined">Desafios de Código Iniciais Js - Philips Developer</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Philips Fullstack Developer | You Are You</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Álbum da Copa</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20C%C3%B3digo%20Iniciais%20Js%20-%20Philips%20Developer/%C3%81lbum%20da%20Copa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fases da Lua</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20C%C3%B3digo%20Iniciais%20Js%20-%20Philips%20Developer/Fases%20da%20Lua">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quantidade de Números Positivos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20C%C3%B3digo%20Iniciais%20Js%20-%20Philips%20Developer/Quantidade%20de%20N%C3%BAmeros%20Positivos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>   	
+        <!-- Desafios de Código Intermediários Js - Philips Developer -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-de-codigo-intermediarios-js-philips-developer/algorithm/idade-em-dias?back=/track/philips-fullstack-developer&tab=undefined&moduleId=undefined">Desafios de Código Intermediários Js - Philips Developer</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Philips Fullstack Developer | You Are You</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Idade em Dias</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Js%20-%20Philips%20Developer/Idade%20em%20Dias">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Ordenando Números Pares e Ímpares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Js%20-%20Philips%20Developer/Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Votação para Bobo da Corte</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Js%20-%20Philips%20Developer/Vota%C3%A7%C3%A3o%20para%20Bobo%20da%20Corte">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>   		
+        <!-- Desafios Impulso Iniciante - JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios/algorithm/fila-do-banco?back=/track/impulso-fullstack-web-developer&tab=undefined&moduleId=undefined">Desafios Impulso Iniciante - JavaScript</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Impulso Fullstack Web Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Batmain</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Impulso%20Iniciante%20-%20JavaScript/Batmain">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Blobs</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Impulso%20Iniciante%20-%20JavaScript/Blobs">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Fila do Banco</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Impulso%20Iniciante%20-%20JavaScript/Fila%20do%20Banco">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Nome no Formulário</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Impulso%20Iniciante%20-%20JavaScript/Nome%20no%20Formul%C3%A1rio">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Xadrez</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Impulso%20Iniciante%20-%20JavaScript/Xadrez">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>			
+        </table>	
+        <!-- Desafios Impulso Intermediario - JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-impulso-intermediario-javascript/algorithm/degustacao-de-vinho?back=/track/impulso-fullstack-web-developer&tab=undefined&moduleId=undefined">Desafios Impulso Intermediario - JavaScript</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Impulso Fullstack Web Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>A Corrida de Tartarugas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Impulso%20Intermediario%20-%20JavaScript/A%20Corrida%20de%20Tartarugas">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Consumo Médio do Automóvel</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Impulso%20Intermediario%20-%20JavaScript/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Degustação de vinho</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Impulso%20Intermediario%20-%20JavaScript/Degusta%C3%A7%C3%A3o%20de%20vinho">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pedro Bento e o Mundo de OZ</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Impulso%20Intermediario%20-%20JavaScript/Pedro%20Bento%20e%20o%20Mundo%20de%20OZ">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>			
+        </table>		
         <!-- Desafios iniciais em JavaScript -->
         <table border=1>
             <tr>
@@ -4702,6 +5007,11 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
+                <td>Frota de Táxi</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20desafios%20em%20JavaScript/Frota%20de%20T%C3%A1xi">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>			
+            <tr>
                 <td>Nossos Dias Nunca Voltarão</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20desafios%20em%20JavaScript/Nossos%20Dias%20Nunca%20Voltar%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
@@ -4715,7 +5025,12 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Resto 2</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20desafios%20em%20JavaScript/Resto%202">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>            
+            </tr>  
+            <tr>
+                <td>Xadrez</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Resolvendo%20desafios%20em%20JavaScript/Xadrez">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>			
         </table>   
         <!-- Resolvendo Desafios Intermediários em JavaScript -->
         <table border=1>
@@ -4999,6 +5314,35 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
     <summary><strong>Kotlin</strong></summary>
     <br />
     <div align="left">
+        <!-- Desafios Aceleração Global Dev 23 - TQI -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-aceleracao-global-dev-23-tqi/algorithm/quadrado-e-ao-cubo?back=/tests/09f2f0ab-a1fe-45a6-bf6a-7cf01d2dbfa1">Desafios Aceleração Global Dev 23 - TQI</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev #23 TQI</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>O jogo Matemático de Paula</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2323%20-%20TQI/O%20jogo%20Matem%C3%A1tico%20de%20Paula">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+            <tr>
+                <td>Quadrado e ao Cubo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2323%20-%20TQI/Quadrado%20e%20ao%20Cubo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Teste de Seleção 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Kotlin/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2323%20-%20TQI/Teste%20de%20Sele%C3%A7%C3%A3o%201">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>             
+        </table>  	
         <!-- Desafios Iniciantes em Kotlin -->
         <table border=1>
             <tr>
@@ -5415,6 +5759,93 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
     <summary><strong>Python</strong></summary>
     <br />
     <div align="left">
+        <!-- Desafios Finais Python - Cognizant Data Cloud Engineer 2 -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-em-python-cognizant-data-cloud-engineer-2/algorithm/numero-primo?back=/track/cognizant-cloud-data-engineer-2&tab=undefined&moduleId=undefined">Desafios Finais Python - Cognizant Data Cloud Engineer 2</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Cognizant Data Cloud Engineer 2</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Encaixa ou Não</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Finais%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Número Primo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Finais%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/N%C3%BAmero%20Primo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Preenchimento de Vetor I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Finais%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/Preenchimento%20de%20Vetor%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                
+        </table>   
+        <!-- Desafios Iniciais em Python - Cognizant Data Cloud Engineer 2 -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/outros-desafios-em-python-cognizant-data-cloud-engineer-2/algorithm/media-1?back=/track/cognizant-cloud-data-engineer-2&tab=undefined&moduleId=undefined">Desafios Iniciais em Python - Cognizant Data Cloud Engineer 2</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Cognizant Data Cloud Engineer 2</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Conversão de Tempo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Iniciais%20em%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/Convers%C3%A3o%20de%20Tempo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Média 1</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Iniciais%20em%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/M%C3%A9dia%201">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Triângulo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Iniciais%20em%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/Tri%C3%A2ngulo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                
+        </table>  
+        <!-- Desafios Intermediários Python - Cognizant Data Cloud Engineer 2 -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/mais-desafios-em-python-cognizant-data-cloud-engineer-2/algorithm/quantidade-de-numeros-positivos?back=/track/cognizant-cloud-data-engineer-2&tab=undefined&moduleId=undefined">Desafios Intermediários Python - Cognizant Data Cloud Engineer 2</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Cognizant Data Cloud Engineer 2</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Crescente e Decrescente</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Intermedi%C3%A1rios%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/Crescente%20e%20Decrescente">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Quantidade de Números Positivos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Intermedi%C3%A1rios%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/Quantidade%20de%20N%C3%BAmeros%20Positivos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Resto da Divisão</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Intermedi%C3%A1rios%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/Resto%20da%20Divis%C3%A3o">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                
+        </table>  		
         <!-- Desafios matemáticos em Python -->
         <table border=1>
             <tr>

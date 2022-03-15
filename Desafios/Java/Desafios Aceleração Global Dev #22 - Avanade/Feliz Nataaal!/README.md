@@ -1,5 +1,6 @@
 ## Desafio
 
+** FOI ALTERADO OS DESAFIOS DA ACELERAÇÃO, ANTES ERAM EXERCÍCIOS JAVA E TROCARAM POR JS
 Você fica tão feliz no natal que tem vontade de gritar para todo mundo: "Feliz natal!!". Pra colocar toda essa felicidade pra fora, você montou um programa que, colocado um índice I de felicidade, seu grito de natal é mais animado.
 
 ## Entrada
