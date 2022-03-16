@@ -142,17 +142,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Feliz Nataaal!</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Feliz%20Nataaal!">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Feliz%20Nataaal!">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Galopeira</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Galopeira">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Galopeira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Top N</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Top%20N">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Top%20N">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>   
@@ -171,17 +171,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Área</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/%C3%81rea">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/%C3%81rea">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Fatorial Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/Fatorial%20Simples">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/Fatorial%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>O Filme</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/O%20Filme">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/O%20Filme">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>   		
@@ -1877,7 +1877,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/coding/aceleracao-global-dev-15-gft/algorithm/calculo-simples?back=/tracks">Desafio Java - Aceleração Global Dev #15 - GFT</a></th>
             </tr> 
             <tr>
-                <th colspan="3"><a href="">Aceleração Global Dev 15 GFT</a></th>
+                <th colspan="3">Aceleração Global Dev 15 GFT</th>
             </tr>			
             <tr>
                 <th>Desafio</th>
@@ -1886,17 +1886,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Cálculo Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/C%C3%A1lculo%20Simples">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/C%C3%A1lculo%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Distância Entre Dois Pontos</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Dist%C3%A2ncia%20Entre%20Dois%20Pontos">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Dist%C3%A2ncia%20Entre%20Dois%20Pontos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>              
             <tr>
                 <td>Esfera</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Esfera">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2315%20GFT/Desafio%20Java/Esfera">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                                           
         </table>  
@@ -1915,17 +1915,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Cachorros-Quentes</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Cachorros-Quentes">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Cachorros-Quentes">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Copa</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Copa">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Copa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
 			<tr>
                 <td>Montanha-Russa</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Montanha-Russa">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2318%20GFT/Montanha-Russa">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
         </table> 	
@@ -2031,17 +2031,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Enjoy the Offer</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Enjoy%20the%20Offer">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Enjoy%20the%20Offer">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Exchanging Cards</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Exchanging%20Cards">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Exchanging%20Cards">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
 			<tr>
                 <td>Head or Tail</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Head%20or%20Tail">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Tonnie/Head%20or%20Tail">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
         </table> 		
@@ -2060,17 +2060,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Diving</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Diving">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Diving">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Jumping Frog</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Jumping%20Frog">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Jumping%20Frog">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
 			<tr>
                 <td>Parenthesis Balance I</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Parenthesis%20Balance%20I">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20Volkswagen/Parenthesis%20Balance%20I">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
         </table>  		
