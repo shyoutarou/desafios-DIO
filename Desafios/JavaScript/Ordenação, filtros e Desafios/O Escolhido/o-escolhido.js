@@ -23,7 +23,21 @@ com a mesma nota.
 
 Você deve imprimir o número do estudante que obteve a maior pontuação ou
 "Minimum note not reached" (sem aspas) caso nenhum estudante tenha tirado uma
-nota maior ou igual a 8. */
+nota maior ou igual a 8. 
+
+Exemplo de Entrada	Exemplo de Saída
+3
+1000 5
+1001 10
+1002 6				1001
+4
+900775 5.7
+201553 7.9
+5032 6.2
+2088 2.1			Minimum note not reached
+
+
+*/
 
 let n = parseInt(gets());
 let arrMat = Array(n);

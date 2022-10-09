@@ -20,3 +20,29 @@ Obs.: as notas não serão repetidas. Ou seja, não tem chance de ter dois aluno
 
 Você deve imprimir o número do estudante que obteve a maior pontuação ou "Minimum note not reached" (sem aspas) 
 caso nenhum estudante tenha tirado uma nota maior ou igual a 8.
+
+
+| Exemplo de Entrada | Exemplo de Saída|
+| ---|--- |
+| 3<br />1000 5<br />1001 10<br />1002 6 | 1001 |
+| 4<br />900775 5.7<br />201553 7.9<br />5032 6.2<br />2088 2.1 | Minimum note not reached |
+	
+```bash
+//TODO: Complete os espaços em branco com uma solução possível para o problema.
+let line = gets();
+let matricula;
+
+for(                  ){
+  line = gets();
+  line = line.split(" ")
+  if(parseFloat(       )>=     ){
+    matricula = line[  ]
+  }
+}
+
+if(      )
+ print(            )
+else
+  print("Minimum note not reached")
+
+```
