@@ -556,6 +556,40 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20.NET/Soma%20de%20Pares%20Consecutivos">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
+        </table>  	
+        <!-- Desafios Inicias C# - GFT Start #5 -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/gft-start-4-net/algorithm/mes?back=/track/gft-start-4-net">Desafios Inicias C - GFT Start 5</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">GFT Start 5 .NET</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Esfera</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20.NET/M%C3%AAs">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Maior e Posição</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20.NET/Quadrado%20e%20ao%20Cubo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Média 2</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20.NET/Soma%20de%20Pares%20Consecutivos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Polígonos Regulares Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20.NET/Soma%20de%20Pares%20Consecutivos">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>			
         </table>  		
         <!-- Desafios Intermediários C# -->
         <table border=1>
@@ -585,7 +619,41 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Intermedi%C3%A1rios%20C%23/Trigo%20no%20Tabuleiro">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>          
+        </table>   
+        <!-- Desafios Intermediários C# - GFT Start #5 -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-intermediarios-c-gft-start-5/algorithm/multiplicacao-simples?back=/track/gft-start-5-net&tab=undefined&moduleId=undefined">Desafios Intermediários C# - GFT Start 5</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">GFT Start 5 .NET</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Coxinha de Bueno</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Intermedi%C3%A1rios%20C%23/Crescimento%20Populacional">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Média 3</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Intermedi%C3%A1rios%20C%23/Preenchimento%20de%20Vetor%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Multiplicação Simples</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Intermedi%C3%A1rios%20C%23/Trigo%20no%20Tabuleiro">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pink e Cérebro</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Intermedi%C3%A1rios%20C%23/Trigo%20no%20Tabuleiro">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>			
+        </table> 		
        <!-- Desafios Introdutórios com C# -->
         <table border=1>
             <tr>
@@ -2350,17 +2418,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Diferença</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/Dama">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20Java%20-%20Carrefour%20Web%20Developer/Diferen%C3%A7a">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Idades</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20Java%20-%20Carrefour%20Web%20Developer/Idades">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/M%C3%A9dia%201">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20Java%20-%20Carrefour%20Web%20Developer/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table>
@@ -2413,22 +2481,22 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Álbum da Copa</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/Dama">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Inicias%20Java%20-%20GFT%20Start%20Woman/%C3%81lbum%20da%20Copa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Coxinha de Bueno</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Inicias%20Java%20-%20GFT%20Start%20Woman/Coxinha%20de%20Bueno">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Degustação de vinho</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/M%C3%A9dia%201">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Inicias%20Java%20-%20GFT%20Start%20Woman/Degusta%C3%A7%C3%A3o%20de%20vinho">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Multiplicação Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Iniciais%20-%20GFT%20Start%20%234%20Java/M%C3%A9dia%201">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Inicias%20Java%20-%20GFT%20Start%20Woman/Multiplica%C3%A7%C3%A3o%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 			
         </table>			
@@ -2544,17 +2612,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Análise De Números</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/F%C3%B3rmula%20de%20Bhaskara">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20Java%20-%20Carrefour%20Web%20Developer/An%C3%A1lise%20De%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>DDD</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/Taxa%20de%20Imposto%20de%20Renda">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20Java%20-%20Carrefour%20Web%20Developer/DDD">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Seis Números Ímpares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/Vai%20Ter%20Copa">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20Java%20-%20Carrefour%20Web%20Developer/Seis%20N%C3%BAmeros%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
         </table> 	
@@ -2607,22 +2675,22 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Esfera</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/F%C3%B3rmula%20de%20Bhaskara">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20Java%20-%20GFT%20Start%20Woman/Esfera">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Maior e Posição</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/Taxa%20de%20Imposto%20de%20Renda">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20Java%20-%20GFT%20Start%20Woman/Maior%20e%20Posi%C3%A7%C3%A3o">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Média 2</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/Vai%20Ter%20Copa">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20Java%20-%20GFT%20Start%20Woman/M%C3%A9dia%202">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
             <tr>
                 <td>Polígonos Regulares Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/Vai%20Ter%20Copa">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Intermedi%C3%A1rios%20Java%20-%20GFT%20Start%20Woman/Pol%C3%ADgonos%20Regulares%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>			
         </table> 		
@@ -2654,7 +2722,36 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/Vai%20Ter%20Copa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>           
-        </table>  		
+        </table>  
+        <!-- Desafios Java - Aceleração Global Dev #25 - Cognizant -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-25-cognizant/algorithm/exercicio-de-historia?back=/tests/59a45c70-d1a9-45b0-8ed8-61d99bf10804">Desafios Java - Aceleração Global Dev 25 - Cognizant</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Aceleração Global Dev 25 Cognizant</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Exercício de História</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/F%C3%B3rmula%20de%20Bhaskara">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Foto Anual</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/Taxa%20de%20Imposto%20de%20Renda">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Voleibol</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Java%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2319%20-%20GFT/Vai%20Ter%20Copa">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 			
+        </table> 			
         <!-- Desafios Java Developer -->
         <table border=1>
             <tr>
@@ -2962,8 +3059,79 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Vogais Extraterrestres</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafios%20Sportheca/Vogais%20Extraterrestres">Código</a></td>
                 <td align="center">✔️</td>
-            </tr> 			
-        </table>   		
+            </tr>
+        </table>
+        <!-- Desafios TQI - Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-tqi-java/algorithm/teste-2?back=/track/tqi-fullstack-developer&tab=undefined&moduleId=undefined">Desafios TQI - Java</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">TQI Fullstack Developer</th>
+            </tr>                               
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>De Quem é a Vez</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Distância Entre Dois Pontos</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Entrada%20e%20Sa%C3%ADda%20CPF">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Duas Notas</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>    
+            <tr>
+                <td>Proibido a entrada de menores!</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Entrada%20e%20Sa%C3%ADda%20CPF">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Quem pagará a conta</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   			
+        </table>		
+        <!-- Iniciando a programação em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/iniciando-a-programacao-em-java/algorithm/exibindo-numeros-pares?back=/track/code-anywhere">Iniciando a programação em Java</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Code Anywhere</th>
+            </tr>    
+            <tr>
+                <th colspan="3">everis Quality Assurance Beginner</th>
+            </tr>                               
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>DDD</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Entrada e Saída CPF</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Entrada%20e%20Sa%C3%ADda%20CPF">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Exibindo Números Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                    
+        </table>  		
         <!-- Fundamentos Aritméticos em Java -->
         <table border=1>
             <tr>
@@ -4211,17 +4379,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Fibonacci Rápido</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Js%20-%20Philips%20Developer/Idade%20em%20Dias">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Finais%20Js%20-%20Spread%20FullStack/Fibonacci%20R%C3%A1pido">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Galopeira</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Js%20-%20Philips%20Developer/Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Finais%20Js%20-%20Spread%20FullStack/Galopeira">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Idades</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20de%20C%C3%B3digo%20Intermedi%C3%A1rios%20Js%20-%20Philips%20Developer/Vota%C3%A7%C3%A3o%20para%20Bobo%20da%20Corte">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Finais%20Js%20-%20Spread%20FullStack/Idades">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>  		
@@ -4371,22 +4539,22 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Soma Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript/Intervalo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript%20-%20%C3%93rbi%20Web%20Game/Soma%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript/Tabuada">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript%20-%20%C3%93rbi%20Web%20Game/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Saída 1</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript%20-%20%C3%93rbi%20Web%20Game/Sa%C3%ADda%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Coxinha de Bueno</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript%20-%20%C3%93rbi%20Web%20Game/Coxinha%20de%20Bueno">Código</a></td>
                 <td align="center">✔️</td>
             </tr>			
         </table> 	
@@ -4405,17 +4573,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Ho Ho Ho</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript/Intervalo">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20Js%20-%20Spread%20FullStack/Ho%20Ho%20Ho">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Mês</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript/Tabuada">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20Js%20-%20Spread%20FullStack/M%C3%AAs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Soma Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20JavaScript/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Iniciais%20Js%20-%20Spread%20FullStack/Soma%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>			
         </table> 		
@@ -4521,27 +4689,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Análise de Números</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Compras%20no%20Supermercado">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20%C3%93rbi%20Web%20Game/An%C3%A1lise%20de%20N%C3%BAmeros">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Brinquedos do Papai Noel</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Nome%20no%20Formul%C3%A1rio">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20%C3%93rbi%20Web%20Game/Brinquedos%20do%20Papai%20Noel">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Exibindo números Pares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20%C3%93rbi%20Web%20Game/Exibindo%20n%C3%BAmeros%20Pares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>O Escolhido</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Nome%20no%20Formul%C3%A1rio">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20%C3%93rbi%20Web%20Game/O%20Escolhido">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Quadrado e ao Cubo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20%C3%93rbi%20Web%20Game/Quadrado%20e%20ao%20Cubo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>			
         </table>
@@ -4560,17 +4728,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Esfera</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Compras%20no%20Supermercado">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20Js%20-%20Carrefour%20Web%20Developer/Esfera">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Ordenando Números Pares e Ímpares</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Nome%20no%20Formul%C3%A1rio">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20Js%20-%20Carrefour%20Web%20Developer/Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Ultrapassando V</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20Js%20-%20Carrefour%20Web%20Developer/Ultrapassando%20V">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>		
@@ -4589,17 +4757,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Preenchimento de Vetor I</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Compras%20no%20Supermercado">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20Js%20-%20Spread%20FullStack/Preenchimento%20de%20Vetor%20I">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Saída 1</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Nome%20no%20Formul%C3%A1rio">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20Js%20-%20Spread%20FullStack/Sa%C3%ADda%201">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Tuitando</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Intermedi%C3%A1rios%20Js%20-%20Spread%20FullStack/Tuitando">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table> 		
@@ -4647,17 +4815,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Intervalo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Blobs">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Js%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2324%20-%20Avanade/Intervalo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Folha de Pagamento</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Contagem%20de%20C%C3%A9dulas">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Js%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2324%20-%20Avanade/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Xadrez</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20JavaScript%20-%20Eduzz%20FullStack%20Developer/Notas%20da%20Prova">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20Js%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2324%20-%20Avanade/Xadrez">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table> 		
@@ -4791,6 +4959,50 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/Teorema%20da%20Divis%C3%A3o%20Euclidiana">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
+        </table>  	
+        <!-- Desafios TQI - JavaScript  -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-tqi-javascript/algorithm/dragao?back=/track/tqi-fullstack-developer&tab=undefined&moduleId=undefined">Desafios TQI - JavaScript</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">TQI Fullstack Developer</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Arrays Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/Fases%20da%20Lua">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Contagem de partidas no torneio</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/Pol%C3%ADgonos%20Regulares%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Dragão!</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/Teorema%20da%20Divis%C3%A3o%20Euclidiana">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Arrays Pares</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/Fases%20da%20Lua">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>papalegua</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/Pol%C3%ADgonos%20Regulares%20Simples">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Soma de números naturais</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript/Desafios%20M%C3%A9dios%20JavaScript/Teorema%20da%20Divis%C3%A3o%20Euclidiana">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>			
         </table>  		
         <!-- Desenvolvimento de Problemas Avançados em JavaScript -->
         <table border=1>
